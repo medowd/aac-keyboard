@@ -1,0 +1,16 @@
+Starting keyboard: 5.7936454
+0: [p, q, u, g, h, j, m]
+1: [f, i, k]
+2: [b, t, n]
+3: [r, s, v, w, x, y, z, l]
+4: [a, c, e]
+5: [d, o]
+
+---TOP KEYBOARD---
+Cost: 5.534491
+0: [s, d, u, x, y]
+1: [a, b, v, w, z, k]
+2: [c, j, n, o]
+3: [q, r, t, h]
+4: [p, i, l]
+5: [e, f, g, m]

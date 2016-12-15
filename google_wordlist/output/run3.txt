@@ -1,0 +1,164 @@
+BREEDING
+
+Initializing keyboards....
+Keyboards initialized.
+
+Cost: 5.6783175
+0: [e, h]
+1: [b, s, x, i, y, m]
+2: [p, c, d, n]
+3: [r, g, z, o]
+4: [q, t, f]
+5: [a, v, j, k]
+6: [u, w, l]
+
+Cost: 6.7904816
+0: [a, u, f, w, z, k, n]
+1: [y, i, l]
+2: [g]
+3: [b, s, c, t, m]
+4: [d, j]
+5: [e, v, x, o]
+6: [p, q, r, h]
+
+Cost: 7.005506
+0: [c, u, o]
+1: [x]
+2: [b, d, f, w]
+3: [a, r, g, i, z, k]
+4: [q, t, e, m, n]
+5: [p, s, v, j, l]
+6: [h, y]
+
+Cost: 9.556665
+0: [p, r, s, e, g, h, l, m]
+1: [u, k]
+2: [b, t, o]
+3: [v, x, y, j]
+4: [q, z]
+5: [a, c, d, w, n]
+6: [f, i]
+
+---EVOLUTION LEVEL 1---
+
+Cost: 5.6783175
+0: [e, h]
+1: [b, s, x, i, y, m]
+2: [p, c, d, n]
+3: [r, g, z, o]
+4: [q, t, f]
+5: [a, v, j, k]
+6: [u, w, l]
+
+Cost: 5.945118
+0: [c, u, o]
+1: [e]
+2: [b, d, f, w]
+3: [a, r, g, i, z, k]
+4: [q, t, x, m, n]
+5: [s, v, j, l]
+6: [p, h, y]
+
+Cost: 6.7904816
+0: [a, u, f, w, z, k, n]
+1: [y, i, l]
+2: [g]
+3: [b, s, c, t, m]
+4: [d, j]
+5: [e, v, x, o]
+6: [p, q, r, h]
+
+Cost: 7.005506
+0: [c, u, o]
+1: [x]
+2: [b, d, f, w]
+3: [a, r, g, i, z, k]
+4: [q, t, e, m, n]
+5: [p, s, v, j, l]
+6: [h, y]
+
+---EVOLUTION LEVEL 2---
+
+Cost: 5.6783175
+0: [e, h]
+1: [b, s, x, i, y, m]
+2: [p, c, d, n]
+3: [r, g, z, o]
+4: [q, t, f]
+5: [a, v, j, k]
+6: [u, w, l]
+
+Cost: 5.945118
+0: [c, u, o]
+1: [e]
+2: [b, d, f, w]
+3: [a, r, g, i, z, k]
+4: [q, t, x, m, n]
+5: [s, v, j, l]
+6: [p, h, y]
+
+Cost: 5.999528
+0: [c, u, f, o]
+1: [e]
+2: [b, d, w, z]
+3: [a, r, g, i, k]
+4: [t, x, m, n]
+5: [q, v, j, l]
+6: [p, s, h, y]
+
+Cost: 6.550957
+0: [a, u, f, w, z, k, n]
+1: [b, y, i, l]
+2: [g]
+3: [s, c, t, m]
+4: [d, j]
+5: [e, v, x, o]
+6: [p, q, r, h]
+
+---EVOLUTION LEVEL 3---
+
+Cost: 5.6783175
+0: [e, h]
+1: [b, s, x, i, y, m]
+2: [p, c, d, n]
+3: [r, g, z, o]
+4: [q, t, f]
+5: [a, v, j, k]
+6: [u, w, l]
+
+Cost: 5.7575297
+0: [c, u, f, o]
+1: [e, i]
+2: [b, d, w, z]
+3: [a, r, g, k]
+4: [t, x, y, m, n]
+5: [q, v, j, l]
+6: [p, s, h]
+
+Cost: 5.8508782
+0: [c, u, f, o]
+1: [e, n]
+2: [b, d, w, z]
+3: [a, r, g, i, k]
+4: [t, x, m]
+5: [q, v, j, l]
+6: [p, s, h, y]
+
+Cost: 5.872441
+0: [u, f, w, z, k]
+1: [a, b, y, l]
+2: [g, i]
+3: [s, c, t, m]
+4: [d, j, n]
+5: [e, v, x, o]
+6: [p, q, r, h]
+
+---TOP KEYBOARD AFTER 3 GENERATIONS---
+Cost: 5.6783175
+0: [e, h]
+1: [b, s, x, i, y, m]
+2: [p, c, d, n]
+3: [r, g, z, o]
+4: [q, t, f]
+5: [a, v, j, k]
+6: [u, w, l]

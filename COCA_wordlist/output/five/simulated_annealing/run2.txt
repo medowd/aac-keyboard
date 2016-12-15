@@ -1,0 +1,80 @@
+Temp = 1000.0
+Starting keyboard: 3.4729087
+0: [r, t, h]
+1: [p, a, w, k, n]
+2: [q, c, d, v, x, z, o]
+3: [b, s, e, m]
+4: [u, f, g, i, y, j, l]
+
+---TOP KEYBOARD---
+Cost: 3.4694679
+0: [b, s, e, f]
+1: [p, a, d, g, j, z, k]
+2: [r, t, u, h]
+3: [c, w, i, n]
+4: [q, v, x, y, l, m, o]
+
+Temp = 1000.0
+Starting keyboard: 3.4729087
+0: [r, t, h]
+1: [p, a, w, k, n]
+2: [q, c, d, v, x, z, o]
+3: [b, s, e, m]
+4: [u, f, g, i, y, j, l]
+
+---TOP KEYBOARD---
+Cost: 3.4729087
+0: [r, t, h]
+1: [p, a, w, k, n]
+2: [q, c, d, v, x, z, o]
+3: [b, s, e, m]
+4: [u, f, g, i, y, j, l]
+
+Temp = 1000.0
+Starting keyboard: 3.4729087
+0: [r, t, h]
+1: [p, a, w, k, n]
+2: [q, c, d, v, x, z, o]
+3: [b, s, e, m]
+4: [u, f, g, i, y, j, l]
+
+---TOP KEYBOARD---
+Cost: 3.4729087
+0: [r, t, h]
+1: [p, a, w, k, n]
+2: [q, c, d, v, x, z, o]
+3: [b, s, e, m]
+4: [u, f, g, i, y, j, l]
+
+Temp = 1000.0
+Starting keyboard: 3.4729087
+0: [r, t, h]
+1: [p, a, w, k, n]
+2: [q, c, d, v, x, z, o]
+3: [b, s, e, m]
+4: [u, f, g, i, y, j, l]
+
+---TOP KEYBOARD---
+Cost: 3.4709425
+0: [c, d, x, l, o]
+1: [s, u, g, i, y, j]
+2: [q, b, t, e, v]
+3: [a, f, m, n]
+4: [p, r, w, h, z, k]
+
+Temp = 1000.0
+Starting keyboard: 3.4729087
+0: [r, t, h]
+1: [p, a, w, k, n]
+2: [q, c, d, v, x, z, o]
+3: [b, s, e, m]
+4: [u, f, g, i, y, j, l]
+
+---TOP KEYBOARD---
+Cost: 3.4729087
+0: [r, t, h]
+1: [p, a, w, k, n]
+2: [q, c, d, v, x, z, o]
+3: [b, s, e, m]
+4: [u, f, g, i, y, j, l]
+

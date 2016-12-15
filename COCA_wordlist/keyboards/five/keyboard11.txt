@@ -1,0 +1,6 @@
+3.447471
+0:c,d,x,l,o
+1:s,u,g,i,y,j
+2:q,b,t,e,v
+3:a,f,m,n
+4:p,r,w,h,z,k

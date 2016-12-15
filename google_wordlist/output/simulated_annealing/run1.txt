@@ -1,0 +1,50 @@
+Starting keyboard: 4.9284506
+0: [w, g, y]
+1: [p, f]
+2: [d, i, z, n]
+3: [s, e, j, l, o]
+4: [b, c, v, x, h, m]
+5: [a, q, r, t, u, k]
+
+Current keyboard: 4.5071034
+0: [c, e, w]
+1: [b, d, n]
+2: [r, f, i]
+3: [p, q, s, u, v, k, l]
+4: [a, g, h, y, j, z, m]
+5: [t, x, o]
+
+Top keyboard: 4.456267
+0: [c, e, v, w]
+1: [p, q, d, n]
+2: [r, b, f, i]
+3: [s, u, x, k, l]
+4: [a, h, y, z, j, m]
+5: [t, g, o]
+
+Top keyboard: 4.427906
+0: [d, e, w, y, j]
+1: [p, r, f, g]
+2: [q, b, h, i, n]
+3: [s, u, x, z, l]
+4: [a, t, v]
+5: [c, k, m, o]
+
+Top keyboard: 4.4265413
+0: [d, e, w, j, z]
+1: [p, r, f, g, x]
+2: [q, b, h, i, n]
+3: [s, u, y, l]
+4: [a, t, v]
+5: [c, k, m, o]
+
+Top keyboard: 4.4251833
+0: [d, e, w, j, z]
+1: [p, r, f, g]
+2: [q, b, h, i, n]
+3: [s, u, x, y, l]
+4: [a, t, v]
+5: [c, k, m, o]
+
+
+

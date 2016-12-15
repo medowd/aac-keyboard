@@ -1,0 +1,87 @@
+Temp = 1000.0
+Top keyboard: 6.2627025
+0: [t, v, x, i, z]
+1: [q, b, s, u, e, g, y, l, n]
+2: [d, f, h, j, k]
+3: [p, r, w, m, o]
+4: [a, c]
+Current keyboard: 6.2627025
+0: [t, v, x, i, z]
+1: [q, b, s, u, e, g, y, l, n]
+2: [d, f, h, j, k]
+3: [p, r, w, m, o]
+4: [a, c]
+
+---TOP KEYBOARD---
+Cost: 5.8507433
+0: [t, d, f, z, o]
+1: [s, g, i, m]
+2: [p, q, e, x, j, l]
+3: [a, r, v, w, y]
+4: [b, c, u, h, k, n]
+
+Temp = 1000.0
+Top keyboard: 6.1599135
+0: [r, s, w, g, i, j, l]
+1: [f, h, y, m, o]
+2: [a, q, b, e, k]
+3: [p, d, v, z]
+4: [c, t, u, x, n]
+Current keyboard: 6.1599135
+0: [r, s, w, g, i, j, l]
+1: [f, h, y, m, o]
+2: [a, q, b, e, k]
+3: [p, d, v, z]
+4: [c, t, u, x, n]
+
+---TOP KEYBOARD---
+Cost: 5.8407435
+0: [a, t, k, m]
+1: [p, r, u, g, h, x]
+2: [c, v, y, z, l, o]
+3: [s, w, i, j, n]
+4: [q, b, d, e, f]
+
+Temp = 1000.0
+Top keyboard: 5.929967
+0: [p, q, u, g, y, o]
+1: [a, t, v, f, w, z, k]
+2: [b, e, h, l]
+3: [r, c, d, x]
+4: [s, i, j, m, n]
+Current keyboard: 5.929967
+0: [p, q, u, g, y, o]
+1: [a, t, v, f, w, z, k]
+2: [b, e, h, l]
+3: [r, c, d, x]
+4: [s, i, j, m, n]
+
+---TOP KEYBOARD---
+Cost: 5.8635077
+0: [r, d, u, g, h, y]
+1: [a, b, k, m, n]
+2: [p, s, x, i]
+3: [q, t, e, f, j]
+4: [c, v, w, z, l, o]
+
+Temp = 1000.0
+Top keyboard: 6.025264
+0: [c, w, h, x, i, l]
+1: [r, t, f]
+2: [b, k, m, n]
+3: [a, q, s, d, j, o]
+4: [p, u, e, v, g, y, z]
+Current keyboard: 6.025264
+0: [c, w, h, x, i, l]
+1: [r, t, f]
+2: [b, k, m, n]
+3: [a, q, s, d, j, o]
+4: [p, u, e, v, g, y, z]
+
+---TOP KEYBOARD---
+Cost: 5.8421106
+0: [t, f, z, j, k, o]
+1: [r, c, e, w]
+2: [a, s, y, m]
+3: [p, g, x, i, l]
+4: [q, b, d, u, v, h, n]

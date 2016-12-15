@@ -1,0 +1,5500 @@
+| word0 | word1 | word2 | n -> |
+|[f, x, h, z]|[v, y, j, m, o]|[p, r, b, c, u, e, i]|
+| ' |[a, s, t, w, k, n]|[q, d, g, l]| _ |
+Cost: 1.3276735672034186
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, f, h, k, m]|[d, l, o]|[b, c, t, u, x, y]|
+| ' |[a, s, w, z, n]|[p, q, r, v, g, i, j]| _ |
+Cost: 0.7064558056240243
+
+| word0 | word1 | word2 | n -> |
+|[r, e, h, l]|[b, x, y, z, o]|[a, c, u, v, w, k]|
+| ' |[q, s, f, i, m]|[p, t, d, g, j, n]| _ |
+Cost: 1.190922447924805
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, g, h, j]|[b, t, u, y]|[w, x, z, n, o]|
+| ' |[q, f, v, i, k, l, m]|[p, a, r, c, d]| _ |
+Cost: 0.7322436072947485
+
+| word0 | word1 | word2 | n -> |
+|[t, e, v, w, i, n]|[p, s, f, x, z]|[a, r, c, u, h, y, k, o]|
+| ' |[q, b, d, j, m]|[g, l]| _ |
+Cost: 1.7885554688178498
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, w, k, n]|[r, s, f, x, i, j, z]|[p, c, t, u, h, y]|
+| ' |[q, b, d, l, o]|[e, v, g, m]| _ |
+Cost: 0.7027636880652085
+
+| word0 | word1 | word2 | n -> |
+|[d, f, w, i, j, k]|[p, u, h, z, l, m]|[q, t, e, n]|
+| ' |[r, c, s, v, x, y]|[a, b, g, o]| _ |
+Cost: 1.2516478408935754
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, f, w, i, k]|[e, g, x, z, m]|[p, a, q, d, n]|
+| ' |[t, u, v, h, y]|[r, b, c, j, l, o]| _ |
+Cost: 0.6998829343963536
+
+| word0 | word1 | word2 | n -> |
+|[q, x, z, o]|[a, r, b, s, e, f, y, n]|[u, v, i, k]|
+| ' |[p, c, g, h, j, l, m]|[d, t, w]| _ |
+Cost: 1.5686348620516535
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, t, h, k, o]|[a, b, c, f, y]|[p, s, x, i, z, n]|
+| ' |[e, u, v, g, j, m]|[r, d, w, l]| _ |
+Cost: 0.7241168657956703
+
+| word0 | word1 | word2 | n -> |
+|[q, b, d, z]|[c, t, w, j, l]|[r, v, f, k, m, o]|
+| ' |[s, x, n]|[p, a, e, u, g, h, i, y]| _ |
+Cost: 1.6091172974459038
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, d, e, f]|[a, r, g, w, j, z]|[v, l, m, o]|
+| ' |[p, s, x, i, k, n]|[c, t, u, h, y]| _ |
+Cost: 0.6720523601015699
+
+| word0 | word1 | word2 | n -> |
+|[q, r, d, h]|[b, s, t, v, z, o]|[c, e, u, y, l]|
+| ' |[p, a, f, w, k, n]|[g, x, i, j, m]| _ |
+Cost: 1.093362307968876
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, h, x, n]|[r, b, z, k, o]|[t, v, i, y, l]|
+| ' |[p, a, d, f, w]|[c, e, u, g, j, m]| _ |
+Cost: 0.6897889389290254
+
+| word0 | word1 | word2 | n -> |
+|[d, u, e, f, g, m]|[b, c, v, h, k, n, o]|[r, s, t, w, x, y, i, l]|
+| ' |[q, j, z]|[p, a]| _ |
+Cost: 2.0082611788830347
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, u, f, m]|[c, h, x, z, n, o]|[v, g, w, i, y, j, l]|
+| ' |[q, b, s, e, k]|[a, r, t]| _ |
+Cost: 0.6692201594403746
+
+| word0 | word1 | word2 | n -> |
+|[a, c, s, d, t, v]|[i, n, o]|[q, b, e, h, y, j]|
+| ' |[p, f, g, z, k, l]|[r, u, w, x, m]| _ |
+Cost: 1.3344908478774617
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, e, v, h, j]|[x, m, n, o]|[q, b, s, i, y, z, l]|
+| ' |[p, a, c, t, k]|[r, u, f, g, w]| _ |
+Cost: 0.7365659170066419
+
+| word0 | word1 | word2 | n -> |
+|[c, t, d]|[a, r, s, u, e, x, z, j, l]|[w, g, i, k, n]|
+| ' |[q, b, v, y, m, o]|[p, f, h]| _ |
+Cost: 1.1537222766088846
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, e, m]|[r, s, u, i, j, z, k]|[a, g, w, n]|
+| ' |[q, b, v, x, y, l, o]|[c, t, f, h]| _ |
+Cost: 0.7464011104629885
+
+| word0 | word1 | word2 | n -> |
+|[p, s, c, t, u, y, z]|[d, j]|[a, g, k, n]|
+| ' |[h, x, m, o]|[q, r, b, e, f, v, w, i, l]| _ |
+Cost: 1.3603575284706397
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, i, y, z]|[b, c, t, e, v]|[p, a, k, n]|
+| ' |[d, h, l, m, o]|[r, u, f, g, w, x, j]| _ |
+Cost: 0.6961943912903995
+
+| word0 | word1 | word2 | n -> |
+|[p, e, u, w, g, m]|[b, s, f, h, k, o]|[d, i, z]|
+| ' |[q, c, v, y, n]|[a, r, t, x, j, l]| _ |
+Cost: 1.0812238954143243
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, u, g, w, x, j, n]|[f, k, l, m, o]|[s, e, h, z]|
+| ' |[q, b, c, d, v, i, y]|[a, r, t]| _ |
+Cost: 0.6915872145702158
+
+| word0 | word1 | word2 | n -> |
+|[x, y]|[r, t, v, w, g, i, j, l, n, o]|[q, b, c, d, u, h, z, k]|
+| ' |[p, a]|[s, e, f, m]| _ |
+Cost: 1.7799418536203022
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, h]|[v, g, w, x, l, o]|[p, q, b, u, j, z, k, n]|
+| ' |[a, r, c, d, y]|[t, f, i, m]| _ |
+Cost: 0.7142539959322798
+
+| word0 | word1 | word2 | n -> |
+|[w, j, l, n]|[p, q, s, e, y, o]|[a, b, v, g, x, m]|
+| ' |[t, f, h, i, z, k]|[r, c, d, u]| _ |
+Cost: 1.113265405287232
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, w, x, j, n]|[q, s, z, l, o]|[p, r, b, v, g, i, y]|
+| ' |[c, t, u, h, k]|[d, e, f, m]| _ |
+Cost: 0.68360903941861
+
+| word0 | word1 | word2 | n -> |
+|[a, q, u, i, l, n]|[r, s, t, w, g, y, j, o]|[c, e, x, z]|
+| ' |[b, v, h, k]|[p, d, f, m]| _ |
+Cost: 1.61930475153779
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, q, z, l, n]|[c, g, y, j, o]|[r, t, u, h]|
+| ' |[b, s, e, x, k]|[d, f, v, w, i, m]| _ |
+Cost: 0.7157551058250966
+
+| word0 | word1 | word2 | n -> |
+|[q, u, f, x, h, i, k, n]|[r, b, v]|[p, s, c, w, m]|
+| ' |[t, z, l, o]|[a, d, e, g, y, j]| _ |
+Cost: 1.189348496263186
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, t, u, h]|[b, s, e, f, j, z]|[v, w, x, i, m, n]|
+| ' |[c, d, l, o]|[p, a, r, g, y, k]| _ |
+Cost: 0.658555245101227
+
+| word0 | word1 | word2 | n -> |
+|[b, c, e, g, w, i, j, k]|[o]|[q, t, z]|
+| ' |[a, s, d, v, h, x, l, n]|[p, r, u, f, y, m]| _ |
+Cost: 1.296373678045337
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, w, j, n]|[r, c, x, k, o]|[p, q, t, i, z, m]|
+| ' |[s, u, f, h, l]|[a, b, d, v, y]| _ |
+Cost: 0.6828222639191225
+
+| word0 | word1 | word2 | n -> |
+|[c, d, j, n, o]|[r, t, v, g, z, k, m]|[b, h, y, i, l]|
+| ' |[q, s, e, x]|[p, a, u, f, w]| _ |
+Cost: 1.0037051201165728
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, h, j, k, n, o]|[p, a, v, g, w, y]|[b, s, f, x, i, z]|
+| ' |[q, d, e, m]|[r, t, u, l]| _ |
+Cost: 0.6649686019697034
+
+| word0 | word1 | word2 | n -> |
+|[c, u, m]|[p, g, w, h, x, k, o]|[i, z, l]|
+| ' |[q, r, s, t, e, v, f, n]|[a, b, d, y, j]| _ |
+Cost: 1.6069738574097676
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, h, n]|[g, k, l, o]|[p, r, t, i, j, z]|
+| ' |[q, s, u, f, w, x, m]|[a, b, c, d, v, y]| _ |
+Cost: 0.7159485863833591
+
+| word0 | word1 | word2 | n -> |
+|[q, b, r, s, f, o]|[u, w, g, z, l]|[e, v, k, m, n]|
+| ' |[p, a, t, d, x, h, j]|[c, i, y]| _ |
+Cost: 1.0861109584318152
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, f, m, o]|[e, g, w, z]|[b, s, d, u, n]|
+| ' |[p, r, h, x, i, j, k, l]|[a, t, v, y]| _ |
+Cost: 0.6689630201821205
+
+| word0 | word1 | word2 | n -> |
+|[q, g, x, i, y]|[a, t, e, f]|[s, d, z, j]|
+| ' |[u, v, w, h, l, n]|[p, r, b, c, k, m, o]| _ |
+Cost: 1.2880632384807356
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, e, g, z, m]|[p, a, t, f]|[r, b, s, i, y]|
+| ' |[u, w, k, l, n]|[c, d, v, h, x, j, o]| _ |
+Cost: 0.6422300751659757
+
+| word0 | word1 | word2 | n -> |
+|[a, e, j, n, o]|[q, c, t, d, v, f, g, x, h, z, l]|[b, s, w, i, m]|
+| ' |[p, r, y]|[u, k]| _ |
+Cost: 1.6883331013808978
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, d, x, l, o]|[s, u, f, h, j, z]|[e, v, w, n]|
+| ' |[r, g, i, y, m]|[p, a, b, c, t, k]| _ |
+Cost: 0.6809420102660093
+
+| word0 | word1 | word2 | n -> |
+|[s, e, x, j]|[d, u, o]|[t, f, z, l]|
+| ' |[q, a, c, v, w, h, i, k]|[p, r, b, g, y, m, n]| _ |
+Cost: 1.2635826581550782
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, w, z, m, n]|[d, v, l, o]|[c, t, f, x, i]|
+| ' |[q, s, u, h, j, k]|[p, a, r, b, g, y]| _ |
+Cost: 0.6754894304087191
+
+| word0 | word1 | word2 | n -> |
+|[p, t, d, f, x, y, z, n]|[a, b, l, m]|[r, s, u, g, o]|
+| ' |[q, v, w, h, k]|[c, e, i, j]| _ |
+Cost: 1.4330129902453548
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, d, u, x, y, l]|[a, r, t]|[g, z, m, o]|
+| ' |[p, q, v, w, h, j, k, n]|[s, e, f, i]| _ |
+Cost: 0.7155129613649215
+
+| word0 | word1 | word2 | n -> |
+|[c, x]|[q, s, t, e, g, l, o]|[b, r, h, j]|
+| ' |[p, a, f, v, y, i, m]|[d, u, w, z, k, n]| _ |
+Cost: 1.5184846851758707
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, m]|[q, h, x, k, l, o]|[r, b, t, v, i, j]|
+| ' |[a, c, d, f, y]|[p, u, g, w, z, n]| _ |
+Cost: 0.6489960210007162
+
+| word0 | word1 | word2 | n -> |
+|[a, r, s, g, h, y]|[p, q, t, u, w, z, k, l, m]|[b, e, v, n, o]|
+| ' |[c, d, f]|[x, i, j]| _ |
+Cost: 1.3705730007420218
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, m]|[p, q, r, w, i, z]|[c, h, x, j, k, n, o]|
+| ' |[a, s, d, f]|[b, t, u, v, y, l]| _ |
+Cost: 0.6291905791007523
+
+| word0 | word1 | word2 | n -> |
+|[r, b, v, w, y, i, m, n]|[c, t, h, l]|[p, a, q, e, f, x, z]|
+| ' |[g]|[s, d, u, j, k, o]| _ |
+Cost: 1.2836660093166048
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, u, w, j, z, k, n]|[p, t, v, h, i]|[a, q, f, y, m]|
+| ' |[r, b, e, g]|[c, d, x, l, o]| _ |
+Cost: 0.6187757069529292
+
+| word0 | word1 | word2 | n -> |
+|[a, h, y]|[p, c, t, e, w, j, m, n, o]|[r, b, d, u, f, g, i, z, l]|
+| ' |[q, x, k]|[s, v]| _ |
+Cost: 2.021603448541334
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, t, v, y]|[r, w, j, k, o]|[b, s, d, u, f]|
+| ' |[q, e, g, h, z, m]|[p, c, x, i, l, n]| _ |
+Cost: 0.6342588490570283
+
+| word0 | word1 | word2 | n -> |
+|[w, h, i]|[q, s, u, v, k, m]|[d, e, f, x, o]|
+| ' |[p, r, c, t, y, z, l, n]|[a, b, g, j]| _ |
+Cost: 1.371371036773399
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, w, i, n]|[a, q, r, s, h, k]|[f, x, z, l, m, o]|
+| ' |[c, t, u, y]|[p, b, e, v, g, j]| _ |
+Cost: 0.6627574614603219
+
+| word0 | word1 | word2 | n -> |
+|[b, s, v, g, l, m, o]|[r, u, i]|[c, x, k, n]|
+| ' |[p, a, t, d, e, h, z]|[q, f, w, y, j]| _ |
+Cost: 1.34387915121109
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, d, v, l, o]|[p, b, c, e]|[s, u, x, i, j, z, k, n]|
+| ' |[r, t, h, m]|[a, f, g, w, y]| _ |
+Cost: 0.6643755361989168
+
+| word0 | word1 | word2 | n -> |
+|[q, t]|[p, d, u, g, h, z, o]|[b, m]|
+| ' |[a, r, s, c, e, v, w, x, i, y, j, n]|[f, k, l]| _ |
+Cost: 1.945736513436756
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, d, x, l, m, o]|[p, r, u, g, h, j]|[b, e, z, k, n]|
+| ' |[a, s, v, w, y]|[c, t, f, i]| _ |
+Cost: 0.6498419718331351
+
+| word0 | word1 | word2 | n -> |
+|[r, t, d]|[p, v, g, w, h, j, z]|[q, b, c, f, x, y, n]|
+| ' |[a, u, e, o]|[s, i, k, l, m]| _ |
+Cost: 1.4450278531051644
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, d, e, m]|[r, g, w, h, j]|[a, b, c, f, y, z]|
+| ' |[t, v, l, o]|[s, u, x, i, k, n]| _ |
+Cost: 0.6914026137604673
+
+| word0 | word1 | word2 | n -> |
+|[p, r, s, u, g, h, z]|[c, d, e, v, k]|[b, y, j, n]|
+| ' |[q, a, t, f, w, i]|[x, l, m, o]| _ |
+Cost: 1.089414858623462
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, u, h, x, j, z, k, n]|[p, t, i, l]|[a, b, c, d, v, y]|
+| ' |[e, f, g, w]|[r, m, o]| _ |
+Cost: 0.6386333689731928
+
+| word0 | word1 | word2 | n -> |
+|[p, a, r, i, m, n]|[e, y, o]|[t, v, w, h, x, j]|
+| ' |[b, c, s, d, f, z, l]|[q, u, g, k]| _ |
+Cost: 1.5004507076284586
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, h, y, z, m]|[t, l, o]|[p, r, v, g, w, i]|
+| ' |[b, c, d, e, f]|[q, s, u, x, j, k, n]| _ |
+Cost: 0.6489142153073347
+
+| word0 | word1 | word2 | n -> |
+|[a, e, w, z]|[q, t, u, i, n, o]|[d, v, y, j, k]|
+| ' |[f, g, m]|[p, b, r, c, s, x, h, l]| _ |
+Cost: 1.4656647629268997
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, t, v, h]|[q, w, x, j, z, k, n, o]|[c, f, i, y, l]|
+| ' |[e, u, g, m]|[r, b, s, d]| _ |
+Cost: 0.6441849954125972
+
+| word0 | word1 | word2 | n -> |
+|[q, c, y, i, j, k]|[p, r, f, z, l]|[t, w, h, m, n]|
+| ' |[a, b, s, d, o]|[u, e, v, g, x]| _ |
+Cost: 1.208062974879642
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, t, i, y, k]|[a, s, f, h, z]|[p, r, u, w, j, n]|
+| ' |[b, d, v, x, l, o]|[e, g, m]| _ |
+Cost: 0.6584737686750839
+
+| word0 | word1 | word2 | n -> |
+|[p, c, t, h]|[r, s, v, g, y, i, n]|[q, d, e, f, j, l]|
+| ' |[a, u, x, m]|[b, w, z, k, o]| _ |
+Cost: 1.2860229411177684
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, c, x, i, l, n]|[a, t, v, y]|[q, b, s, d, u, f, j]|
+| ' |[e, g, h, z, m]|[r, w, k, o]| _ |
+Cost: 0.6221904988635543
+
+| word0 | word1 | word2 | n -> |
+|[p, q, s, e, f, w, x, k, o]|[b, r, c, u, v, g, l, m]|[d, h, y, z, n]|
+| ' |[t]|[a, i, j]| _ |
+Cost: 1.560461635202144
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, u, f, w]|[r, b, v, g, y]|[d, h, x, z, m, o]|
+| ' |[c, t, e, i]|[p, a, j, k, l, n]| _ |
+Cost: 0.6980961296170373
+
+| word0 | word1 | word2 | n -> |
+|[p, b, z, j, l]|[q, w, h, i, n, o]|[s, g, x, k]|
+| ' |[d, u, e, v, m]|[a, r, c, t, f, y]| _ |
+Cost: 1.530852351243251
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, t, u, v, j, l]|[q, w, x, k, n, o]|[p, a, r, g, h]|
+| ' |[b, d, e, m]|[s, f, i, y, z]| _ |
+Cost: 0.6525205789407186
+
+| word0 | word1 | word2 | n -> |
+|[q, j, k, o]|[c, d, t, u, e, w, h, y]|[a, v, x, l, m]|
+| ' |[b, r, f, g, n]|[p, s, i, z]| _ |
+Cost: 1.2906305372308726
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, x, j, k, o]|[r, u, g, w, y]|[a, t, v, h, m]|
+| ' |[q, b, e, f, l]|[p, s, i, z, n]| _ |
+Cost: 0.6394699484424358
+
+| word0 | word1 | word2 | n -> |
+|[b, d, f, v, x]|[q, k]|[p, c, t, e, y, z, l, m]|
+| ' |[s, u, g, w, h, i, n, o]|[a, r, j]| _ |
+Cost: 1.679009504430771
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, d, e, f]|[a, q, t, l]|[p, w, i, y, z, m]|
+| ' |[r, u, v, g, h, j]|[c, x, k, n, o]| _ |
+Cost: 0.6734232160727145
+
+| word0 | word1 | word2 | n -> |
+|[p, s, l, o]|[b, d, h]|[u, v, g, y, i]|
+| ' |[a, r, t, f, k, m, n]|[q, c, e, w, x, z, j]| _ |
+Cost: 1.2116393297458796
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, v, j, l, o]|[p, d, u, h, x, y]|[r, c, t, i]|
+| ' |[a, b, f, k, m]|[e, g, w, z, n]| _ |
+Cost: 0.6911746953857992
+
+| word0 | word1 | word2 | n -> |
+|[s, t, w, j, k]|[c, d, v, f, m]|[e, u, i, o]|
+| ' |[a, g, h, z, n]|[p, q, b, r, x, y, l]| _ |
+Cost: 1.4380440016607146
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, w, x, i, j, l, n]|[d, e, u, v, m]|[t, k, o]|
+| ' |[s, f, g, h, z]|[a, q, r, b, c, y]| _ |
+Cost: 0.6414234715757178
+
+| word0 | word1 | word2 | n -> |
+|[q, i, z]|[a, r, t, e, g, j]|[p, s, m, o]|
+| ' |[c, u, y]|[b, d, f, v, w, h, x, k, l, n]| _ |
+Cost: 1.3481544290341096
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, u, f, h, z]|[p, a, b, g, j, k, n]|[r, m, o]|
+| ' |[c, t, v, i, y, l]|[d, e, w, x]| _ |
+Cost: 0.6659923925881323
+
+| word0 | word1 | word2 | n -> |
+|[u, y]|[b, r, f, j, z, l, n]|[p, q, a]|
+| ' |[w, x, m]|[s, c, d, t, e, v, g, h, i, k, o]| _ |
+Cost: 2.040320469517343
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[t, i, y]|[b, s, d, u, f, j, z]|[p, a, q, c, g, n]|
+| ' |[e, v, w, m]|[r, h, x, k, l, o]| _ |
+Cost: 0.6377712588704041
+
+| word0 | word1 | word2 | n -> |
+|[p, b, c, d, f, i, n]|[q, g, y, o]|[u, v, l]|
+| ' |[a, h, x, z, j, m]|[r, s, t, e, w, k]| _ |
+Cost: 1.3037925272643274
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, d, f, m]|[q, c, g, x, y, l, o]|[r, b, e, z]|
+| ' |[p, t, u, v, h]|[s, w, i, j, k, n]| _ |
+Cost: 0.6185203500457253
+
+| word0 | word1 | word2 | n -> |
+|[j]|[a, s, h, y, k, m]|[p, t, e, g, x, o]|
+| ' |[b, r, c, d, u, f]|[q, v, w, i, z, l, n]| _ |
+Cost: 1.2270226109966498
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, t]|[s, f, v, h, i, y, j]|[g, z, k, m, o]|
+| ' |[b, c, d, e]|[p, q, u, w, x, l, n]| _ |
+Cost: 0.6368528998750774
+
+| word0 | word1 | word2 | n -> |
+|[b, s, i]|[p, v, f, g, x, z]|[c, t, e, h, y]|
+| ' |[q, r, d, u, w, j, n]|[a, k, l, m, o]| _ |
+Cost: 1.1173737394971697
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, e, v, g, l]|[p, d, f, h, x, i]|[a, c, t, y]|
+| ' |[q, s, u, w, j, z, n]|[r, k, m, o]| _ |
+Cost: 0.6005279637377445
+
+| word0 | word1 | word2 | n -> |
+|[r, t, e, u, g, n]|[p, c, v, y, k, l]|[q, d, f, x, h, j, m]|
+| ' |[o]|[a, b, s, w, i, z]| _ |
+Cost: 1.500704326806741
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, d, e, u, n]|[c, x, i, y, z, k, l]|[a, q, f, g, h, m]|
+| ' |[t, v, j, o]|[p, r, s, w]| _ |
+Cost: 0.6716979273599673
+
+| word0 | word1 | word2 | n -> |
+|[s, d, u, m]|[p, q, b, v, g, y, j, k]|[f, w, l]|
+| ' |[r, c, t, e, h, i, z, o]|[a, x, n]| _ |
+Cost: 1.4929436089501744
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, u, f, m]|[q, b, s, e, k]|[v, g, w, i, y, j, l]|
+| ' |[c, h, x, z, n, o]|[a, r, t]| _ |
+Cost: 0.6122074886564076
+
+| word0 | word1 | word2 | n -> |
+|[c, i, z, k, l]|[r, d, v]|[s, y, m, n]|
+| ' |[a, e, f, g, w, h, j]|[p, q, b, t, u, x, o]| _ |
+Cost: 1.2913097164933056
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, i, y, l]|[e, g, z, m]|[s, u, h, x, j, k, n]|
+| ' |[a, d, f, v, w]|[q, r, b, c, o]| _ |
+Cost: 0.6186112453218037
+
+| word0 | word1 | word2 | n -> |
+|[q, v, n, o]|[b, t, y, k, l, m]|[p, e, h, i]|
+| ' |[r, c, d, u, f, g, j, z]|[a, s, w, x]| _ |
+Cost: 0.872377402726032
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, g, z, m, n, o]|[b, t, u, v, y]|[p, h, x, i, k, l]|
+| ' |[c, d, e, f, j]|[a, r, s, w]| _ |
+Cost: 0.6732222323310625
+
+| word0 | word1 | word2 | n -> |
+|[a, x, i, j, o]|[u, v, w, n]|[p, b, t, y, k, l]|
+| ' |[q, c, d, g, h]|[r, s, e, f, z, m]| _ |
+Cost: 1.307293868916768
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, c, l, o]|[e, v, w, n]|[b, t, u, y, k]|
+| ' |[p, a, q, g, h, x, z, m]|[s, d, f, i, j]| _ |
+Cost: 0.6397296141395076
+
+| word0 | word1 | word2 | n -> |
+|[p, q, t, g]|[u, k, l, m]|[r, v, i, o]|
+| ' |[s, d, f, w, x, n]|[a, b, c, e, h, y, j, z]| _ |
+Cost: 1.2942119483351773
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, t, v, i, y, l]|[c, e, g, h, j]|[r, x, z, m, o]|
+| ' |[p, a, d, f, w]|[b, s, u, k, n]| _ |
+Cost: 0.6098186029489112
+
+| word0 | word1 | word2 | n -> |
+|[a, d, v, w, k, l]|[b, f, g, m]|[s, c, x, h, y]|
+| ' |[p, q, t, e, u, i, j, n, o]|[r, z]| _ |
+Cost: 1.5770539072499308
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, d, w]|[b, e, f, g]|[p, a, c, v, h, y, j]|
+| ' |[q, t, l, m, o]|[s, u, x, i, z, k, n]| _ |
+Cost: 0.6719132618536413
+
+| word0 | word1 | word2 | n -> |
+|[b, d, t, v, f, g, w, h, y, k, l]|[s, u, o]|[q, m, n]|
+| ' |[r, e, i, z, j]|[p, a, c, x]| _ |
+Cost: 1.350826438181536
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, g, w, i, y]|[c, d, x, j, l, o]|[q, b, s, u, k, n]|
+| ' |[r, e, z, m]|[p, a, t, v, h]| _ |
+Cost: 0.5677253547645154
+
+| word0 | word1 | word2 | n -> |
+|[p, d, g, y]|[a, q, b, e, u, w, z]|[r, f, v, k, m, n]|
+| ' |[t, h, o]|[c, s, x, i, j, l]| _ |
+Cost: 1.0682487134985823
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, u, g, j, n]|[q, r, v, w, i, y]|[a, f, x, k, m]|
+| ' |[c, t, h, o]|[b, s, e, z, l]| _ |
+Cost: 0.6173437250007623
+
+| word0 | word1 | word2 | n -> |
+|[g, l]|[c, j, k, m]|[a, b, d, e, v, z, o]|
+| ' |[f, x]|[p, q, r, s, t, u, w, h, y, i, n]| _ |
+Cost: 2.0553800102283835
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, b, s, z, n]|[c, e, h, j, k]|[d, v, x, l, o]|
+| ' |[t, f, i, m]|[p, r, u, g, w, y]| _ |
+Cost: 0.6135866166336917
+
+| word0 | word1 | word2 | n -> |
+|[c, d, w, l]|[r, s, z, j, n]|[b, u, g, i]|
+| ' |[e, v, f, x, m, o]|[p, q, a, t, h, y, k]| _ |
+Cost: 1.0410025003541536
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, d, w, l]|[s, u, i, j, z, k, n]|[p, b, c, e, g]|
+| ' |[f, v, x, m, o]|[a, q, t, h, y]| _ |
+Cost: 0.6442594244621319
+
+| word0 | word1 | word2 | n -> |
+|[s, t, y, k, l, m, n]|[a, w, g, j, z, o]|[p, q, x]|
+| ' |[c, d, i]|[b, r, u, e, f, v, h]| _ |
+Cost: 1.4765772363185454
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, r, k, m]|[v, g, w, y, z, o]|[q, c, t, i, j]|
+| ' |[d, e, h, n]|[b, s, u, f, x, l]| _ |
+Cost: 0.665571264142426
+
+| word0 | word1 | word2 | n -> |
+|[a, b, s, x]|[r, c, e, g, i]|[p, u, v, w, z]|
+| ' |[q, d, h, k, l, m, o]|[t, f, y, j, n]| _ |
+Cost: 1.113188532322273
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, j, k]|[p, r, f, g, h, i]|[u, v, w, x, z, l, n]|
+| ' |[q, d, m, o]|[a, c, t, y]| _ |
+Cost: 0.5962117167959097
+
+| word0 | word1 | word2 | n -> |
+|[b, h, k]|[e, u, v, l]|[a, r, c, g, x, i]|
+| ' |[p, d, w, j, n, o]|[q, s, t, f, y, z, m]| _ |
+Cost: 1.2057361876952166
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, s, i, j, k, n]|[b, e, g, x, l]|[a, r, c, t]|
+| ' |[d, v, w, o]|[q, u, f, h, y, z, m]| _ |
+Cost: 0.6268705511772158
+
+| word0 | word1 | word2 | n -> |
+|[q, u, h, y, m, n]|[b, w, x, l]|[p, e, i, k, o]|
+| ' |[a, c, d, t, g, j, z]|[r, s, f, v]| _ |
+Cost: 1.2680773483283518
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, u, g, h, z, m]|[r, v, w, i, y, j]|[c, x, k, n, o]|
+| ' |[a, t, l]|[b, s, d, e, f]| _ |
+Cost: 0.6147725619191944
+
+| word0 | word1 | word2 | n -> |
+|[t, d, v, x, z]|[a, r, j, o]|[b, s, c, h, m]|
+| ' |[q, e, w, k, n]|[p, u, f, g, y, i, l]| _ |
+Cost: 0.9367247510711859
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, t, i, k, l]|[s, d, v, j, o]|[a, r, b, x, z, m]|
+| ' |[e, w, n]|[p, u, f, g, h, y]| _ |
+Cost: 0.6195446767907666
+
+| word0 | word1 | word2 | n -> |
+|[q, c, v, n]|[o]|[w, i, y, m]|
+| ' |[b, d, e, g, h, j, k, l, p, t, u, x, z]|[a, r, s, f]| _ |
+Cost: 1.3155506418328544
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, d, e, m]|[t, v, l, o]|[r, w, i, j, k]|
+| ' |[b, g, n, p, u, x]|[a, s, f, h, y, z]| _ |
+Cost: 0.602066719172038
+
+| word0 | word1 | word2 | n -> |
+|[d, t, x, j, l, o]|[p, q, r, s, e, u, w]|[b, g, y, k, m, n]|
+| ' |[f, v]|[a, c, h, i, z]| _ |
+Cost: 1.2203562630752134
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, l, o]|[q, r, s, w, i, j, k]|[b, c, u, g, y, z, n]|
+| ' |[e, f, x, m]|[p, a, t, v, h]| _ |
+Cost: 0.60969931213336
+
+| word0 | word1 | word2 | n -> |
+|[u, y, k, o]|[r, t, f, g, j, m]|[a, c, d, e, w, x, i, l]|
+| ' |[p, q, v, n]|[b, s, h, z]| _ |
+Cost: 1.2325874246522992
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, d, v, h, j, l, o]|[t, f, i, m]|[p, r, u, g, w, y]|
+| ' |[a, c, n]|[b, s, e, x, z, k]| _ |
+Cost: 0.5791302553264429
+
+| word0 | word1 | word2 | n -> |
+|[b, u, i]|[p, s, w, z, o]|[r, c, d, e, v, h, k, l, n]|
+| ' |[t, f, g, y, j]|[q, a, x, m]| _ |
+Cost: 1.3698430029348414
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, k]|[p, u, v, w, x, j, z, l, n]|[c, d, h, o]|
+| ' |[f, g, i, y, m]|[a, q, r, t]| _ |
+Cost: 0.5814156788993825
+
+| word0 | word1 | word2 | n -> |
+|[p, a, b, e, j, l]|[f, g, k]|[q, t, v, z, o]|
+| ' |[c, s, d, w, x, i, y]|[r, u, h, m, n]| _ |
+Cost: 1.1369537851092488
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, x, i, z, l, n]|[e, f, g, m]|[q, t, v, o]|
+| ' |[p, a, r, w, y, j]|[s, d, u, h, k]| _ |
+Cost: 0.609095459376138
+
+| word0 | word1 | word2 | n -> |
+|[s, e, g, i, l, n]|[a, v, f, j, k, m]|[q, r, w]|
+| ' |[c, d, h, x, y]|[p, b, t, u, z, o]| _ |
+Cost: 0.882174512187171
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, u, z, n]|[p, a, t, m]|[q, e, v, g, w, j]|
+| ' |[d, f, h, i, y]|[r, c, x, k, l, o]| _ |
+Cost: 0.580494906563053
+
+| word0 | word1 | word2 | n -> |
+|[y, j, k]|[q, a, t, e, w, x]|[p, r, b, l, m, n]|
+| ' |[s, d, f, h, i, z]|[c, u, v, g, o]| _ |
+Cost: 1.1100692290290526
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, c, t, v, i, y, j]|[a, r, w, k]|[b, e, n]|
+| ' |[s, d, u, f, h, z]|[g, x, l, m, o]| _ |
+Cost: 0.5933701923133866
+
+| word0 | word1 | word2 | n -> |
+|[a, r, t, v, w, x]|[c, f, g, i, k]|[y, j, z, l, n]|
+| ' |[p, q, b, d, u, m, o]|[s, e, h]| _ |
+Cost: 1.0683913418526891
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, u, w, x, k, l, n]|[b, t, f, i]|[a, r, c, g, y, j, z]|
+| ' |[q, d, v, h, o]|[s, e, m]| _ |
+Cost: 0.579628466571291
+
+| word0 | word1 | word2 | n -> |
+|[q, w]|[b, d, i, j]|[p, c, e, f, h, x, k, l, o]|
+| ' |[s, g, y, m]|[a, r, t, u, v, z, n]| _ |
+Cost: 1.4063162799401745
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, e, w, z]|[b, t, u, j, k]|[c, f, h, x, l, o]|
+| ' |[r, g, i, y, m]|[p, a, d, v, n]| _ |
+Cost: 0.6063205687327181
+
+| word0 | word1 | word2 | n -> |
+|[d, y, k]|[a, r, s, v, g, j, m, n]|[b, x, z, o]|
+| ' |[q, c, u, e, w, h]|[p, t, f, i, l]| _ |
+Cost: 0.9898533167063569
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, h, i, y, z, k]|[p, b, u, g, x, l, n]|[r, m, o]|
+| ' |[q, d, e, v, w, j]|[a, c, t, f]| _ |
+Cost: 0.6137832380940104
+
+| word0 | word1 | word2 | n -> |
+|[u, g, z, j, k]|[q, b, s, d, f, w, h]|[p, r, c, v, y]|
+| ' |[t, e, i, l]|[a, x, m, n, o]| _ |
+Cost: 1.180382369664753
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, z]|[q, d, u, f, w, j]|[r, g, i, y, m]|
+| ' |[p, a, t, l]|[c, v, h, x, k, n, o]| _ |
+Cost: 0.6020469036415705
+
+| word0 | word1 | word2 | n -> |
+|[g, x, y, j, m, o]|[q, r, s, d, w, i, z, l]|[t, u, e, f]|
+| ' |[p, b, v]|[a, c, h, k, n]| _ |
+Cost: 0.9701236531519735
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, v, g, y, j, z, l, o]|[a, s, d, w, n]|[t, f, i]|
+| ' |[r, b, c, e]|[p, u, h, x, k, m]| _ |
+Cost: 0.6408313493701407
+
+| word0 | word1 | word2 | n -> |
+|[a, c, d, t, u, w, i, l, o]|[f, x, h, y, j]|[r, b, s, g, z]|
+| ' |[q]|[p, e, v, k, m, n]| _ |
+Cost: 1.8644196851126558
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, u, f, l]|[c, d, h, x, j, o]|[e, g, w, z, m]|
+| ' |[p, q, r, t, i]|[a, b, v, y, k, n]| _ |
+Cost: 0.5800539285418477
+
+| word0 | word1 | word2 | n -> |
+|[q, b, r, c, j, l]|[a, d, n]|[e, u, v, w, x, y, m]|
+| ' |[s, z, k]|[p, t, f, g, h, i, o]| _ |
+Cost: 1.2471693273437214
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, t, v, i, k, l]|[p, a, d, n]|[r, s, u, w, y, j]|
+| ' |[e, g, z, m]|[c, f, h, x, o]| _ |
+Cost: 0.6063823551212445
+
+| word0 | word1 | word2 | n -> |
+|[b, s, t, h, z]|[q, r, c, e, v, l]|[a, f, j, n]|
+| ' |[p, d, u, g, w, x, i, o]|[y, k, m]| _ |
+Cost: 1.286492542526748
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e]|[p, q, c, u, h, j, n]|[a, r, d, f, x]|
+| ' |[g, w, z, m, o]|[t, v, i, y, k, l]| _ |
+Cost: 0.6001303015736985
+
+| word0 | word1 | word2 | n -> |
+|[d, e, x, h, n, o]|[p, a, r, b, w, g, y]|[s, t, u, f, l]|
+| ' |[v, j, k]|[q, c, i, z, m]| _ |
+Cost: 1.362620991290504
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, e, g, h, j, z]|[a, r, w, y, k]|[b, s, d, u, f, x]|
+| ' |[t, v, l, o]|[p, q, i, m, n]| _ |
+Cost: 0.5930722314647872
+
+| word0 | word1 | word2 | n -> |
+|[q, a, r, c, k]|[d, h, i, j, m, o]|[t, f, w, x, y, l]|
+| ' |[p, s, v, g, z]|[b, e, u, n]| _ |
+Cost: 1.0990706714531338
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, q, l, n]|[c, d, h, j, k, o]|[s, f, w, i]|
+| ' |[e, v, g, x, z, m]|[r, b, t, u, y]| _ |
+Cost: 0.5578037054380905
+
+| word0 | word1 | word2 | n -> |
+|[r, s, d, w, g, h, l, n]|[e, u, i, k, o]|[q, b, f, v, x]|
+| ' |[a, c, t]|[p, y, j, z, m]| _ |
+Cost: 1.4417954237913677
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, g, w, m]|[c, t, l, o]|[b, d, e, u, f, v]|
+| ' |[p, a, x, j, k, n]|[s, h, i, y, z]| _ |
+Cost: 0.6072148142602517
+
+| word0 | word1 | word2 | n -> |
+|[p, r, c, s, w, m]|[q, b, d, e, f, y]|[a, v, x, i, l, o]|
+| ' |[g, h, j]|[t, u, z, k, n]| _ |
+Cost: 1.3296584822245683
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, w, i, j, z, k]|[p, a, q, b, c, f, y]|[t, v, l, o]|
+| ' |[e, g, h, m]|[s, d, u, x, n]| _ |
+Cost: 0.5672653886503395
+
+| word0 | word1 | word2 | n -> |
+|[p, q, b, c, v, m]|[t, w, h, j, z, o]|[e, g, y]|
+| ' |[s, d, f, x, i, k]|[a, r, u, l, n]| _ |
+Cost: 1.0590269047472078
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, e]|[r, w, x, j, z, k, o]|[a, t, v, y]|
+| ' |[p, c, d, f, h, i]|[u, g, l, m, n]| _ |
+Cost: 0.5657766181533231
+
+| word0 | word1 | word2 | n -> |
+|[q, b, s, d, k]|[r, c, e, v, y, n]|[p, g, j, m]|
+| ' |[u, i, z, l]|[a, t, f, w, x, h, o]| _ |
+Cost: 1.4652697666320516
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, d, u, n]|[r, v, w, i, y, z]|[c, e, g, m]|
+| ' |[p, a, t, k, l]|[f, h, x, j, o]| _ |
+Cost: 0.566026095296285
+
+| word0 | word1 | word2 | n -> |
+|[q, b, c, u, w, i]|[v, h]|[e, g, j, l]|
+| ' |[r, d, m, o]|[p, a, s, t, f, x, y, z, k, n]| _ |
+Cost: 1.2175647511846692
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, c, e, x, n]|[p, t, u, v, h]|[a, r, g, w, m]|
+| ' |[d, j, k, l, o]|[s, f, i, y, z]| _ |
+Cost: 0.5332664353973353
+
+| word0 | word1 | word2 | n -> |
+|[u, f, h, y]|[a, c, v, k, m]|[q, e, g, x, z, l, n, o]|
+| ' |[b, r, s, w]|[p, d, t, i, j]| _ |
+Cost: 1.0675360637283327
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, f, v, h, i, y]|[r, e, m]|[q, g, x, z, l, o]|
+| ' |[s, u, w, n]|[a, b, c, t, j, k]| _ |
+Cost: 0.5933323810640544
+
+| word0 | word1 | word2 | n -> |
+|[q, r, c, u, g]|[p, s, x, j, k, n]|[d, e, l]|
+| ' |[t, i, m]|[a, b, f, v, w, h, y, z, o]| _ |
+Cost: 1.0053382634725707
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, t, u, y, l]|[a, d, k, n]|[b, s, e, x]|
+| ' |[p, r, f, h, i, j]|[v, g, w, z, m, o]| _ |
+Cost: 0.589930477070878
+
+| word0 | word1 | word2 | n -> |
+|[s, t, f, x, y, z, m, n]|[q, e, u, v, i, o]|[c, j, k, l]|
+| ' |[p, b, g, w, h]|[a, r, d]| _ |
+Cost: 1.5579104235006354
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[t, f, i, m]|[q, d, h, x, l, o]|[b, e, v, g, j, z]|
+| ' |[s, u, w, k, n]|[p, a, r, c, y]| _ |
+Cost: 0.555538653133932
+
+| word0 | word1 | word2 | n -> |
+|[p, a, f, g, w, k, m, o]|[r, b, s, y, z]|[u]|
+| ' |[c, d, e, v, h, j, l, n]|[q, t, x, i]| _ |
+Cost: 1.0817300871891604
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, v, w, x, k, o]|[b, s, e, z]|[a, r, g, y, m]|
+| ' |[p, d, h, i, j, n]|[q, c, t, u, l]| _ |
+Cost: 0.5859846326346914
+
+| word0 | word1 | word2 | n -> |
+|[q, r, d, t, x]|[c, e]|[p, a, i, k]|
+| ' |[u, v, g, w, y, z, l, n, o]|[b, s, f, h, j, m]| _ |
+Cost: 1.1604409024390319
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, q, d, n]|[b, s, e, z, l]|[r, c, t, i, j, k]|
+| ' |[v, g, w, y, o]|[u, f, h, x, m]| _ |
+Cost: 0.5918598103829469
+
+| word0 | word1 | word2 | n -> |
+|[a, r, e, f, k]|[p, t, u, i, y, z, l, n, o]|[s, c, v, h]|
+| ' |[w, j, m]|[q, b, d, g, x]| _ |
+Cost: 1.5014353493803874
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, t, m]|[p, s, u, x, z, o]|[d, f, v, h, y]|
+| ' |[w, i, j, k, l, n]|[q, r, b, c, e, g]| _ |
+Cost: 0.603752304767376
+
+| word0 | word1 | word2 | n -> |
+|[q, a, t, v, y]|[r, e, g, m]|[p, s, c, z, k, n, o]|
+| ' |[f, x, i, j]|[b, d, u, w, h, l]| _ |
+Cost: 0.8738339608939928
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, d, f, v, y]|[q, e, g, h, x, z, m]|[r, c, j, k, o]|
+| ' |[p, b, t, u, l]|[s, w, i, n]| _ |
+Cost: 0.5544855457769742
+
+| word0 | word1 | word2 | n -> |
+|[d, v, z, l, m]|[e, g, j, n, o]|[s, t, f, h, i, k]|
+| ' |[a, b, u, w, x, y]|[p, q, r, c]| _ |
+Cost: 1.1828583388718485
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, e, z, n]|[c, d, v, x, l, o]|[a, s, h, m]|
+| ' |[u, f, g, w, y, j]|[p, q, r, t, i, k]| _ |
+Cost: 0.5534724947683998
+
+| word0 | word1 | word2 | n -> |
+|[f, h, y, n]|[p, a, t, d, u, w, z]|[q, b, e, i, k, o]|
+| ' |[s, c, v, g, x, j, l, m]|[r]| _ |
+Cost: 1.6571168481396306
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, s, f, h, z, k]|[d, u, w, j, n]|[q, r, b, c, x, l, o]|
+| ' |[e, g, m]|[p, t, v, i, y]| _ |
+Cost: 0.5644501842825053
+
+| word0 | word1 | word2 | n -> |
+|[a, q, b, s, d, g, y, i, k, n]|[t, u, w, h, x, o]|[r, c, e, j]|
+| ' |[f, l, m]|[p, v, z]| _ |
+Cost: 1.4439075821177316
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, c, y, l, o]|[u, g, w, x, n]|[p, r, t, i, k]|
+| ' |[a, d, f, m]|[s, e, v, h, j, z]| _ |
+Cost: 0.5777816455798187
+
+| word0 | word1 | word2 | n -> |
+|[t, g, x, j, l]|[w]|[a, c, u, i]|
+| ' |[p, s, f, v, y, k, m, n]|[q, r, b, d, e, h, z, o]| _ |
+Cost: 1.5401002917047713
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, s, u, g, x, z, n]|[e, v, w, i, j]|[t, k, o]|
+| ' |[a, f, h, y, m]|[q, r, b, c, d, l]| _ |
+Cost: 0.5960046912731264
+
+| word0 | word1 | word2 | n -> |
+|[e, x, l]|[q, f, j, n, o]|[p, a, v, g, h, i, m]|
+| ' |[r, d, u, y]|[b, s, c, t, w, z, k]| _ |
+Cost: 1.1656523589116465
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, h, x, i, k]|[q, f, l, m, o]|[a, c, t, v, y]|
+| ' |[b, d, u, g, j, n]|[s, e, w, z]| _ |
+Cost: 0.5465813567038702
+
+| word0 | word1 | word2 | n -> |
+|[a, g, w, i, k, l]|[b, v, m, o]|[p, d]|
+| ' |[q, r, s, c, e, h, x]|[t, u, f, y, z, j, n]| _ |
+Cost: 1.3000307115932175
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[u, w, j, z, k, n]|[d, v, x, l, o]|[b, e, f, g, m]|
+| ' |[a, q, r, s, h]|[p, c, t, i, y]| _ |
+Cost: 0.5471754779257222
+
+| word0 | word1 | word2 | n -> |
+|[p, s, f, w, z, l]|[c, e, h, j, n]|[r, t, d, y, o]|
+| ' |[b, u, v, i, k]|[q, a, g, x, m]| _ |
+Cost: 1.0675786462951777
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, u, f, v, w, x, z, l]|[p, g, h, i, j, n]|[c, d, y, o]|
+| ' |[r, b, e, k]|[a, q, t, m]| _ |
+Cost: 0.5715898494242795
+
+| word0 | word1 | word2 | n -> |
+|[r, d, t, w, x, l, m]|[a, u, v, n]|[p, b, c, e, f, g, h, i, j, k]|
+| ' |[y, o]|[q, s, z]| _ |
+Cost: 1.3748284589028956
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, w, k, o]|[p, a, c, x, n]|[b, s, d, u, f, j]|
+| ' |[t, v, i, y, l]|[q, e, g, h, z, m]| _ |
+Cost: 0.5404112623277927
+
+| word0 | word1 | word2 | n -> |
+|[b, x, l, m]|[c, e, v, y, k]|[q, s, d, t, g, z, o]|
+| ' |[a, r, f, j, n]|[p, u, w, h, i]| _ |
+Cost: 1.0775851545152761
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, c, e, x, n]|[t, v, i, y]|[d, k, l, m, o]|
+| ' |[a, s, f, h, z]|[p, r, u, g, w, j]| _ |
+Cost: 0.5408543070146234
+
+| word0 | word1 | word2 | n -> |
+|[s, c, t, e, g, x, i]|[a, q, d, u, f]|[p, z, j, m, o]|
+| ' |[b, v, h, l]|[r, w, y, k, n]| _ |
+Cost: 0.9629032318182661
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, u, g, z, m]|[p, a, q, d, f, h]|[r, c, x, j, k, o]|
+| ' |[b, t, v, y, l]|[s, w, i, n]| _ |
+Cost: 0.5229607073235408
+
+| word0 | word1 | word2 | n -> |
+|[p, c, s, u, j, l, o]|[e, g, w, h, i, z, m, n]|[a, b, k]|
+| ' |[d, f, x]|[q, r, t, v, y]| _ |
+Cost: 1.0520416559139731
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[t, v, o]|[p, g, w, h, y, j, z]|[a, r, b, s, x, k]|
+| ' |[d, e, f, m]|[q, c, u, i, l, n]| _ |
+Cost: 0.5938201874751909
+
+| word0 | word1 | word2 | n -> |
+|[p, w, g, i, k, l]|[r, s, c, e, y]|[a, q, d, v, j]|
+| ' |[b, f, x, h, m, n]|[t, u, z, o]| _ |
+Cost: 0.9626814389049929
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[u, w, x, k, l, n]|[a, s, f, y, z]|[q, e, g, m]|
+| ' |[p, r, b, t, i]|[c, d, v, h, j, o]| _ |
+Cost: 0.5046327338515615
+
+| word0 | word1 | word2 | n -> |
+|[d, y, z]|[p, a, r, t, f, x, m]|[q, e, v, j, k, n]|
+| ' |[s, h, i, l, o]|[b, c, u, w, g]| _ |
+Cost: 1.1039829450368033
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, b, s, u, v, y]|[p, t, f, i]|[a, q, c, j, z, k, n]|
+| ' |[d, h, x, l, o]|[e, g, w, m]| _ |
+Cost: 0.5417436600838285
+
+| word0 | word1 | word2 | n -> |
+|[r, v, f, j, k, n]|[t, l]|[p, a, s, d, e, h]|
+| ' |[q, c, u, g, m, o]|[b, w, x, i, y, z]| _ |
+Cost: 0.908849289008355
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, e, f, g, j]|[t, v, i, l]|[p, c, d, u, h, x, n]|
+| ' |[q, r, m, o]|[a, s, w, y, z, k]| _ |
+Cost: 0.5378480728349929
+
+| word0 | word1 | word2 | n -> |
+|[a, c, t, d, g, y, l]|[u, v, h, z, j, o]|[q, r, x, i, k, n]|
+| ' |[e, f, w]|[p, b, s, m]| _ |
+Cost: 1.103884949939343
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, v, y, z, o]|[r, t, h, x]|[a, w, j, k, n]|
+| ' |[c, d, u, f, i, l]|[p, e, g, m]| _ |
+Cost: 0.5778415043474762
+
+| word0 | word1 | word2 | n -> |
+|[b, s, c, e]|[q, r, t, w, y, j, o]|[p, g, i]|
+| ' |[u, f, h, z, k, l]|[a, d, v, x, m, n]| _ |
+Cost: 0.8976146480896483
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, e]|[v, g, w, y, j, z, o]|[r, t, i, k, l]|
+| ' |[c, d, u, f, h, x]|[p, a, m, n]| _ |
+Cost: 0.5661079959631847
+
+| word0 | word1 | word2 | n -> |
+|[q, t, g, h, o]|[p, a, r, b, e, x, l]|[c, s, v, w, i, y, j]|
+| ' |[f, z, m, n]|[d, u, k]| _ |
+Cost: 0.8994869537704004
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, h, x, l, o]|[a, b, c, d, v, y]|[p, e, g, w]|
+| ' |[t, f, i, m]|[s, u, j, z, k, n]| _ |
+Cost: 0.5623376503039249
+
+| word0 | word1 | word2 | n -> |
+|[p, h, x, o]|[q, w, y, k]|[b, t, d, e, z]|
+| ' |[a, c, u, f, g, i, n]|[r, s, v, j, l, m]| _ |
+Cost: 1.2702239378053466
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, h, x, k, n, o]|[p, q, r, w, i, y, j]|[a, b, t, v, z, l]|
+| ' |[s, d, u, f]|[e, g, m]| _ |
+Cost: 0.5258520318644968
+
+| word0 | word1 | word2 | n -> |
+|[g, w, j, l]|[r, x, m, n]|[p, q, b, c, t, i]|
+| ' |[a, d, y, z]|[s, u, e, f, v, h, k, o]| _ |
+Cost: 1.0690023118394325
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, w, m]|[a, c, v, j, k, n]|[p, q, r, t, i]|
+| ' |[d, h, x, l, o]|[b, s, u, f, y, z]| _ |
+Cost: 0.5208875059334348
+
+| word0 | word1 | word2 | n -> |
+|[x, k, l]|[b, c, t, u, g, h, y, i, m, n, o]|[q, r, s, f]|
+| ' |[p, d, j, z]|[a, e, v, w]| _ |
+Cost: 1.6118537003464852
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, v, i, j, l]|[r, b, c, u, g, y, z]|[q, f, h, x, o]|
+| ' |[d, e, m]|[a, s, w, k, n]| _ |
+Cost: 0.5477861043220746
+
+| word0 | word1 | word2 | n -> |
+|[r, u, f, x, n, o]|[q, b, v, g]|[p, w, i]|
+| ' |[c, s, t, e, h, k]|[a, d, y, z, j, l, m]| _ |
+Cost: 1.0422341942842523
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, l, m, o]|[q, r, b, t, u, g]|[s, e, w, x, j, z]|
+| ' |[p, h, i, k, n]|[a, c, d, v, y]| _ |
+Cost: 0.5399292407073797
+
+| word0 | word1 | word2 | n -> |
+|[t, u, v, g, w, i, n]|[r, f, x, y, j]|[a, q, d, e, k, l, m, o]|
+| ' |[b, s, h]|[p, c, z]| _ |
+Cost: 1.547494498490932
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, u, g, w, x, n]|[a, s, f, y, z]|[q, h, k, l, m, o]|
+| ' |[b, t, e, v]|[r, c, d, i, j]| _ |
+Cost: 0.5345815807510274
+
+| word0 | word1 | word2 | n -> |
+|[b, j, m, n, o]|[p, d, e, y, z]|[r, s, k, l]|
+| ' |[a, f, w, h]|[q, c, t, u, v, g, x, i]| _ |
+Cost: 0.9531664465721487
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, x, n, o]|[e, u, g, z, m]|[r, s, h, i, k]|
+| ' |[p, a, d, f, w, j]|[q, t, v, y, l]| _ |
+Cost: 0.5693186302868511
+
+| word0 | word1 | word2 | n -> |
+|[a, t, e, j, z, l]|[q, r, c, s, w, g]|[d, u, h]|
+| ' |[p, b, f, x, y, i, m, n, o]|[v, k]| _ |
+Cost: 1.5209614455718694
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, t]|[q, e, g, w, j, z]|[s, d, f, h, i]|
+| ' |[b, v, x, y, l, o]|[p, c, u, k, m, n]| _ |
+Cost: 0.5582095817096869
+
+| word0 | word1 | word2 | n -> |
+|[c, h, l]|[r, v, g, x, j, k, m]|[p, b, d, w, i, y]|
+| ' |[a, t, e, u, z, n]|[q, s, f, o]| _ |
+Cost: 1.0732731062953917
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[t, v, h, y]|[p, c, e, g, m]|[a, r, d, w]|
+| ' |[s, u, x, i, j, z, n]|[q, b, f, k, l, o]| _ |
+Cost: 0.570058896802706
+
+| word0 | word1 | word2 | n -> |
+|[r, s, t, f, w, x]|[a, e, v, g, y, n]|[p, q, c, d, i, z, k, l]|
+| ' |[j]|[b, u, h, m, o]| _ |
+Cost: 1.1881230181405205
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, v, w, x, j, z, o]|[a, g, m, n]|[q, c, d, i, y, k, l]|
+| ' |[p, r, t, u, h]|[b, s, e]| _ |
+Cost: 0.5693564442906359
+
+| word0 | word1 | word2 | n -> |
+|[t, u, w, x, h, y, j, n]|[a, d, i, m, o]|[p, q, e, g, k, l]|
+| ' |[s, f, z]|[r, b, c, v]| _ |
+Cost: 1.2367180050867574
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[u, g, w, x, j, n]|[s, z, l, o]|[p, q, r, t, i, k]|
+| ' |[d, e, f, h, m]|[a, b, c, v, y]| _ |
+Cost: 0.5431928898108591
+
+| word0 | word1 | word2 | n -> |
+|[c, d, w, g, y, k, m, o]|[p, q, a, f, x, i, z, l]|[b, r, v, j]|
+| ' |[s, t, e, u, h]|[n]| _ |
+Cost: 1.0736802714854379
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[v, g, w, y, j, z, o]|[a, q, d, f, m]|[b, c, e, l]|
+| ' |[p, r, t, u, h]|[s, x, i, k, n]| _ |
+Cost: 0.5275420156592271
+
+| word0 | word1 | word2 | n -> |
+|[p, b, r, h, z]|[e, u, y, j, n, o]|[s, w, x, i]|
+| ' |[q, a, c, d, t, f, v, k, l]|[g, m]| _ |
+Cost: 1.0858480355947966
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, e, l]|[c, d, v, h, x, j, o]|[s, u, w, z, k, n]|
+| ' |[p, q, t, f, i, y]|[a, r, g, m]| _ |
+Cost: 0.5181051146958106
+
+| word0 | word1 | word2 | n -> |
+|[q, u, f, h]|[a, v, w, g, o]|[s, t, y, l]|
+| ' |[p, b, r, c, e, x, j, z, k]|[d, i, m, n]| _ |
+Cost: 0.7815003417311354
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, t, u, v, h]|[w, x, l, n, o]|[e, g, m]|
+| ' |[r, b, c, i, y, z, k]|[a, s, d, f, j]| _ |
+Cost: 0.5247506314650957
+
+| word0 | word1 | word2 | n -> |
+|[p, b, c, u, i, l, m, n, o]|[a, f, g, h, j]|[q, s, t, v]|
+| ' |[d, w, x]|[r, e, y, z, k]| _ |
+Cost: 1.3797374949583192
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, x, j, l, o]|[c, t, u, h, k]|[a, q, v, m, n]|
+| ' |[s, e, f, w]|[p, r, b, g, i, y, z]| _ |
+Cost: 0.5108882377914338
+
+| word0 | word1 | word2 | n -> |
+|[r, e, x, y, i, j, l]|[b, c, w, z, m, o]|[p, d, t, v, f, g]|
+| ' |[u, h, k, n]|[a, q, s]| _ |
+Cost: 0.9478658153095053
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, v, i, j, l]|[r, w, z, k, o]|[a, c, d, f, y]|
+| ' |[b, s, u, n]|[q, e, g, h, x, m]| _ |
+Cost: 0.4894764805711809
+
+| word0 | word1 | word2 | n -> |
+|[r, t, i]|[p, g, x, h, z, j, k]|[u, v, m, n]|
+| ' |[b, s, d, e, w]|[q, a, c, f, y, l, o]| _ |
+Cost: 0.8041027816195503
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, d, f, i]|[p, t, u, h, y, z]|[b, c, e, j, n]|
+| ' |[a, r, w, k]|[q, v, g, x, l, m, o]| _ |
+Cost: 0.4940147884345062
+
+| word0 | word1 | word2 | n -> |
+|[p, e, x, j, n]|[q, s, c, t, h, o]|[a, b, w, i, k, l]|
+| ' |[f, g]|[r, d, u, v, y, z, m]| _ |
+Cost: 1.19899189896272
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, i, n]|[q, t, v, l, o]|[r, d, w, y, k]|
+| ' |[c, e, u, g, h, x, j]|[p, a, f, z, m]| _ |
+Cost: 0.5582936993802234
+
+| word0 | word1 | word2 | n -> |
+|[d, w, x]|[v, n]|[c, f, g, i, z, m]|
+| ' |[q, a, s, t, u, e, y, j, k, o]|[p, b, r, h, l]| _ |
+Cost: 1.289252819367943
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, w, z]|[p, a, j, k, n]|[t, f, i, m]|
+| ' |[q, d, v, h, x, l, o]|[r, b, c, u, g, y]| _ |
+Cost: 0.5123210368243566
+
+| word0 | word1 | word2 | n -> |
+|[s, e, f, m, o]|[p, q, v, x, k, l]|[b, y, j, n]|
+| ' |[r, d, g, w, z]|[a, c, t, u, h, i]| _ |
+Cost: 1.157015833336019
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, z, l, m, o]|[p, q, d, e, u, v]|[b, c, t, y]|
+| ' |[g, w, x, i, n]|[a, r, s, h, j, k]| _ |
+Cost: 0.5484756609838733
+
+| word0 | word1 | word2 | n -> |
+|[p, q, r, v, w, h, i, j]|[s, d, e, u, g, z, n, o]|[b, f]|
+| ' |[c, x, y]|[a, t, k, l, m]| _ |
+Cost: 1.1317890652482119
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, u, w, z, k, n]|[c, d, v, x, j, l, o]|[b, e, f]|
+| ' |[p, r, g, i, y]|[a, t, h, m]| _ |
+Cost: 0.48974347063259327
+
+| word0 | word1 | word2 | n -> |
+|[u, v, w, k]|[b, h, y, j]|[p, r, s, x, o]|
+| ' |[q, e, g, z, n]|[a, c, t, d, f, i, l, m]| _ |
+Cost: 1.01670960279502
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, w, j]|[b, t, u, v, y, l]|[r, m, o]|
+| ' |[p, q, s, h, x, i, z, k, n]|[a, c, d, f]| _ |
+Cost: 0.5063391418949812
+
+| word0 | word1 | word2 | n -> |
+|[c, t, u, e, f, v, o]|[s, g, w, h, l]|[q, r, d, y, z]|
+| ' |[x, i, k, n]|[p, a, b, j, m]| _ |
+Cost: 1.264221079344838
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, f, x, j, l, o]|[e, g, m]|[q, r, w, i, y, z, k]|
+| ' |[b, s, d, u, n]|[p, a, t, v, h]| _ |
+Cost: 0.4994010684025005
+
+| word0 | word1 | word2 | n -> |
+|[q, c, s, g]|[y, k]|[r, u, v, h, j, m, n, o]|
+| ' |[p, b, d, z, l]|[a, t, e, f, w, x, i]| _ |
+Cost: 1.4023261401084708
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, e, g, z, m]|[b, s, i, y, k]|[c, h, x, j, n, o]|
+| ' |[p, r, t, u, l]|[a, d, f, v, w]| _ |
+Cost: 0.504072359904902
+
+| word0 | word1 | word2 | n -> |
+|[d, h, z, l, m]|[q, r, b, e, v, f, j, k]|[s, g, x, y, o]|
+| ' |[p, a, c, t, u, w, i, n]|[]| _ |
+Cost: 1.2051442140097122
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, u, v, h, x, l]|[q, b, e, f, z, m]|[s, g, y, j, o]|
+| ' |[p, a, w, k, n]|[r, c, t, i]| _ |
+Cost: 0.5349019230126701
+
+| word0 | word1 | word2 | n -> |
+|[q, r, u, f, x]|[a, b, w, i]|[d, e, m, o]|
+| ' |[c, v, y, j, k]|[p, s, t, g, h, z, l, n]| _ |
+Cost: 1.316450921814676
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, s, f, x, j]|[r, e, g, w]|[d, l, m, o]|
+| ' |[b, c, t, v, i, y]|[p, u, h, z, k, n]| _ |
+Cost: 0.5226010030558721
+
+| word0 | word1 | word2 | n -> |
+|[q, d, e, v, o]|[w, g]|[p, a, u, y, j, k, l]|
+| ' |[r, h, i, m]|[b, c, s, t, f, x, z, n]| _ |
+Cost: 1.081080772470747
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, d, v, j, o]|[e, g, w, m, n]|[p, u, i, y, k, l]|
+| ' |[r, t, h]|[a, b, c, f, x, z]| _ |
+Cost: 0.554220917603394
+
+| word0 | word1 | word2 | n -> |
+|[s, z]|[c, t, d, u, v, w, g, k]|[b, f, i, n, o]|
+| ' |[r, h, j, l]|[p, q, a, e, x, y, m]| _ |
+Cost: 1.1686951371823333
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, j, z]|[d, u, v, g, w, n]|[f, x, l, m, o]|
+| ' |[p, r, h, i, k]|[a, q, c, t, y]| _ |
+Cost: 0.4804667529746777
+
+| word0 | word1 | word2 | n -> |
+|[s, x, i, z]|[a, d, e, w, m]|[r, t, g, y, l, n, o]|
+| ' |[p, q, j]|[b, c, u, v, f, h, k]| _ |
+Cost: 1.2041981762936018
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, e, h, j]|[a, w, m, n]|[v, g, y, l, o]|
+| ' |[p, q, r, t, i]|[b, s, u, f, x, z, k]| _ |
+Cost: 0.5297483187993276
+
+| word0 | word1 | word2 | n -> |
+|[p, c, e, x, m]|[z]|[v, w, h, l]|
+| ' |[a, q, b, s, d, u, g, y, n, o]|[r, t, f, i, j, k]| _ |
+Cost: 1.2987687435871182
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, s, x, j, k, n]|[e, g, h, z, m]|[d, v, w, o]|
+| ' |[q, r, b, c, u, y]|[p, t, f, i, l]| _ |
+Cost: 0.5219575765303248
+
+| word0 | word1 | word2 | n -> |
+|[b, k]|[t, j, l, m, n]|[u, v, f, o]|
+| ' |[a, c, d, g, h, x, y, z]|[p, q, r, s, e, w, i]| _ |
+Cost: 0.9219507774951433
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, e, j, z]|[p, d, u, v, h, n]|[f, x, l, m, o]|
+| ' |[a, c, t, y, k]|[r, g, w, i]| _ |
+Cost: 0.4843930503293264
+
+| word0 | word1 | word2 | n -> |
+|[q, e]|[a, g, x, k]|[b, d, f, v, w, y, n]|
+| ' |[r, c, s, u, h, z, j, m, o]|[p, t, i, l]| _ |
+Cost: 1.0017762879495709
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, u, x, k, l, n]|[c, d, v, h, j, o]|[a, s, f, w, y]|
+| ' |[e, g, z, m]|[p, r, t, i]| _ |
+Cost: 0.4744028579977604
+
+| word0 | word1 | word2 | n -> |
+|[t, g, x]|[a, c, f, w, i, y, l, n]|[e, z, o]|
+| ' |[q, b, s, d, v, m]|[p, r, u, h, j, k]| _ |
+Cost: 1.0854502337249254
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, i, l]|[e, f, g, w]|[r, z, m, o]|
+| ' |[a, q, b, c, d, v, y]|[s, u, h, x, j, k, n]| _ |
+Cost: 0.48989183645593204
+
+| word0 | word1 | word2 | n -> |
+|[q, d, u]|[b, v, h, x, l, m]|[p, r, t, g, i, j]|
+| ' |[a, s, e, w, y]|[c, f, z, k, n, o]| _ |
+Cost: 1.0961911273744998
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, e, m]|[b, d, u, v, x, n]|[p, a, t, l]|
+| ' |[r, f, g, w, i, y]|[c, h, j, z, k, o]| _ |
+Cost: 0.4999384328107944
+
+| word0 | word1 | word2 | n -> |
+|[p, q, a, t]|[c, d, u, x, h, y, k, m]|[s, g, w, j, l, n]|
+| ' |[b, z, o]|[r, e, f, v, i]| _ |
+Cost: 0.9243026302513737
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, c, t, l]|[s, d, u, f, h]|[e, g, m]|
+| ' |[w, x, j, z, k, n, o]|[p, r, b, v, i, y]| _ |
+Cost: 0.4880737767401204
+
+| word0 | word1 | word2 | n -> |
+|[q, i, l, m, o]|[a, b, c, t, e, f, g, y, z, n]|[p, r, j, k]|
+| ' |[s, d, v]|[u, w, h, x]| _ |
+Cost: 1.295819000967281
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, d, x, l, o]|[a, r, b, c, y, k]|[p, t, v, i, j]|
+| ' |[e, g, w, m, n]|[s, u, f, h, z]| _ |
+Cost: 0.5017863151478602
+
+| word0 | word1 | word2 | n -> |
+|[p, q, a, c, s, d, f, w, g, o]|[b, u, v, i]|[t, x, k, m, n]|
+| ' |[e, l]|[r, h, y, j, z]| _ |
+Cost: 1.310482355294775
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, f, g, w, i, z]|[r, b, e, j]|[s, u, x, k, m, n]|
+| ' |[c, d, v, l, o]|[a, t, h, y]| _ |
+Cost: 0.49831015805956763
+
+| word0 | word1 | word2 | n -> |
+|[d, e, f, v, z]|[p, a, u, x, y, m]|[q, i]|
+| ' |[b, t, w, h, k, l, o]|[r, s, c, g, j, n]| _ |
+Cost: 1.1319559701887822
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, f, v, i, l]|[b, c, t, u, y]|[q, e, g, h, x, z, m]|
+| ' |[r, w, j, k, o]|[a, s, n]| _ |
+Cost: 0.4879943885194204
+
+| word0 | word1 | word2 | n -> |
+|[a, q, c, e, z]|[x, h, y, m]|[t, f, v, i, l, o]|
+| ' |[p, r, s, d, g, j, n]|[b, u, w, k]| _ |
+Cost: 1.025488359202186
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, b, e, g, z]|[t, f, i, m]|[c, d, v, x, l, o]|
+| ' |[p, a, h, j, n]|[s, u, w, y, k]| _ |
+Cost: 0.4850246105087261
+
+| word0 | word1 | word2 | n -> |
+|[h]|[b, c, t, w, y, j, m]|[q, r, f, g, i, z, o]|
+| ' |[p, s, u, e, k, n]|[a, d, v, x, l]| _ |
+Cost: 0.9393649296015681
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, g, h, j]|[p, r, w, i, k]|[q, f, z, l, m, o]|
+| ' |[b, c, d, u, x, n]|[a, t, v, y]| _ |
+Cost: 0.4853969488435115
+
+| word0 | word1 | word2 | n -> |
+|[a, s, t, x, j]|[r]|[p, c, u, g, y, l, m, n, o]|
+| ' |[b, e, v, f, h, i, z, k]|[q, d, w]| _ |
+Cost: 1.2488804669854503
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, l, o]|[r, e, g, z, m]|[f, v, h, i, y]|
+| ' |[p, b, c, t, u, x, j, k]|[a, q, s, w, n]| _ |
+Cost: 0.48726660655900667
+
+| word0 | word1 | word2 | n -> |
+|[t, f, x, h]|[a, r, b, d, u, g, w, z, m, o]|[p, q, v, i]|
+| ' |[c, j, k, n]|[s, e, y, l]| _ |
+Cost: 0.9164122778392984
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, c, t, u, h]|[f, v, w, x, j, o]|[q, d, e, m]|
+| ' |[p, a, g, k, n]|[b, s, i, y, z, l]| _ |
+Cost: 0.5118909323895698
+
+| word0 | word1 | word2 | n -> |
+|[a, r, c, w, l]|[q, s, e, f, h, k, m]|[b, i, o]|
+| ' |[d, x, y, j, n]|[p, t, u, v, g, z]| _ |
+Cost: 1.047441901781902
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, w, j, k, n]|[q, f, h, x, i, l, m]|[t, v, o]|
+| ' |[s, d, u, y]|[p, r, b, c, e, g, z]| _ |
+Cost: 0.4954705945818764
+
+| word0 | word1 | word2 | n -> |
+|[a, b, s, f, g, i]|[c, w, m, n]|[r, t, u, x, j]|
+| ' |[q, v, h, z]|[p, d, e, y, k, l, o]| _ |
+Cost: 1.2861578894526426
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, b, f, k, l]|[s, w, i, j, z, n]|[p, r, t, u]|
+| ' |[q, d, e, v, h, x]|[c, g, y, m, o]| _ |
+Cost: 0.527894566173336
+
+| word0 | word1 | word2 | n -> |
+|[b, w, h, y, m, o]|[q, j, k, n]|[t, d, e, f]|
+| ' |[p, a, r, s, g, x, i, l]|[c, u, v, z]| _ |
+Cost: 1.5519501326778398
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, w, k]|[q, b, c, e, j, n]|[s, d, f, i]|
+| ' |[v, g, x, l, m, o]|[p, t, u, h, y, z]| _ |
+Cost: 0.45712835089806303
+
+| word0 | word1 | word2 | n -> |
+|[r, d, e, f, g, w, x, h, m]|[b, c, t, u, v, y]|[p, q, j, k, n]|
+| ' |[i, z, o]|[a, s, l]| _ |
+Cost: 0.8322837532179235
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, u, g, h, x, z, m]|[b, t, v, y, l]|[q, c, e, i, n]|
+| ' |[r, j, k, o]|[a, s, d, f, w]| _ |
+Cost: 0.5304746508160051
+
+| word0 | word1 | word2 | n -> |
+|[c, i, k]|[a, q, e, u, f, g, z, l, o]|[b, w, h, x]|
+| ' |[d, j, m, n]|[p, r, s, t, v, y]| _ |
+Cost: 1.093386289057687
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, t, v, i, l]|[q, c, f, h, x, o]|[p, d, u, w, n]|
+| ' |[e, g, z, m]|[a, r, s, y, j, k]| _ |
+Cost: 0.46870608387191826
+
+| word0 | word1 | word2 | n -> |
+|[a, r, s, c, z]|[q, u, e, f, i, j, l]|[b, t, v, g, y, k]|
+| ' |[w, x, h, n]|[p, d, m, o]| _ |
+Cost: 0.6710371941693641
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, s, f, i, j, z]|[q, c, t, u, h, k]|[p, a, b, v, g, x, y]|
+| ' |[e, w, n]|[d, l, m, o]| _ |
+Cost: 0.4757990617068124
+
+| word0 | word1 | word2 | n -> |
+|[q, r, c, e, u, z, m]|[p, v, f, w, g, i, n]|[h, y, j, l]|
+| ' |[t, x, k]|[a, b, s, d, o]| _ |
+Cost: 0.7251474277394895
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, e, z, n]|[u, f, g, w, y, j]|[a, s, h, m]|
+| ' |[p, r, t, i, k]|[c, d, v, x, l, o]| _ |
+Cost: 0.4664399648785285
+
+| word0 | word1 | word2 | n -> |
+|[p, b, r, e, w, o]|[a, f, h, n]|[s, c, t, v, z, j, l]|
+| ' |[q, d, u, y, k, m]|[g, x, i]| _ |
+Cost: 0.952835987647603
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, w, k, o]|[t, v, g, h, i]|[s, u, x, j, z, l, n]|
+| ' |[p, a, q, f, y, m]|[b, c, d, e]| _ |
+Cost: 0.46542923289850713
+
+| word0 | word1 | word2 | n -> |
+|[a, b, f, l]|[r, d, e, g, x, h, y, m, o]|[s, v]|
+| ' |[p, q, c, u, j, k, n]|[t, w, i, z]| _ |
+Cost: 0.9760750686333786
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, f, x, j, l, o]|[u, g, h, y, m]|[c, t, e, v]|
+| ' |[a, s, d, n]|[p, r, w, i, z, k]| _ |
+Cost: 0.5475495151516503
+
+| word0 | word1 | word2 | n -> |
+|[g, k]|[v, w, y, j, z]|[b, r, t, e, h, i, m, n]|
+| ' |[p, q, a, u, x, l, o]|[c, s, d, f]| _ |
+Cost: 1.3797219694323544
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, e, g, j, n]|[a, s, v, w, y, z]|[p, r, d, u, h]|
+| ' |[q, c, t, k, o]|[f, x, i, l, m]| _ |
+Cost: 0.4735499693608488
+
+| word0 | word1 | word2 | n -> |
+|[a, q, e, u, v, k, m]|[b, c, d, g, w, h, i, z]|[r, t, y, l, o]|
+| ' |[j]|[p, s, f, x, n]| _ |
+Cost: 1.1233702338505285
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, r, b, m]|[e, w, j, z, n]|[v, g, y, l, o]|
+| ' |[p, c, t, u, h, k]|[s, d, f, x, i]| _ |
+Cost: 0.4630603049063104
+
+| word0 | word1 | word2 | n -> |
+|[a, b, d, u, w, h, y, k, l, m]|[p, t, g, j, z, n]|[f, o]|
+| ' |[q, c, e, x]|[r, s, v, i]| _ |
+Cost: 1.2080167165511766
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, w, i, z, k]|[b, s, d, u, n]|[f, x, l, m, o]|
+| ' |[q, c, e, g, h, j]|[a, t, v, y]| _ |
+Cost: 0.46260557566718963
+
+| word0 | word1 | word2 | n -> |
+|[q, b, u, f, g, w, h, i, z, n]|[a, k, m]|[r, x, o]|
+| ' |[p, s, e, v, y, j]|[c, d, t, l]| _ |
+Cost: 1.151969525620222
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, f, g, w, m]|[p, q, u, h, x, z, k, n]|[c, d, l, o]|
+| ' |[a, s, v, y, j]|[r, b, t, i]| _ |
+Cost: 0.4668624520405079
+
+| word0 | word1 | word2 | n -> |
+|[r, h, j, k, o]|[d, i, y]|[p, q, s, t, v, w, m, n]|
+| ' |[a, b, u, g, z, l]|[c, e, f, x]| _ |
+Cost: 1.1755847312661223
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, c, h, x, j, k, o]|[a, d, y, m]|[p, q, u, v, g, w, n]|
+| ' |[b, t, e, z]|[s, f, i, l]| _ |
+Cost: 0.4890914671830273
+
+| word0 | word1 | word2 | n -> |
+|[a, s, d, e, v, j, o]|[r, x, k, l]|[p, q, c, t, u, i, n]|
+| ' |[f, h, y, z, m]|[b, w, g]| _ |
+Cost: 1.306273588407193
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, x, j, l, o]|[p, t, h, i, k]|[q, b, u, m, n]|
+| ' |[a, s, f, y, z]|[r, e, v, g, w]| _ |
+Cost: 0.47692432172367455
+
+| word0 | word1 | word2 | n -> |
+|[a, d, v, g, x, h, j, z, k]|[p, q, r, f, i, l, n]|[t, e, m]|
+| ' |[s, u, w, y, o]|[b, c]| _ |
+Cost: 1.1481645843695238
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, h, x, j, z, o]|[a, q, d, f, y, m]|[p, c, t, i, k]|
+| ' |[s, u, w, n]|[b, e, v, g, l]| _ |
+Cost: 0.4585908257950168
+
+| word0 | word1 | word2 | n -> |
+|[b, r, t, u, m, n, o]|[p, e, f, x, y, l]|[a, v, w, i, z]|
+| ' |[q, c, h]|[s, d, g, j, k]| _ |
+Cost: 1.323364144582638
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, v, m, o]|[c, u, f, x, i, y, l]|[s, e, w]|
+| ' |[q, r, t, h]|[a, b, g, j, z, k, n]| _ |
+Cost: 0.5015571372722938
+
+| word0 | word1 | word2 | n -> |
+|[q, b, x, j, k, n, o]|[s, e, i, m]|[a, l]|
+| ' |[p, r, u, f, v, w, g, h, y]|[c, t, d, z]| _ |
+Cost: 0.7975264907392419
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[w, x, z, k, n, o]|[q, r, i, y, m]|[b, s, d, e]|
+| ' |[p, u, f, v, g, h, j]|[a, c, t, l]| _ |
+Cost: 0.4633268323299001
+
+| word0 | word1 | word2 | n -> |
+|[v, z]|[a, s, c, j]|[r, e, h, l, n]|
+| ' |[q, d, t, w, i, k, m, o]|[p, b, u, f, g, x, y]| _ |
+Cost: 1.134455770807746
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, e, l]|[a, r, t, m]|[p, s, h, i, j, z, k, n]|
+| ' |[q, d, v, w, o]|[b, u, f, g, x, y]| _ |
+Cost: 0.47010226538008393
+
+| word0 | word1 | word2 | n -> |
+|[r, t, y, z, k, m, n]|[b, c, s, d, g, i]|[p, v, h, l]|
+| ' |[e, u, f, x, j, o]|[a, q, w]| _ |
+Cost: 0.9197134317317376
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, c, z, k, n]|[b, s, e, v, g, j]|[t, h, o]|
+| ' |[d, u, f, x, l, m]|[q, r, w, i, y]| _ |
+Cost: 0.441318496310287
+
+| word0 | word1 | word2 | n -> |
+|[q, a, b, s, t, v, h, y, j]|[u, z, m]|[r, w, k, o]|
+| ' |[d, e, i, l, n]|[p, c, f, g, x]| _ |
+Cost: 1.1977562312392527
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, b, c, y, n]|[e, g, x, z, m]|[r, u, w, k, l]|
+| ' |[s, d, v, h, o]|[p, t, f, i, j]| _ |
+Cost: 0.4697651867902964
+
+| word0 | word1 | word2 | n -> |
+|[p, w]|[s, c, u, f, g, i, j, k, l, m]|[q, a, b, d, e, v]|
+| ' |[t, x, y, z, n, o]|[r, h]| _ |
+Cost: 0.9543387541782633
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, w, z, n]|[g, x, m, o]|[a, q, b, c, t, f, j]|
+| ' |[p, d, u, v, i, y, l]|[r, s, h, k]| _ |
+Cost: 0.46507220518731146
+
+| word0 | word1 | word2 | n -> |
+|[r]|[b, s, d]|[a, q, t, e, g, w, h, i, z, o]|
+| ' |[p, f, v, y, m]|[c, u, x, j, k, l, n]| _ |
+Cost: 1.3609272098220906
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, t, i, y, k]|[b, s, e]|[v, g, w, j, z, l, o]|
+| ' |[a, c, d, f]|[p, u, h, x, m, n]| _ |
+Cost: 0.4488500112257707
+
+| word0 | word1 | word2 | n -> |
+|[c, t, x, i, m, n]|[q, y, j, z, o]|[e, u, f, w, h, l]|
+| ' |[s, v]|[p, a, r, b, d, g, k]| _ |
+Cost: 0.8012363030103659
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, y, z, m]|[q, t, v, h, o]|[p, f, g, w, i]|
+| ' |[c, d, e, j, l]|[b, s, u, x, k, n]| _ |
+Cost: 0.4683008041596197
+
+| word0 | word1 | word2 | n -> |
+|[q, r, c, z, k, n]|[p, a, s, g, x, m]|[b, d, e, u, f, h, l]|
+| ' |[t, v, i, j, o]|[w, y]| _ |
+Cost: 0.8427426872938792
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, d, e, f, h, j, z]|[r, x, i, k, m]|[b, s, u, v, y, l]|
+| ' |[t, g, o]|[p, a, w, n]| _ |
+Cost: 0.4648623337092334
+
+| word0 | word1 | word2 | n -> |
+|[b, r, t, u, e, v, f, x, j, k, o]|[g, h, z, n]|[w, y, i, l, m]|
+| ' |[p, q, c]|[a, s, d]| _ |
+Cost: 1.6017432021285747
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, f, x, o]|[p, u, g, h, j, z, n]|[d, v, w, i, y, l]|
+| ' |[q, t, e, m]|[a, r, s, k]| _ |
+Cost: 0.5458559850545617
+
+| word0 | word1 | word2 | n -> |
+|[b, w, l]|[q, d, t, v, g, y, k]|[p, s, f, j]|
+| ' |[a, r, e, i, z, n]|[c, u, h, x, m, o]| _ |
+Cost: 1.0952854190831822
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, w, n]|[p, a, q, b, v, g, y]|[s, d, f, x, i, j]|
+| ' |[r, z, l, m, o]|[c, t, u, h, k]| _ |
+Cost: 0.45039153273623966
+
+| word0 | word1 | word2 | n -> |
+|[a, r, c, v, i, y, l, m]|[t, e]|[b]|
+| ' |[p, q, d, u, w, x, h, j, n]|[s, f, g, z, k, o]| _ |
+Cost: 0.8833251965157168
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, c, d, f]|[p, r, t, i, y]|[b, s, e]|
+| ' |[q, u, v, g, w, j, l, n]|[h, x, z, k, m, o]| _ |
+Cost: 0.4347431675051082
+
+| word0 | word1 | word2 | n -> |
+|[b, f, w, h, m]|[a, t, u, y, o]|[e, x, i]|
+| ' |[p, q, r, s, d, j, n]|[c, v, g, z, k, l]| _ |
+Cost: 0.9230064785546462
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, f, w, x]|[d, y, j, l, o]|[c, t, u, h]|
+| ' |[p, a, q, v, g, n]|[r, b, i, z, k, m]| _ |
+Cost: 0.4721813567259059
+
+| word0 | word1 | word2 | n -> |
+|[f, g, x, h, j, l, n]|[b, s, w, k, o]|[a, r, c, i, z]|
+| ' |[p, t, e, y, m]|[q, d, u, v]| _ |
+Cost: 0.8334315378242642
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, g, h, x, i, j, z, l]|[r, w, k, o]|[b, s, u, n]|
+| ' |[a, t, f, v, y]|[q, c, d, e, m]| _ |
+Cost: 0.4500186407565247
+
+| word0 | word1 | word2 | n -> |
+|[q, a, u, v]|[c, d, e, g, o]|[r, s, i, y, z]|
+| ' |[b, f, w, x, j, k, l, n]|[p, t, h, m]| _ |
+Cost: 0.7850092402236979
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, u, v, z, n]|[c, g, x, l, o]|[r, d, h, i, y]|
+| ' |[e, w, j, k]|[p, a, t, f, m]| _ |
+Cost: 0.458941225026723
+
+| word0 | word1 | word2 | n -> |
+|[p, a, r, d, t, u, f, x, k]|[q, i, l, n]|[c, v, w, g, y]|
+| ' |[s, e, m]|[b, h, j, z, o]| _ |
+Cost: 1.0794388413649445
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, u, f, h, x, j]|[p, a, q, r, k, n]|[s, w, i, y, z, l]|
+| ' |[e, v, g, m]|[b, t, o]| _ |
+Cost: 0.4713967180754906
+
+| word0 | word1 | word2 | n -> |
+|[t, e, v, g, h, m, o]|[a, r, y, k]|[b, s, u, w, n]|
+| ' |[p, q, c, f, x, i, j]|[d, z, l]| _ |
+Cost: 1.1844850171424721
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, h, j, z, o]|[a, r, b, c, y, k]|[p, u, g, w, x, n]|
+| ' |[q, t, f, v, i, l]|[d, e, m]| _ |
+Cost: 0.4309494059155776
+
+| word0 | word1 | word2 | n -> |
+|[p, e, h, l]|[q, u, v, w, m]|[r, b, s, c, d, i]|
+| ' |[g, y, j, k, n]|[a, t, f, x, z, o]| _ |
+Cost: 0.8801025041911059
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, h]|[q, e, v, w, i, m]|[b, s, d, u, n]|
+| ' |[a, r, c, g, y]|[f, x, j, z, k, l, o]| _ |
+Cost: 0.4627920003100412
+
+| word0 | word1 | word2 | n -> |
+|[q, d, u, x, y, j]|[a, i]|[p, b, s, c, t, f, v, g, h, k, l]|
+| ' |[e, n, o]|[r, w, z, m]| _ |
+Cost: 1.1807364386533736
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, d, u, h, y, j, l]|[a, t, k, m]|[b, s, f, x, i, z]|
+| ' |[c, n, o]|[r, e, v, g, w]| _ |
+Cost: 0.44738432766723196
+
+| word0 | word1 | word2 | n -> |
+|[a, r, e, u, h, i, z]|[b, x, l, n, o]|[q, s, c, f, w]|
+| ' |[d, t, y, j, m]|[p, v, g, k]| _ |
+Cost: 1.3654652135387835
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, t, h, k]|[b, x, n, o]|[q, s, f, w, i, j, l]|
+| ' |[a, c, d, v, y]|[e, u, g, z, m]| _ |
+Cost: 0.4454989350873907
+
+| word0 | word1 | word2 | n -> |
+|[p, v, z, l]|[g, y]|[q, a, b, e, w, x, n, o]|
+| ' |[r, s, c, u, h, i]|[d, t, f, j, k, m]| _ |
+Cost: 1.091893105872859
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, d, u, x, j, n]|[e, g, l, m]|[q, r, w, k, o]|
+| ' |[a, t, v, h, y]|[p, s, f, i, z]| _ |
+Cost: 0.43082065603508646
+
+| word0 | word1 | word2 | n -> |
+|[c, u, v, j]|[a, r, e, i, l]|[b, f, h, y, z, o]|
+| ' |[p, q, t, g, x, k, n]|[s, d, w, m]| _ |
+Cost: 1.0004784979596533
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, m]|[p, r, t, i]|[a, b, c, f, v, y, z]|
+| ' |[q, u, w, x, k, l, n]|[s, d, h, j, o]| _ |
+Cost: 0.40425777079909725
+
+| word0 | word1 | word2 | n -> |
+|[a, t, u, v, h, k]|[b, d, e, l, n, o]|[r, w, y, m]|
+| ' |[s, f, g, x, z]|[p, q, c, i, j]| _ |
+Cost: 0.8355251574190197
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, t, u, h]|[c, d, v, j, l, o]|[a, w, n]|
+| ' |[b, s, i, y, z, k]|[q, e, f, g, x, m]| _ |
+Cost: 0.4120869626893173
+
+| word0 | word1 | word2 | n -> |
+|[y, j, k]|[e, u, v, f, w, i, n, o]|[c, z, m]|
+| ' |[g, h, x, l]|[p, a, q, b, r, s, t, d]| _ |
+Cost: 1.3178185464275483
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, c, i, y, j, k]|[w, x, l, n, o]|[e, g, z, m]|
+| ' |[t, u, v, h]|[a, q, b, s, d, f]| _ |
+Cost: 0.4301943257895217
+
+| word0 | word1 | word2 | n -> |
+|[t, v, f, g, x, z, n]|[p, a, b, c, m]|[q, s]|
+| ' |[r, u, w, y, j, o]|[d, e, h, i, k, l]| _ |
+Cost: 0.7999846858507115
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, f, g, y, z]|[r, b, t, i, j]|[q, s, e, m]|
+| ' |[d, w, l, o]|[c, u, v, h, x, k, n]| _ |
+Cost: 0.4456214772585387
+
+| word0 | word1 | word2 | n -> |
+|[a, r, s, d]|[c, t, e, f, v]|[b, w, h, o]|
+| ' |[p, q, g, j, z, k, l, m]|[u, x, y, i, n]| _ |
+Cost: 0.8486939875840855
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, w, x, n]|[b, t, f, v, i, j]|[c, d, l, o]|
+| ' |[q, r, e, g, z, m]|[s, u, h, y, k]| _ |
+Cost: 0.4241573997660974
+
+| word0 | word1 | word2 | n -> |
+|[a, q, b, s, g, i]|[p, d, m, o]|[r, t, u, v, z, n]|
+| ' |[c, e, f, h, j]|[w, x, y, k, l]| _ |
+Cost: 1.1313237775871148
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, b, s, z, k, n]|[q, d, v, x, m, o]|[p, r, t, i]|
+| ' |[c, e, f, h, j]|[u, g, w, y, l]| _ |
+Cost: 0.4444049552928965
+
+| word0 | word1 | word2 | n -> |
+|[q, b, t, v, x, l, n]|[h, y, o]|[p, s, d, f, j]|
+| ' |[r, c, e, g, w, i, k, m]|[a, u, z]| _ |
+Cost: 0.8299226544811896
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, b, v, g, j, n]|[c, d, h, y, o]|[s, f, w, i, l]|
+| ' |[e, x, k, m]|[p, r, t, u, z]| _ |
+Cost: 0.4454919031908045
+
+| word0 | word1 | word2 | n -> |
+|[d, u, y]|[q, a, r, c, e, l]|[p, v, g, w, j, k, n]|
+| ' |[t, f, z, m]|[b, s, x, h, i, o]| _ |
+Cost: 0.8645368560465615
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, d, u, h, y, j]|[p, a, q, x, k, n]|[e, g, w, l]|
+| ' |[r, f, i, z, m]|[b, c, t, v, o]| _ |
+Cost: 0.45380683912348146
+
+| word0 | word1 | word2 | n -> |
+|[q, g, z, k]|[c, s, u, h]|[a, r, e, v, x, y, o]|
+| ' |[p, b, d, f, w, m]|[t, i, j, l, n]| _ |
+Cost: 0.9771080633095456
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, t, v, i]|[p, d, u, h, j, n]|[c, g, x, y, z, l, o]|
+| ' |[e, f, w, m]|[a, b, s, k]| _ |
+Cost: 0.4248817198205738
+
+| word0 | word1 | word2 | n -> |
+|[q, a, d, e, g, y, k, m, o]|[r, b, c, f, w, x, h, j, z]|[i, n]|
+| ' |[t, u]|[p, s, v, l]| _ |
+Cost: 1.2781483186671139
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, g, y, z, o]|[s, f, x, i, j, l]|[b, e, k, m]|
+| ' |[r, t, u, h]|[p, a, d, v, w, n]| _ |
+Cost: 0.4401332824971601
+
+| word0 | word1 | word2 | n -> |
+|[r, j, k, m, n]|[t, u, g, z, l]|[f, w, x, o]|
+| ' |[p, a, b, s, d, e, y]|[q, c, v, h, i]| _ |
+Cost: 0.6940672775546258
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, w, i, z, k, n]|[r, t, h]|[f, x, l, m, o]|
+| ' |[a, b, c, d, v, y]|[p, q, e, u, g, j]| _ |
+Cost: 0.4198549389686344
+
+| word0 | word1 | word2 | n -> |
+|[a, r, d, u, j, m, n]|[p, q, c, e, v, y, k]|[s, h]|
+| ' |[b, t, f, g, i, z, o]|[w, x, l]| _ |
+Cost: 0.8788702509419056
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, u, m, n]|[a, q, c, t, y, k]|[r, s, h, i, j]|
+| ' |[b, f, x, l, o]|[e, v, g, w, z]| _ |
+Cost: 0.4302340237285606
+
+| word0 | word1 | word2 | n -> |
+|[p, b, k]|[v, h, z, m]|[a, f, x]|
+| ' |[q, c, s, d, t, w, n]|[r, e, u, g, y, i, j, l, o]| _ |
+Cost: 1.2008297402190566
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, e, k]|[r, x, z, m, o]|[a, t, f, l]|
+| ' |[d, v, w, i, n]|[p, c, u, g, h, y, j]| _ |
+Cost: 0.42587159618890663
+
+| word0 | word1 | word2 | n -> |
+|[q, r, g]|[b, d, u, e]|[s, f, x, y, j, k, n]|
+| ' |[p, v, w, h, i, z, l]|[a, c, t, m, o]| _ |
+Cost: 0.6986460118545571
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, u, g, m, n]|[b, c, d, e]|[s, f, h, i, y, j, z]|
+| ' |[a, r, w, x, k]|[t, v, l, o]| _ |
+Cost: 0.4078035430906669
+
+| word0 | word1 | word2 | n -> |
+|[h, i, y, z, k]|[p, r, t, u, m]|[b, e, g, x, j, o]|
+| ' |[s, f, w, l, n]|[q, a, c, d, v]| _ |
+Cost: 0.6870742970837207
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[t, h, i, y]|[s, u, x, j, z, k, n]|[g, l, m, o]|
+| ' |[a, r, d, f, w]|[p, q, b, c, e, v]| _ |
+Cost: 0.43014800284160326
+
+| word0 | word1 | word2 | n -> |
+|[p, t, g, y]|[b, h]|[c, e, f, w, x, i, l, m, o]|
+| ' |[s, d, u, v, k]|[q, a, r, j, z, n]| _ |
+Cost: 0.8475814721980588
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[t, v, i, y, l]|[b, s, e]|[f, w, m, o]|
+| ' |[r, c, d, u, h, x]|[p, a, q, g, j, z, k, n]| _ |
+Cost: 0.44013274587474616
+
+| word0 | word1 | word2 | n -> |
+|[p, a, d, t, x, j]|[b, c, f, l]|[q, s, e, w, g, h, k, n]|
+| ' |[r, v, m]|[u, i, y, z, o]| _ |
+Cost: 1.1455890845679408
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, t, i, l]|[b, s, e, f]|[u, w, h, j, k, n]|
+| ' |[p, a, r, g, y, m]|[c, d, v, x, z, o]| _ |
+Cost: 0.4279179888244706
+
+| word0 | word1 | word2 | n -> |
+|[p, a, r, e, u, v, w, i, k, o]|[q, b, c, j]|[f, h, z]|
+| ' |[s, t, x, y, l, m]|[d, g, n]| _ |
+Cost: 1.694519549546773
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[v, w, x, z, l, o]|[q, b, s, e, j, k]|[r, c, d, h, i]|
+| ' |[t, u, f, y, m]|[p, a, g, n]| _ |
+Cost: 0.4205248267470108
+
+| word0 | word1 | word2 | n -> |
+|[p, q, t, e, w, k, o]|[a, c, s, u, x, i, z, l, m]|[b, v, n]|
+| ' |[d, g]|[r, f, h, y, j]| _ |
+Cost: 1.3484503506514294
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, w, z, k, o]|[p, t, u, f, m]|[a, s, x, n]|
+| ' |[b, c, d, e]|[v, g, h, i, y, j, l]| _ |
+Cost: 0.4185636787937218
+
+| word0 | word1 | word2 | n -> |
+|[q, z]|[u, w, h, k, l, o]|[b, f, v, x, n]|
+| ' |[s, t, m]|[p, a, r, c, d, e, g, y, i, j]| _ |
+Cost: 1.1440457771807229
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, e, g, z, m]|[s, u, w, i, j, k, n]|[f, v, x, l, o]|
+| ' |[r, t, h]|[p, a, b, c, d, y]| _ |
+Cost: 0.41018871899151127
+
+| word0 | word1 | word2 | n -> |
+|[t, z]|[q, r, c, f, k, l]|[a, i, m, n, o]|
+| ' |[p, b, s, d, u, g, w, h, x, j]|[e, v, y]| _ |
+Cost: 0.9070822818004766
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, x, j, l, n, o]|[d, e, f, m]|[a, t, v, h]|
+| ' |[p, r, u, g, w, z]|[b, s, i, y, k]| _ |
+Cost: 0.41076336248893647
+
+| word0 | word1 | word2 | n -> |
+|[q, b, r, t, g, h, y, k, m]|[s, z, j]|[p, u, v, x, i, l, o]|
+| ' |[w, n]|[a, c, d, e, f]| _ |
+Cost: 1.2402807325201695
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, t, u, y, l]|[e, g, x, z, m]|[r, c, j, k, o]|
+| ' |[p, s, w, i, n]|[a, d, f, v, h]| _ |
+Cost: 0.3868180247618108
+
+| word0 | word1 | word2 | n -> |
+|[q, u, j, l, n, o]|[c, h, m]|[b, t, x, i]|
+| ' |[p, s, d, v, z, k]|[a, r, e, f, w, g, y]| _ |
+Cost: 0.7665848577781205
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, d, h, j, k, o]|[s, u, x, l, n]|[a, r, b, t]|
+| ' |[p, e, g, z, m]|[f, v, w, i, y]| _ |
+Cost: 0.3863949498547812
+
+| word0 | word1 | word2 | n -> |
+|[p, b, s, t, m]|[q, c, d, v, k]|[a, u, f, x, j]|
+| ' |[r, e, g, h, z, o]|[w, i, y, l, n]| _ |
+Cost: 1.252727622753066
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, z, k]|[q, r, d, i, y, m]|[a, t, f]|
+| ' |[c, g, h, o]|[p, u, v, w, x, j, l, n]| _ |
+Cost: 0.3995688583486227
+
+| word0 | word1 | word2 | n -> |
+|[p, b, t, y, n]|[a, r, s, u, f, v]|[c, g, j, z, m, o]|
+| ' |[q, d, e, x, i, k]|[w, h, l]| _ |
+Cost: 0.667661229790824
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, b, v, y, n]|[s, u, f, z, m]|[d, x, j, l, o]|
+| ' |[p, q, c, t, h, i, k]|[r, e, g, w]| _ |
+Cost: 0.4067306313312294
+
+| word0 | word1 | word2 | n -> |
+|[p, i, o]|[r, b, c, s, t, f, x, y, j, n]|[q, e, u, v, k, m]|
+| ' |[a, d, h]|[g, w, z, l]| _ |
+Cost: 0.9487638389541103
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, t, k, o]|[a, b, f, v, y]|[q, e, u, g, m]|
+| ' |[r, s, d, h]|[p, w, x, i, j, z, l, n]| _ |
+Cost: 0.40636417727798796
+
+| word0 | word1 | word2 | n -> |
+|[t, u, w, j, k]|[y, m]|[c, e, x]|
+| ' |[p, a, q, s, f, i, z, o]|[b, r, d, v, g, h, l, n]| _ |
+Cost: 1.3664503247044881
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, u, w, k, n]|[r, g, i, y, z, m]|[p, a, t, l]|
+| ' |[q, f, h, x, j, o]|[b, c, d, e, v]| _ |
+Cost: 0.38587834459725323
+
+| word0 | word1 | word2 | n -> |
+|[r, b, s, d, u, g, x]|[p, f, w, o]|[q, a, c, t, v, y, z, k]|
+| ' |[e, i, l, m]|[h, j, n]| _ |
+Cost: 0.5122538190964366
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, b, d, l]|[f, w, z, m, o]|[a, q, t, v, y, k]|
+| ' |[s, e, u, g]|[p, c, h, x, i, j, n]| _ |
+Cost: 0.42348196303321073
+
+| word0 | word1 | word2 | n -> |
+|[p, q, r, s, v, g, z, k, l]|[b, d, u, e, f, j]|[n, o]|
+| ' |[c, t, w, h, x, y]|[a, i, m]| _ |
+Cost: 0.7263213811859941
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, c, e, v, g, j, z]|[s, d, u, f]|[h, x, l, n, o]|
+| ' |[p, r, w, i, y]|[a, t, k, m]| _ |
+Cost: 0.3944889826724838
+
+| word0 | word1 | word2 | n -> |
+|[a, s, d, f, h, z]|[q, c, l]|[p, w, j, m, n, o]|
+| ' |[r, b, g, i, k]|[t, e, u, v, x, y]| _ |
+Cost: 1.1240140739846463
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, s, d, f, h, z]|[q, e, i, l]|[w, j, k, n, o]|
+| ' |[p, r, b, c, g, x]|[t, u, v, y, m]| _ |
+Cost: 0.44187164984563915
+
+| word0 | word1 | word2 | n -> |
+|[b, c, t, k]|[r, d, g, w]|[q, u, f, y, l, n]|
+| ' |[v, h, i, z, j]|[p, a, s, e, x, m, o]| _ |
+Cost: 0.8314101767705627
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, b, t, v, k]|[s, w, i, z, n]|[q, d, u, f, y, l]|
+| ' |[p, c, e, g, h, j]|[r, x, m, o]| _ |
+Cost: 0.3947810642526426
+
+| word0 | word1 | word2 | n -> |
+|[s, c]|[r, b, t, y, m, n]|[p, a, q, d, f, h, x, i]|
+| ' |[e, u, v, g, j, o]|[w, z, k, l]| _ |
+Cost: 0.9853995574200995
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, x, z, m]|[p, a, b, c, y, n]|[q, t, f, i, l]|
+| ' |[d, v, h, j, o]|[r, s, u, w, k]| _ |
+Cost: 0.39214598041248316
+
+| word0 | word1 | word2 | n -> |
+|[p, b, s, g, i, y, k]|[a, u, x]|[q, h, m, n]|
+| ' |[r, c, t, d, v, w, l]|[e, f, z, j, o]| _ |
+Cost: 1.2043663303783294
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, m]|[p, r, t, u, h]|[q, b, s, i, y, k]|
+| ' |[a, d, v, w, j, n]|[c, f, x, z, l, o]| _ |
+Cost: 0.38260720431979667
+
+| word0 | word1 | word2 | n -> |
+|[a, v, g, y, i]|[p, q, r, e, u, n]|[b, f, h, l]|
+| ' |[s, c, d, t, o]|[w, x, z, j, k, m]| _ |
+Cost: 0.8198869771061212
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, f, g, h, y, m]|[p, q, r, t, i]|[b, s, u, x, k]|
+| ' |[c, d, v, j, l, o]|[e, w, z, n]| _ |
+Cost: 0.39129856096114085
+
+| word0 | word1 | word2 | n -> |
+|[g, h, j, k]|[v, l]|[p, q, c, u, w, m, n, o]|
+| ' |[a, b, t, e, f, i]|[r, s, d, x, y, z]| _ |
+Cost: 1.0394695334566393
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, g, h, i, j, k]|[b, s, e]|[q, d, v, w, y, o]|
+| ' |[p, a, t, f]|[c, u, x, z, l, m, n]| _ |
+Cost: 0.3977973375848857
+
+| word0 | word1 | word2 | n -> |
+|[a, b, c, u, f, n]|[p, v, h]|[q, r, s, d, g, w, x, z, k, l, o]|
+| ' |[t, e, i, j]|[y, m]| _ |
+Cost: 1.2152754512708865
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, u, g, x, j, n]|[s, e, h]|[q, v, w, z, k, l, o]|
+| ' |[p, a, t, f]|[r, d, i, y, m]| _ |
+Cost: 0.4152968060995255
+
+| word0 | word1 | word2 | n -> |
+|[q, e, v, g, y, z]|[b, t, u, w, h, j, o]|[p, s, x, i, m]|
+| ' |[a, r, d, k, l, n]|[c, f]| _ |
+Cost: 0.7966833072500465
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, t, v, i, y]|[p, r, u, g, w, j]|[b, c, e, x, n]|
+| ' |[d, k, l, m, o]|[a, s, f, h, z]| _ |
+Cost: 0.3741247837995892
+
+| word0 | word1 | word2 | n -> |
+|[q, r, c, v, x, z, l]|[a, s, t, e, g, j, m, n]|[p, f, w, o]|
+| ' |[b, d, u, h, i]|[y, k]| _ |
+Cost: 0.9970959656995757
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, r, h, x, i, j, z, l]|[b, s, u, k, n]|[f, g, m, o]|
+| ' |[d, e, w]|[a, c, t, v, y]| _ |
+Cost: 0.3761634414370507
+
+| word0 | word1 | word2 | n -> |
+|[p, r, s, h]|[q, c, x, y, j]|[a, b, d, u, e, v, f, w]|
+| ' |[t, g, i, n, o]|[z, k, l, m]| _ |
+Cost: 0.8446375910528997
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, u, f, w, h]|[p, q, r, g, i, y, j]|[b, e, v, n]|
+| ' |[c, d, x, l, o]|[a, t, z, k, m]| _ |
+Cost: 0.3866635003685595
+
+| word0 | word1 | word2 | n -> |
+|[r, f, z, n]|[q, s, c, w, x, m]|[p, e]|
+| ' |[a, b, d, v, h, y, k, l]|[t, u, g, i, j, o]| _ |
+Cost: 0.869402570680832
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, d, f, g, h]|[q, e, w, m, n]|[p, t, i, l]|
+| ' |[b, s, u, v, y, z]|[r, c, x, j, k, o]| _ |
+Cost: 0.3866465991038059
+
+| word0 | word1 | word2 | n -> |
+|[i, y]|[a, q, b, d, f, m]|[s, t, v, g, k, l, n]|
+| ' |[p, r, c, e, u]|[w, x, h, j, z, o]| _ |
+Cost: 0.7003770833197334
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, l, m]|[a, q, c, d, f, h, j]|[b, s, x, i, z, k, n]|
+| ' |[p, r, t, u]|[v, g, w, y, o]| _ |
+Cost: 0.37930032072568143
+
+| word0 | word1 | word2 | n -> |
+|[b, t, g, y, m, o]|[p, v, w, x, h, i, l]|[a, r, s, d, u, z, k, n]|
+| ' |[e, f, j]|[q, c]| _ |
+Cost: 1.3246997367321955
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, y, z, k, o]|[r, u, g, w, m]|[p, a, d, x, j, n]|
+| ' |[t, f, i, l]|[q, s, e, v, h]| _ |
+Cost: 0.41517435190558666
+
+| word0 | word1 | word2 | n -> |
+|[q, s, v, h, o]|[c, e, w, x, l, m]|[p, a, b, f, n]|
+| ' |[r, d, t, i, y, j, z]|[u, g, k]| _ |
+Cost: 0.6180428833530457
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, k, m, o]|[e, g, w, n]|[a, b, s, f, v, x]|
+| ' |[c, d, i, y, j, z, l]|[p, t, u, h]| _ |
+Cost: 0.3812920139032637
+
+| word0 | word1 | word2 | n -> |
+|[r, b, c, h]|[p, q, s, v, x, z, l, m]|[d, w, j, k, o]|
+| ' |[f, i, n]|[a, t, u, e, g, y]| _ |
+Cost: 0.6807171210177195
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, w, x, n]|[q, r, e, g, z, m]|[c, d, j, l, o]|
+| ' |[b, s, i, y, k]|[t, u, f, v, h]| _ |
+Cost: 0.35685103362340753
+
+| word0 | word1 | word2 | n -> |
+|[a, c, t, e, h, k]|[p, s, d, i, l]|[u, w, z, m]|
+| ' |[q, v, f, g, x, y, n, o]|[b, r, j]| _ |
+Cost: 0.7041229492792108
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, t, u, h, k]|[s, d, f, w, x, i]|[p, a, z, m, n]|
+| ' |[q, v, g, y, j, l, o]|[r, b, e]| _ |
+Cost: 0.3704792704733695
+
+| word0 | word1 | word2 | n -> |
+|[c, s, d, t, f, m]|[b, u, v, y, n, o]|[r]|
+| ' |[q, w, h, x, k]|[p, a, e, g, i, j, z, l]| _ |
+Cost: 0.9079184365331615
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, f, h, x, i]|[b, v, y, l, o]|[s, e, g, j]|
+| ' |[p, q, u, w, z, m, n]|[a, r, t, k]| _ |
+Cost: 0.38866410188587164
+
+| word0 | word1 | word2 | n -> |
+|[t, u, i, j, l]|[d, y, z]|[p, a, c, f, w, k, n]|
+| ' |[o]|[q, r, b, s, e, v, g, h, x, m]| _ |
+Cost: 0.7152167445804841
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, u, h, y]|[b, c, e, v, g, j]|[a, d, f, w]|
+| ' |[r, z, m, o]|[q, s, x, i, k, l, n]| _ |
+Cost: 0.3639592727771934
+
+| word0 | word1 | word2 | n -> |
+|[p, r, c, d, o]|[s, t, e, v, w, h, y, l]|[b, f, k, m]|
+| ' |[q, a, u, g, x, j, n]|[i, z]| _ |
+Cost: 0.8636993435892063
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, v, l, m, o]|[a, s, w, y, z]|[b, e, f, g, j]|
+| ' |[p, q, c, x, i, k, n]|[r, t, u, h]| _ |
+Cost: 0.35991715488646603
+
+| word0 | word1 | word2 | n -> |
+|[x, j, l]|[p, q, a, b, s, e, u, g, h, i]|[r, c, f, y, m, n]|
+| ' |[w, z]|[d, t, v, k, o]| _ |
+Cost: 1.0202948283200786
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, i, l]|[q, b, s, u, n]|[a, c, d, f, v, y]|
+| ' |[e, g, w, z, m]|[r, h, x, j, k, o]| _ |
+Cost: 0.35443346348947197
+
+| word0 | word1 | word2 | n -> |
+|[u, f, i, j]|[a, t, x, l, n]|[p, r, b, c, y, k]|
+| ' |[s, d, m, o]|[q, e, v, g, w, h, z]| _ |
+Cost: 0.5585803408618302
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, m]|[p, a, c, x, j, k, n]|[b, t, u, f, y]|
+| ' |[d, v, h, l, o]|[q, r, g, w, i, z]| _ |
+Cost: 0.3520973401437719
+
+| word0 | word1 | word2 | n -> |
+|[d, v, x, z]|[a, b, c, s, t, u, f, i, m]|[q, h, j, l]|
+| ' |[k]|[p, r, e, g, w, y, n, o]| _ |
+Cost: 1.328846155322964
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, t, k]|[b, c, d, u, v, y, j, l]|[q, r, f, g, h, i, z]|
+| ' |[s, e]|[w, x, m, n, o]| _ |
+Cost: 0.4013250043100294
+
+| word0 | word1 | word2 | n -> |
+|[q, d, f, v, x, z, m, o]|[g, h, y, n]|[s, t, u, i]|
+| ' |[p, r, b, e, j, k]|[a, c, w, l]| _ |
+Cost: 0.594362957386115
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, f, x, z, l, m, o]|[p, u, v, g, h, y, j]|[b, s, d, e]|
+| ' |[a, c, t, k]|[r, w, i, n]| _ |
+Cost: 0.384185461465941
+
+| word0 | word1 | word2 | n -> |
+|[a, v, x, i, k, l]|[y, j]|[p, b, d, u, g, h, z, o]|
+| ' |[q, r, f, w, m, n]|[s, c, t, e]| _ |
+Cost: 1.2676918837608975
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, d, v, x, n]|[q, c, t, i, y, k]|[p, r, b, u, g, l]|
+| ' |[f, w, z, m, o]|[s, e, h, j]| _ |
+Cost: 0.3997797231373202
+
+| word0 | word1 | word2 | n -> |
+|[p, b, z, j, o]|[r, e, w, y]|[q, s, v, x, k]|
+| ' |[a, t, u, f, g, i, l, m, n]|[c, d, h]| _ |
+Cost: 0.831636188513289
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, t, o]|[p, v, w, x, i, z, l, n]|[q, b, s, e, j, k]|
+| ' |[a, r, g, m]|[d, u, f, h, y]| _ |
+Cost: 0.36548654478931014
+
+| word0 | word1 | word2 | n -> |
+|[a, e, w, l, n]|[c, v, g, y, j]|[p, s, d, h, m]|
+| ' |[r, t, u, x, o]|[q, b, f, i, z, k]| _ |
+Cost: 1.1329453759864694
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, w, x, n]|[r, c, u, v, g, h, y]|[d, e, f, m]|
+| ' |[s, z, l, o]|[q, b, t, i, j, k]| _ |
+Cost: 0.37524762199173517
+
+| word0 | word1 | word2 | n -> |
+|[a, q, v, i, y]|[d, e, f, g, x, m]|[r, t, z, j, l, o]|
+| ' |[p, s, u, w, h, k]|[b, c, n]| _ |
+Cost: 0.5920461778433668
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, s, v, h, y, z]|[e, f, g, m]|[t, k, o]|
+| ' |[p, r, w, i, j, l]|[b, c, d, u, x, n]| _ |
+Cost: 0.36101963244201735
+
+| word0 | word1 | word2 | n -> |
+|[a, q, c, s, e, f, g, n]|[b, h, y, k]|[r, j]|
+| ' |[p, z]|[d, t, u, v, w, x, i, l, m, o]| _ |
+Cost: 1.121636323646723
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, f, v, g, z, m]|[r, b, u, y, k]|[p, s, i, n]|
+| ' |[c, t, e, h]|[d, w, x, j, l, o]| _ |
+Cost: 0.3809212643917039
+
+| word0 | word1 | word2 | n -> |
+|[q, a, c, v, g, w, x, i]|[d, z, j, k, l, m, o]|[r, u, e, y]|
+| ' |[b, s, t]|[p, f, h, n]| _ |
+Cost: 1.197359848297984
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, q, w, j, z, n]|[d, v, x, l, m, o]|[c, t, u, y, k]|
+| ' |[b, s, e]|[r, f, g, h, i]| _ |
+Cost: 0.3644304377786146
+
+| word0 | word1 | word2 | n -> |
+|[e, h, i, j, z, m]|[p, r, s, l]|[a, w, y, n]|
+| ' |[c, t, u, x, o]|[q, b, d, f, v, g, k]| _ |
+Cost: 0.5406414758223673
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[t, u, v, h]|[p, c, d, x, i, n]|[a, s, w, y, z, k]|
+| ' |[r, l, m, o]|[q, b, e, f, g, j]| _ |
+Cost: 0.345182105413609
+
+| word0 | word1 | word2 | n -> |
+|[p, q, r, s, t]|[b, g, k]|[a, c, e, w, i, j, n, o]|
+| ' |[u, m]|[d, v, f, x, h, y, z, l]| _ |
+Cost: 0.9946830661252846
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, t, v, i, y, l]|[b, c, e, g]|[r, w, j, z, k, o]|
+| ' |[s, u, x, m, n]|[p, a, d, f, h]| _ |
+Cost: 0.36412012133803473
+
+| word0 | word1 | word2 | n -> |
+|[w, i]|[c, h]|[g, x, z, n]|
+| ' |[b, r, f, y, j, l, m]|[p, q, a, s, d, t, u, e, v, k, o]| _ |
+Cost: 0.9104090842721126
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, d, w, i]|[s, e, h, j, z, k]|[p, a, c, g, x, n]|
+| ' |[b, t, u, v, y]|[q, f, l, m, o]| _ |
+Cost: 0.35548540670467316
+
+| word0 | word1 | word2 | n -> |
+|[d, f, g, x, h, i, y, k]|[q, b, s, w, z, l]|[t, m, o]|
+| ' |[p, c, u, e, j]|[a, r, v, n]| _ |
+Cost: 0.5180823845140059
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, u, g, h, x, j, l]|[r, v, w, i, y, z]|[c, t, k, o]|
+| ' |[d, e, f, m]|[a, b, s, n]| _ |
+Cost: 0.3508757235429959
+
+| word0 | word1 | word2 | n -> |
+|[b, r, w, h, i]|[x, j, k, l, o]|[q, s, d, e, m]|
+| ' |[c, t, u, g, y, z, n]|[p, a, v, f]| _ |
+Cost: 0.5763731833456884
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, w, i, y, k]|[c, x, j, n, o]|[q, d, e, m]|
+| ' |[b, s, u, f, g, z, l]|[p, a, t, v, h]| _ |
+Cost: 0.34775988788497364
+
+| word0 | word1 | word2 | n -> |
+|[a, q, e, w, x, j]|[s, v, z, o]|[p, r, c, d, i, y, k, l, m]|
+| ' |[b, u, f, g, h, n]|[t]| _ |
+Cost: 1.0721673908259715
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, q, w, n]|[s, j, z, k, o]|[r, v, g, x, i, y, m]|
+| ' |[b, t, u, l]|[c, d, e, f, h]| _ |
+Cost: 0.35077746539533267
+
+| word0 | word1 | word2 | n -> |
+|[r, t, f, g, h, j]|[p, q, s, e, v, m, o]|[a, c, i, z]|
+| ' |[b, d, u, x, y, l]|[w, k, n]| _ |
+Cost: 0.7003131985342897
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, s, h, i, j, z, n]|[q, r, k, m, o]|[a, t, f]|
+| ' |[b, c, d, u, x, y, l]|[e, v, g, w]| _ |
+Cost: 0.3442866849468654
+
+| word0 | word1 | word2 | n -> |
+|[a, s, t, e, u, f, w, h, x, m]|[p, q, c, d, j, n]|[g, i, y, k, o]|
+| ' |[r, b, z]|[v, l]| _ |
+Cost: 1.386027802395696
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, u, g, j, z, m]|[p, q, d, w, i, n]|[c, x, k, l, o]|
+| ' |[r, b, t, y]|[a, s, f, v, h]| _ |
+Cost: 0.33780166014701557
+
+| word0 | word1 | word2 | n -> |
+|[c, f, h, l]|[d, u, e, v, x]|[t, w, z, k, m]|
+| ' |[p, r, y, i, n, o]|[a, q, b, s, g, j]| _ |
+Cost: 0.6459728365270796
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, u, h, x, k]|[c, d, e, f]|[r, w, i, z, m]|
+| ' |[v, g, y, j, l, o]|[a, q, b, s, n]| _ |
+Cost: 0.3519000867569868
+
+| word0 | word1 | word2 | n -> |
+|[r, c, y, o]|[q, b, t, e, f, i]|[p, x, h, z, k, l]|
+| ' |[a, d, g, w, j, m]|[s, u, v, n]| _ |
+Cost: 0.5289048710479702
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, v, l, o]|[q, b, c, t, f, i, j]|[p, e, h, k, m]|
+| ' |[a, r, g, w, y, z]|[s, u, x, n]| _ |
+Cost: 0.33968171448795403
+
+| word0 | word1 | word2 | n -> |
+|[p, b, g, h, z, k]|[y, j, m, n, o]|[a, q, f]|
+| ' |[c, s, e, v, i, l]|[r, d, t, u, w, x]| _ |
+Cost: 0.6847419032665519
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, i, y, k, l]|[r, c, v, h, x, j, o]|[p, a, q, t, f]|
+| ' |[e, g, z, m]|[d, u, w, n]| _ |
+Cost: 0.3333057026501991
+
+| word0 | word1 | word2 | n -> |
+|[p, q, g, j, m]|[a, b, f, x, k, n]|[v, w, y]|
+| ' |[c, s, d, u, l]|[r, t, e, h, i, z, o]| _ |
+Cost: 0.882179215855333
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, e, g, x, m]|[a, b, s, f, j, z, k]|[r, v, w, i, y]|
+| ' |[p, c, d, u, n]|[t, h, l, o]| _ |
+Cost: 0.3314884454716348
+
+| word0 | word1 | word2 | n -> |
+|[a, t, d, u, v, z, m, n]|[p, q, e, w, h, j]|[c, o]|
+| ' |[b, r, f, x, l]|[s, g, i, y, k]| _ |
+Cost: 1.1047010841552138
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, u, m, n]|[q, r, w, x, i, z, l]|[t, v, g, h, o]|
+| ' |[b, s, e, j]|[a, c, f, y, k]| _ |
+Cost: 0.328399792898234
+
+| word0 | word1 | word2 | n -> |
+|[p, d, e, u, m]|[r, s, t, f, w, h, k, o]|[g, i, y, z, j, l]|
+| ' |[q, a, c, v, n]|[b, x]| _ |
+Cost: 0.7605546126789592
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, f, h, x, m]|[w, z, k, l, o]|[r, s, i, y]|
+| ' |[p, a, q, v, g, j, n]|[b, c, t, e, u]| _ |
+Cost: 0.3599242202221042
+
+| word0 | word1 | word2 | n -> |
+|[m]|[a, u, v, g, l, n]|[b, e, k]|
+| ' |[r, s, c, w, x, z, o]|[p, q, t, d, f, h, i, y, j]| _ |
+Cost: 0.5690768086484956
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, t, m]|[p, s, u, k, n]|[a, b, c, e]|
+| ' |[v, g, w, x, j, z, l, o]|[q, d, f, h, i, y]| _ |
+Cost: 0.3564670280893821
+
+| word0 | word1 | word2 | n -> |
+|[d, f, w, x, k]|[t, u, e, z, l]|[p, r, v, o]|
+| ' |[q, s, g, h, n]|[a, b, c, i, y, j, m]| _ |
+Cost: 0.6175800915012556
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, w, j, z]|[b, t, f, i, l]|[r, m, o]|
+| ' |[q, s, u, h, x, k, n]|[p, a, c, d, v, y]| _ |
+Cost: 0.33282355382917495
+
+| word0 | word1 | word2 | n -> |
+|[a, d, e, h]|[r, s, v, k, l]|[q, b, t, w, i, z, n]|
+| ' |[p, f, y, j, m, o]|[c, u, g, x]| _ |
+Cost: 0.6024260979736127
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, d, h, y]|[p, a, b, t, k, l]|[q, s, w, i, z, n]|
+| ' |[c, f, x, j, o]|[e, u, v, g, m]| _ |
+Cost: 0.3452365619288901
+
+| word0 | word1 | word2 | n -> |
+|[a, r, s, e, g, y, i]|[c, w, k, n]|[p, t, u, f, j, l]|
+| ' |[b, v, x, z, o]|[q, d, h, m]| _ |
+Cost: 1.2010589145138348
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, b, s, f, z]|[p, w, x, i, k, n]|[r, e, g, m]|
+| ' |[t, v, o]|[q, c, d, u, h, y, j, l]| _ |
+Cost: 0.33579462086849704
+
+| word0 | word1 | word2 | n -> |
+|[f, i, m, n]|[p, w, z, l]|[a, b, c, d, t, g, x]|
+| ' |[e, y, j, k]|[q, r, s, u, v, h, o]| _ |
+Cost: 0.5437650842144894
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, s, f, y, z]|[u, w, x, k, l, n]|[e, g, m]|
+| ' |[p, r, b, t, i]|[q, c, d, v, h, j, o]| _ |
+Cost: 0.30074072017416287
+
+| word0 | word1 | word2 | n -> |
+|[p, b, e, w, h, l, m]|[a, s, c, t, n, o]|[q, r, v, i, k]|
+| ' |[u, z]|[d, f, g, x, y, j]| _ |
+Cost: 0.8224933619763328
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, e, x, z, n]|[d, v, j, l, o]|[q, r, s, i, k]|
+| ' |[p, c, t, u, h]|[a, f, g, w, y, m]| _ |
+Cost: 0.3194054128900714
+
+| word0 | word1 | word2 | n -> |
+|[s, o]|[e, h, m, n]|[q, b, c, d, f, w, x, i]|
+| ' |[p, r, u, v, g, z, k]|[a, t, y, j, l]| _ |
+Cost: 0.546183804001762
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, x, l, o]|[p, h, i, j, k, n]|[q, s, u, f, w, y]|
+| ' |[r, b, e, v, g, z]|[a, t, m]| _ |
+Cost: 0.3167447304364812
+
+| word0 | word1 | word2 | n -> |
+|[p, r, e, u, v, w, m, o]|[a, b, f, g, z]|[q, s, d, x, l]|
+| ' |[c, h, y, j, n]|[t, i, k]| _ |
+Cost: 0.5636039015385738
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, w, m, o]|[b, e, v, x, l]|[a, q, c, g, n]|
+| ' |[s, u, f, h, y, j, z]|[p, r, t, i, k]| _ |
+Cost: 0.3420541269175086
+
+| word0 | word1 | word2 | n -> |
+|[a, f, v, g, x, h]|[s, c, t, u, e, w, y, l]|[p, r, d, n, o]|
+| ' |[k, m]|[q, b, i, j, z]| _ |
+Cost: 0.8756083848505449
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, f, v, g, h, i, y, z]|[u, w, x, l, n]|[s, d, j, o]|
+| ' |[r, e, k, m]|[a, q, b, c, t]| _ |
+Cost: 0.34750934091270486
+
+| word0 | word1 | word2 | n -> |
+|[c, s, d, u, e, h, z, l]|[t, v, i, k]|[f, y, j, m]|
+| ' |[q, r, b, x, o]|[p, a, g, w, n]| _ |
+Cost: 0.46389562636205944
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, f, v, h, i, j]|[b, s, e, z]|[a, r, t, y]|
+| ' |[q, c, x, k, l, o]|[u, g, w, m, n]| _ |
+Cost: 0.32295220118894835
+
+| word0 | word1 | word2 | n -> |
+|[p, a, r, v, h, j, z, l]|[q, f]|[s, c, g, i]|
+| ' |[t, d, e, x, o]|[b, u, w, y, k, m, n]| _ |
+Cost: 0.6373270683864696
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, u, l, n]|[p, a, q, t, f]|[e, g, z, m]|
+| ' |[c, d, v, h, x, j, o]|[r, w, i, y, k]| _ |
+Cost: 0.3066111446190244
+
+| word0 | word1 | word2 | n -> |
+|[r, t, d, h, z, m]|[p, a, s, e, g, l]|[b, f, y, k, o]|
+| ' |[c, w, n]|[q, u, v, x, i, j]| _ |
+Cost: 0.5452249644172954
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, c, d, h]|[p, e, g, z, m]|[b, s, i, y, k]|
+| ' |[w, x, j, n, o]|[q, t, u, f, v, l]| _ |
+Cost: 0.3236641285765152
+
+| word0 | word1 | word2 | n -> |
+|[c, d, t, x]|[a, b, u, g, m]|[r, v, j, k]|
+| ' |[e, f, z, l, n]|[p, q, s, w, h, y, i, o]| _ |
+Cost: 0.7229506233835323
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, t, i]|[u, w, x, k, l, n]|[b, e, g, m]|
+| ' |[a, s, f, y, z]|[q, c, d, v, h, j, o]| _ |
+Cost: 0.2937975674163928
+
+| word0 | word1 | word2 | n -> |
+|[b, c, w, k, m, o]|[q, s]|[p, a, f, i, y]|
+| ' |[r, d, t, h, j]|[u, e, v, g, x, z, l, n]| _ |
+Cost: 0.6155965248947268
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, k]|[p, q, r, v, g, w, i, j]|[a, t, f, y]|
+| ' |[c, d, h, o]|[u, x, z, l, m, n]| _ |
+Cost: 0.292805905391667
+
+| word0 | word1 | word2 | n -> |
+|[q, r, c, w]|[p, b, d, v, f, x, k, n]|[t, u, g, i, j, l, m]|
+| ' |[e, z]|[a, s, h, y, o]| _ |
+Cost: 0.5548642008974171
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, d, w, n]|[q, b, f, v, x, i, j, k, l]|[p, r, t, u]|
+| ' |[c, e, g, z, m]|[s, h, y, o]| _ |
+Cost: 0.3394313127855041
+
+| word0 | word1 | word2 | n -> |
+|[q, b, s, t, j, z, o]|[f, h, m]|[r, e, u, w, x, n]|
+| ' |[c, d, i, y, l]|[p, a, v, g, k]| _ |
+Cost: 1.0963860414048732
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, c, x, l, o]|[p, a, t, m]|[s, w, i, j, z, k, n]|
+| ' |[d, u, f, h, y]|[b, e, v, g]| _ |
+Cost: 0.30150543906563243
+
+| word0 | word1 | word2 | n -> |
+|[a, c, t, u, f, h, y, j, k]|[r, d, w, l]|[s, v, x]|
+| ' |[p, i, n]|[q, b, e, g, z, m, o]| _ |
+Cost: 1.0943530340306808
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, d, u, f, h]|[e, g, z, m]|[p, a, t, v, y]|
+| ' |[w, x, i, j, l, n]|[q, r, b, c, k, o]| _ |
+Cost: 0.2994648390985261
+
+| word0 | word1 | word2 | n -> |
+|[t, d, e, h]|[b, u, v, g, m]|[p, a, q, x, i, y, z, j]|
+| ' |[r, c, w, k, n]|[s, f, l, o]| _ |
+Cost: 0.5490227326332672
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, u, h, n]|[b, s, e, g, j, z]|[p, a, q, t, v, y]|
+| ' |[r, w, x, i, k]|[f, l, m, o]| _ |
+Cost: 0.29751691824595256
+
+| word0 | word1 | word2 | n -> |
+|[q, t, e, f]|[s, d, x, j, k, l, m]|[p, v, y]|
+| ' |[r, b, w, z, o]|[a, c, u, g, h, i, n]| _ |
+Cost: 0.7867818000219639
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, c, t, v, i]|[e, u, z, l, m]|[a, b, d, f, y]|
+| ' |[r, w, x, k, o]|[s, g, h, j, n]| _ |
+Cost: 0.30345151239681234
+
+| word0 | word1 | word2 | n -> |
+|[q, b, d, v, f, x, h, m, o]|[r, c, u, j]|[a, t, e, w, g, z, n]|
+| ' |[p, i, k, l]|[s, y]| _ |
+Cost: 1.2184480958567059
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, f, z, l, m, o]|[p, t, i, y]|[u, g, w, x, j, n]|
+| ' |[b, c, d, e, v]|[a, r, s, h, k]| _ |
+Cost: 0.3023950436714294
+
+| word0 | word1 | word2 | n -> |
+|[q, r, c, g, i]|[f, z]|[t, e, w, h]|
+| ' |[s, v, j, l, m, n, o]|[p, a, b, d, u, x, y, k]| _ |
+Cost: 0.5884354239434133
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, u, w, l, n]|[a, r, t]|[e, v, g, m]|
+| ' |[c, d, h, x, j, k, o]|[b, s, f, i, y, z]| _ |
+Cost: 0.29189996148449227
+
+| word0 | word1 | word2 | n -> |
+|[r, c, y]|[d, v, k, n]|[a, f, i, z, m]|
+| ' |[b, t, w, x, j, l]|[p, q, s, e, u, g, h, o]| _ |
+Cost: 0.6939363096788949
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, c, u, y, j, z, l]|[a, b, d, v, n]|[t, f, i, m]|
+| ' |[s, e, w]|[q, g, h, x, k, o]| _ |
+Cost: 0.31747799513437003
+
+| word0 | word1 | word2 | n -> |
+|[p, b, d, z]|[a, r, g, j]|[u, v, l, m, o]|
+| ' |[t, e, f, w, x, h, y, k]|[q, s, c, i, n]| _ |
+Cost: 0.5357048679189125
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, b, d, e, z]|[s, u, v, g, j, l]|[a, t, h, m]|
+| ' |[p, f, w, i, y]|[q, c, x, k, n, o]| _ |
+Cost: 0.3098646731482788
+
+| word0 | word1 | word2 | n -> |
+|[g, i, l]|[r, c, t, d, u, e, f, m, n]|[p, a, s, h, k]|
+| ' |[q, b, w, x, z, j, o]|[v, y]| _ |
+Cost: 0.8828352435598356
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, e, g, l]|[d, u, f, x, m]|[p, s, h, i, n]|
+| ' |[q, r, w, j, z, k, o]|[a, c, t, v, y]| _ |
+Cost: 0.2993112603638681
+
+| word0 | word1 | word2 | n -> |
+|[q, r, t, u, n]|[s, d, w, g, i, z]|[c, v, x]|
+| ' |[b, e, y, j, k, l, o]|[p, a, f, h, m]| _ |
+Cost: 0.5807123466703091
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, u, k, n]|[r, g, w, i, y, z]|[c, d, e, v]|
+| ' |[h, x, j, l, o]|[p, a, t, f, m]| _ |
+Cost: 0.29136509156336854
+
+| word0 | word1 | word2 | n -> |
+|[c, v, g, j, z]|[q, s, h, x, y, l, n]|[p, a, d, t, e, k, m]|
+| ' |[b, f, i, o]|[r, u, w]| _ |
+Cost: 0.7737393151004562
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, d, e, v, j]|[p, q, r, g, i, y, z]|[a, t, f, m]|
+| ' |[h, x, l, o]|[s, u, w, k, n]| _ |
+Cost: 0.2822179346416377
+
+| word0 | word1 | word2 | n -> |
+|[q, b, d, e, h, o]|[p, r, c, t, v, f, j]|[g, i, y, m]|
+| ' |[s, u, w, x, n]|[a, z, k, l]| _ |
+Cost: 1.0693842309859531
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, c, d, y, o]|[p, a, t, f]|[r, g, i, m]|
+| ' |[u, v, w, x, j, l, n]|[s, e, h, z, k]| _ |
+Cost: 0.3276906224420606
+
+| word0 | word1 | word2 | n -> |
+|[r, v, n, o]|[b, c, d, e, u, z, l]|[q, f, g, w, h]|
+| ' |[p, a, t, i, y, j, k]|[s, x, m]| _ |
+Cost: 0.5839139230874812
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, q, l, n]|[r, b, t, u, y, z]|[s, f, w, i]|
+| ' |[c, d, h, j, k, o]|[e, v, g, x, m]| _ |
+Cost: 0.282886164900746
+
+| word0 | word1 | word2 | n -> |
+|[t, o]|[u, v, y, k]|[q, a, r, w, z, l]|
+| ' |[p, b, s, d, f, i, m]|[c, e, g, h, x, j, n]| _ |
+Cost: 0.49652923166726703
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[t, l, o]|[p, c, h, i, y, k]|[a, q, r, w, z, m]|
+| ' |[b, d, e, f, v]|[s, u, g, x, j, n]| _ |
+Cost: 0.30253534638629764
+
+| word0 | word1 | word2 | n -> |
+|[q, s, l, n]|[b, c, m, o]|[r, t, v, g, w, i]|
+| ' |[p, d, e, u, x, h, j, k]|[a, f, y, z]| _ |
+Cost: 0.4379944383750087
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, h, i, j, z, n]|[r, b, x, k, o]|[p, e, g, w]|
+| ' |[c, d, u, v, y, l]|[a, t, f, m]| _ |
+Cost: 0.30406149083578543
+
+| word0 | word1 | word2 | n -> |
+|[p, a, y, z]|[q, s, d, u]|[g, j, k, o]|
+| ' |[r, t, e, w, x, h, m, n]|[b, c, f, v, i, l]| _ |
+Cost: 0.6680973545771025
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, c, d, y, j]|[q, s, e, m]|[v, g, h, z, o]|
+| ' |[p, u, w, x, k, l, n]|[b, t, f, i]| _ |
+Cost: 0.29076156339081577
+
+| word0 | word1 | word2 | n -> |
+|[a, b, r, h, y, m]|[s, d]|[t, l]|
+| ' |[c, e, f, g, x, o]|[p, q, u, v, w, i, j, z, k, n]| _ |
+Cost: 1.0591137110938076
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, b, c, d, y, j]|[e, g, m]|[p, t, v, i, l]|
+| ' |[f, h, x, o]|[q, s, u, w, z, k, n]| _ |
+Cost: 0.281564734657955
+
+| word0 | word1 | word2 | n -> |
+|[q, d, w, h, i, k]|[r, v, g, y, m]|[p, c, z, o]|
+| ' |[a, x, j, n]|[b, s, t, u, e, f, l]| _ |
+Cost: 0.480814075097445
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, e, w]|[r, b, x, i, y, z, k, l]|[t, h, j, o]|
+| ' |[a, v, g, m, n]|[p, c, d, u, f]| _ |
+Cost: 0.30132635531383584
+
+| word0 | word1 | word2 | n -> |
+|[w, j]|[q, c, u, h, z]|[a, n, o]|
+| ' |[p, b, t, f, x, k]|[r, s, d, e, v, g, i, y, l, m]| _ |
+Cost: 0.6994850219627639
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, e, g, w, j]|[q, s, h, x, i, z, k, n]|[r, m, o]|
+| ' |[a, b, t, f, v]|[c, d, u, y, l]| _ |
+Cost: 0.28637231167168625
+
+| word0 | word1 | word2 | n -> |
+|[b, w, x, i, m]|[r, f, h, l, o]|[q, s, g]|
+| ' |[p, c, t, v, j, k]|[a, d, e, u, y, z, n]| _ |
+Cost: 0.6147570802441117
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, w, j, z, k]|[s, v, h, o]|[q, e, g, m]|
+| ' |[t, f, i, y, l]|[p, b, c, d, u, x, n]| _ |
+Cost: 0.2719014611185495
+
+| word0 | word1 | word2 | n -> |
+|[w, i, k]|[s, t, u, g, h, z]|[r, e, x, y, o]|
+| ' |[p, q, a, b, d, v, j, l, m]|[c, f, n]| _ |
+Cost: 0.5753634256154763
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, t, i]|[s, u, h, j, z, k, n]|[c, d, l, o]|
+| ' |[p, a, q, b, v, g, y]|[e, f, w, x, m]| _ |
+Cost: 0.2843054982973766
+
+| word0 | word1 | word2 | n -> |
+|[u, w, h, y, z]|[p, b, v, f, i, o]|[r, s, d, t, x, l, m]|
+| ' |[q, c, e, j]|[a, g, k, n]| _ |
+Cost: 0.5399062733672247
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, u, v, w, y, l]|[b, c, f, o]|[s, x, i, j, z, k, n]|
+| ' |[q, t, e, h]|[a, r, g, m]| _ |
+Cost: 0.31293105162210116
+
+| word0 | word1 | word2 | n -> |
+|[q, c, e, x, h, j, l]|[i, z, k, m]|[b, v, y]|
+| ' |[p, a, s, t, o]|[r, d, u, f, g, w, n]| _ |
+Cost: 0.5578963645552991
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, d, u, h, x, j, n]|[p, t, i]|[a, b, s, v, y, z]|
+| ' |[r, c, k, l, o]|[e, f, g, w, m]| _ |
+Cost: 0.28868570092425927
+
+| word0 | word1 | word2 | n -> |
+|[c, f, h, n, o]|[p, q, r, b, s, y, z, k, m]|[a, d, u, e]|
+| ' |[t, g, x, i]|[v, w, j, l]| _ |
+Cost: 1.140604204776237
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, f, h, x, o]|[q, b, d, v, i, y, k, l]|[p, u, g, z, m, n]|
+| ' |[a, r, t, j]|[s, e, w]| _ |
+Cost: 0.28624293372096193
+
+| word0 | word1 | word2 | n -> |
+|[g, h, x, j, l, o]|[p, q, a, f, i, z, m]|[r, e]|
+| ' |[s, c, d, v]|[b, t, u, w, y, k, n]| _ |
+Cost: 0.5645046085156045
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[v, g, x, l, m, o]|[a, q, d, f, h]|[p, r, t, i, j]|
+| ' |[b, c, e, z, n]|[s, u, w, y, k]| _ |
+Cost: 0.26971664254179545
+
+| word0 | word1 | word2 | n -> |
+|[r, s, f, z]|[a, d, v, x, k, m]|[p, t, e, u, l]|
+| ' |[q, c, h, i, n, o]|[b, g, w, y, j]| _ |
+Cost: 1.08861836861112
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, f, w, i, l]|[a, b, c, d, v, y]|[p, r, t, u]|
+| ' |[q, h, x, j, k, n, o]|[e, g, z, m]| _ |
+Cost: 0.27539888671094337
+
+| word0 | word1 | word2 | n -> |
+|[a, c, e, f, x, n]|[r]|[b, s, d, u, y, i, z, j, k, o]|
+| ' |[p, v, h]|[q, t, w, g, l, m]| _ |
+Cost: 0.7108294514422685
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, f, m]|[c, d, e, v, j]|[b, x, y, z, k, l, o]|
+| ' |[r, t, h, i]|[q, s, u, g, w, n]| _ |
+Cost: 0.2839823460535873
+
+| word0 | word1 | word2 | n -> |
+|[p, t, x, j, z]|[b, l, o]|[u, e, f, g]|
+| ' |[a, c, d, v, h, y, m, n]|[q, r, s, w, i, k]| _ |
+Cost: 0.5106250811564965
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, s, e, x, z]|[b, c, t, o]|[p, r, f, g, j, m]|
+| ' |[d, u, h, y, l]|[v, w, i, k, n]| _ |
+Cost: 0.3081880693814605
+
+| word0 | word1 | word2 | n -> |
+|[q, b, c, i, j, k]|[t, v, g, w]|[d, h]|
+| ' |[p, s, e, f, x, y, z, l, o]|[a, r, u, m, n]| _ |
+Cost: 0.6085456254517131
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, b, i, j, k, n]|[v, g, w, x, l, o]|[c, d, e, h]|
+| ' |[a, s, y, z]|[p, t, u, f, m]| _ |
+Cost: 0.30379679308473795
+
+| word0 | word1 | word2 | n -> |
+|[u, v, m]|[p, r, f, x, k, o]|[q, b, s, d, i, j, z, l]|
+| ' |[a, t, e, g, h, n]|[c, w, y]| _ |
+Cost: 0.60907052298815
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, t, u, v, h, y]|[f, x, l, m, o]|[q, b, s, e, g, j, z]|
+| ' |[p, a, d, n]|[r, w, i, k]| _ |
+Cost: 0.2650259328111388
+
+| word0 | word1 | word2 | n -> |
+|[p, t, e, v, f, g, n]|[a, u, y, j, l, m]|[r, w]|
+| ' |[b, c, s, h, i, z, k, o]|[q, d, x]| _ |
+Cost: 0.7529298220345558
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, f, i, j]|[g, h, x, y, z, l]|[r, w, k, m, o]|
+| ' |[b, c, t, e, u, v]|[a, q, s, n]| _ |
+Cost: 0.2823723272067977
+
+| word0 | word1 | word2 | n -> |
+|[p, v, x, y, n, o]|[e, f, g, h, z]|[u, i, l, m]|
+| ' |[b, s, k]|[q, a, r, c, d, t, w, j]| _ |
+Cost: 0.4454498222097391
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[v, g, y, j, z, l, o]|[d, f, h, x, i, m]|[c, t, u, k]|
+| ' |[p, r, b, e]|[a, q, s, w, n]| _ |
+Cost: 0.27044772042484566
+
+| word0 | word1 | word2 | n -> |
+|[c, s, e, f, w, j, k, l]|[b, r, g, z]|[q, a, t, h, n]|
+| ' |[p, u, x, y, i, o]|[d, v, m]| _ |
+Cost: 1.138573355019688
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, d, f, i]|[b, c, e, j, z, n]|[a, r, w, k]|
+| ' |[p, t, u, h, y]|[v, g, x, l, m, o]| _ |
+Cost: 0.25425294444762586
+
+| word0 | word1 | word2 | n -> |
+|[q, a, c, s, z, l]|[p, b, f, h, n]|[t, u, v, g, j, k, m]|
+| ' |[r, e, y]|[d, w, x, i, o]| _ |
+Cost: 0.5272650675913694
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, c, g, j, n]|[b, s, u, f, y, z]|[e, h, k, m]|
+| ' |[p, r, t, i]|[d, v, w, x, l, o]| _ |
+Cost: 0.27373067355698444
+
+| word0 | word1 | word2 | n -> |
+|[a, r, j]|[p, g, h, m]|[b, c, s, f, k, n]|
+| ' |[t, d, v, w, x, y, i, l, o]|[q, e, u, z]| _ |
+Cost: 0.5964963964463488
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, m]|[p, u, g, h, j, z, n]|[r, b, i, k, l]|
+| ' |[d, v, w, x, y, o]|[a, q, c, t, f]| _ |
+Cost: 0.2799681399103156
+
+| word0 | word1 | word2 | n -> |
+|[s, t, u, w, g, j, l]|[b, c, d, i, y, k]|[a, r, e, x, m, o]|
+| ' |[p, f, h, n]|[q, v, z]| _ |
+Cost: 1.2334920740770305
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, w, n]|[p, a, b, c, d, x, y]|[r, m, o]|
+| ' |[s, u, f, h, j, z]|[q, t, v, i, k, l]| _ |
+Cost: 0.2575302852728493
+
+| word0 | word1 | word2 | n -> |
+|[g, h, z]|[v, y, i]|[q, t, u, w, x, j, k, o]|
+| ' |[a, r, s, e, f, m, n]|[p, b, c, d, l]| _ |
+Cost: 0.5272646511181686
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, g, h, m]|[p, c, t, v, i]|[q, e, u, w, j, k, n]|
+| ' |[a, b, s, f, y, z]|[d, x, l, o]| _ |
+Cost: 0.26214495399334586
+
+| word0 | word1 | word2 | n -> |
+|[q, s, c, d, e, v, w, i, z, m]|[u, f, x, j, k]|[r, t, h, y]|
+| ' |[p, g]|[a, b, l, n, o]| _ |
+Cost: 0.5260333527274326
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, q, r, c, d]|[s, f, w, i, k]|[t, u, v, h, y]|
+| ' |[e, g, x, z, m]|[b, j, l, n, o]| _ |
+Cost: 0.2652967128888567
+
+| word0 | word1 | word2 | n -> |
+|[a, b, s, e, j, z, l, n, o]|[p, f, g, x, k]|[q, u, v, w]|
+| ' |[d, t, i]|[r, c, h, y, m]| _ |
+Cost: 1.2330281362077806
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[t, l, o]|[r, b, c, x, i, k]|[q, s, u, w, j, z, n]|
+| ' |[d, e, f, v, h]|[p, a, g, y, m]| _ |
+Cost: 0.2724336854983343
+
+| word0 | word1 | word2 | n -> |
+|[f, w, h, i]|[p, s, x, z]|[a, d, j, l, n]|
+| ' |[q, r, b, c, t, e, g, m, o]|[u, v, y, k]| _ |
+Cost: 0.6271848284101491
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, u, f, h]|[e, g, x, z, m]|[a, s, w, n]|
+| ' |[q, r, b, j, k, l, o]|[p, t, v, i, y]| _ |
+Cost: 0.24651918722610586
+
+| word0 | word1 | word2 | n -> |
+|[c, v, k, l, m]|[q, t, x, h]|[a, r, d, i, n, o]|
+| ' |[p, u, f, z]|[b, s, e, w, g, y, j]| _ |
+Cost: 0.5982776095220538
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, b, s, k, n]|[p, q, t, u, h, x]|[c, d, j, l, o]|
+| ' |[e, f, g, z, m]|[r, v, w, i, y]| _ |
+Cost: 0.24498296384971302
+
+| word0 | word1 | word2 | n -> |
+|[r, b, s, c, j, n]|[a, v, g, l, m]|[e, i, k]|
+| ' |[d, t, w, x, y, z, o]|[p, q, u, f, h]| _ |
+Cost: 1.0797687665867959
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, k]|[p, a, c, g, z, n]|[r, x, i, l, m]|
+| ' |[d, v, w, y, j, o]|[q, t, u, f, h]| _ |
+Cost: 0.26260117162835817
+
+| word0 | word1 | word2 | n -> |
+|[p, c, e, f, w, x, i, k]|[b, t, g, h, y, z]|[q, d, v, l, m, o]|
+| ' |[u]|[a, r, s, j, n]| _ |
+Cost: 0.44978828006401456
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, f, w, x, i, k]|[r, b, e, g, j, z]|[q, c, d, l, o]|
+| ' |[p, t, u, v, h, y]|[a, m, n]| _ |
+Cost: 0.2485482773833815
+
+| word0 | word1 | word2 | n -> |
+|[p, s, t, u, x]|[c, e, v, g, k]|[q, f, h, y, j]|
+| ' |[a, r, d, w, i, z, l, m, n]|[b, o]| _ |
+Cost: 0.5485624427607578
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, d, u, n]|[r, e, g, w, j]|[q, c, v, h, x, i, y, l]|
+| ' |[p, a, f, z, m]|[t, k, o]| _ |
+Cost: 0.2568461993942023
+
+| word0 | word1 | word2 | n -> |
+|[r, s, x, n]|[q, g, y, m, o]|[p, t, e, v, i]|
+| ' |[a, b, d, j, z, l]|[c, u, f, w, h, k]| _ |
+Cost: 0.3849880328133506
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, h, n]|[q, r, x, m, o]|[p, t, i, l]|
+| ' |[a, b, c, d, y, z, k]|[s, u, f, v, w, j]| _ |
+Cost: 0.25696402743026914
+
+| word0 | word1 | word2 | n -> |
+|[q, i]|[p, t, v, w, j, z, n, o]|[c, s, d, e, f, g, k]|
+| ' |[a, b, u, x, h, y]|[r, l, m]| _ |
+Cost: 0.5474665365022646
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, c, d, e]|[w, x, z, n, o]|[p, a, t, v, h]|
+| ' |[s, u, f, g, j, l]|[r, i, y, k, m]| _ |
+Cost: 0.25510639526826945
+
+| word0 | word1 | word2 | n -> |
+|[q, e, z]|[b, s, w, i, l, m, n, o]|[c, d, v, x, j]|
+| ' |[r, u, y, k]|[p, a, t, f, g, h]| _ |
+Cost: 0.5253697465879015
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, h, x, i, j, z, n]|[r, w, o]|[b, d, e, v, l]|
+| ' |[p, c, t, u, k]|[a, f, g, y, m]| _ |
+Cost: 0.2533788630540536
+
+| word0 | word1 | word2 | n -> |
+|[a, r, b, g, j, z, n]|[p, t, d, e, u, y, l]|[f, w, h, k]|
+| ' |[s, x, o]|[q, c, v, i, m]| _ |
+Cost: 0.4720880908028366
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, u, l, n]|[p, r, t, i, k]|[a, f, w, y]|
+| ' |[c, d, v, h, x, j, o]|[q, e, g, z, m]| _ |
+Cost: 0.23564379509882108
+
+| word0 | word1 | word2 | n -> |
+|[a, d, z, m]|[c, s, t, u, f, h, i, y, k, l, n]|[q, b, e, g, w, x]|
+| ' |[r]|[p, v, j, o]| _ |
+Cost: 0.5548620390379171
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, g, w, m]|[s, u, h, y, z, k]|[q, b, c, e, x, n]|
+| ' |[p, t, f, i]|[d, v, j, l, o]| _ |
+Cost: 0.2461028419420575
+
+| word0 | word1 | word2 | n -> |
+|[q, s, c, d, n, o]|[v, z, k, l]|[p, a, t, g, x, y, j]|
+| ' |[e, f, i, m]|[r, b, u, w, h]| _ |
+Cost: 0.3982252428648872
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, e, v, z]|[d, h, x, k, o]|[a, r, c, g, y, j]|
+| ' |[t, f, i, m]|[p, u, w, l, n]| _ |
+Cost: 0.23836934699949375
+
+| word0 | word1 | word2 | n -> |
+|[b, t, o]|[u, e, g, h]|[r, s, x, i, l, m]|
+| ' |[q, d, v, f, w, j, z]|[p, a, c, y, k, n]| _ |
+Cost: 0.3213289436727433
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, t, o]|[s, e, g, h, j]|[p, x, i, z, l, m, n]|
+| ' |[q, d, u, f, v, w]|[a, r, b, y, k]| _ |
+Cost: 0.26453860016581254
+
+| word0 | word1 | word2 | n -> |
+|[p, r, s, x, h, y, n]|[q, b, g]|[a, d, k, l]|
+| ' |[c, f, v, j, m, o]|[t, u, e, w, i, z]| _ |
+Cost: 1.128478386900133
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, h, y, j, k]|[q, b, c, t, e]|[a, d, v, g, n]|
+| ' |[f, w, x, z, m, o]|[p, r, u, i, l]| _ |
+Cost: 0.2647209475029746
+
+| word0 | word1 | word2 | n -> |
+|[a, q, k, l, o]|[u, j, m]|[s, t, f, w, g, i, z, n]|
+| ' |[p, b, c, e]|[r, d, v, h, x, y]| _ |
+Cost: 0.4785323029367668
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, c, x, j, k, l, o]|[t, u, h]|[s, f, w, i, z]|
+| ' |[b, e, v, g, n]|[p, a, d, y, m]| _ |
+Cost: 0.24151006632528535
+
+| word0 | word1 | word2 | n -> |
+|[j, l, n, o]|[c, e, w, x]|[p, r, d, u, h, i]|
+| ' |[q, v]|[a, b, s, t, f, g, y, z, k, m]| _ |
+Cost: 0.5193832611432679
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, x, j, z, n, o]|[p, r, w, i, k]|[a, t, m]|
+| ' |[q, s, d, e, v, h]|[b, u, f, g, y, l]| _ |
+Cost: 0.2524127495117251
+
+| word0 | word1 | word2 | n -> |
+|[q, u, x, y, i, z]|[b, w, g, n]|[r, c, s, f, v, h, o]|
+| ' |[a, d, e, k, l, m]|[p, t, j]| _ |
+Cost: 0.4111898822793875
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, c, i, y, z]|[p, d, u, v, w, n]|[f, g, h, x, j, o]|
+| ' |[a, s, k, l]|[b, t, e, m]| _ |
+Cost: 0.262743521672596
+
+| word0 | word1 | word2 | n -> |
+|[b, c, w, i, j]|[s, f, m]|[p, q, a, h]|
+| ' |[r, u, v, x, z, l, o]|[t, d, e, g, y, k, n]| _ |
+Cost: 0.5734285867039773
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, e, g, w, j]|[a, s, f, m]|[p, q, t, v, h, i]|
+| ' |[d, x, z, k, l, o]|[b, c, u, y, n]| _ |
+Cost: 0.23506287822590788
+
+| word0 | word1 | word2 | n -> |
+|[q, b, d, x, y, z]|[e]|[a, f, v, j, o]|
+| ' |[c, t, u, k, l]|[p, r, s, w, g, h, i, m, n]| _ |
+Cost: 0.42149302276552136
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, b, d, i, y]|[s, e, m]|[f, w, x, z, k, o]|
+| ' |[a, c, t, l]|[p, u, v, g, h, j, n]| _ |
+Cost: 0.24459867372566704
+
+| word0 | word1 | word2 | n -> |
+|[s, d, f, h, m, o]|[u, k]|[b, t, e, i, y, l, n]|
+| ' |[a, c, j]|[p, q, r, v, w, g, x, z]| _ |
+Cost: 1.2331770517647267
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, f, h, i, m]|[r, s, e, j, k]|[b, c, y, z, l, o]|
+| ' |[p, a, t]|[q, u, v, g, w, x, n]| _ |
+Cost: 0.26743858057339265
+
+| word0 | word1 | word2 | n -> |
+|[s, t, i]|[c, f, g, z, j, o]|[e, y, k, n]|
+| ' |[q, d, u, v, h, x, m]|[p, a, b, r, w, l]| _ |
+Cost: 0.3610001493188638
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, e, g, z, n]|[f, v, x, l, m, o]|[t, u, i, y, j]|
+| ' |[p, a, q, c, d, h]|[r, s, w, k]| _ |
+Cost: 0.23470063148850853
+
+| word0 | word1 | word2 | n -> |
+|[c, j, l]|[q, s, u, v, f, w, x, o]|[b, t, d, g, h, i, y, k]|
+| ' |[a, r, e]|[p, z, m, n]| _ |
+Cost: 0.442065132056573
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, e, v, h, j]|[q, s, u, f, w, x, l]|[b, c, y, k, o]|
+| ' |[a, r, t]|[p, g, i, z, m, n]| _ |
+Cost: 0.25424869559464175
+
+| word0 | word1 | word2 | n -> |
+|[b, r, d, v, f, g, z, m, o]|[p, e, h, l]|[c, u, w, i, y, k]|
+| ' |[t]|[a, q, s, x, j, n]| _ |
+Cost: 0.3544041165070558
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, b, e, g, z]|[c, d, v, x, l, o]|[s, u, w, y, k]|
+| ' |[t, f, i, m]|[p, a, q, h, j, n]| _ |
+Cost: 0.2267112202094612
+
+| word0 | word1 | word2 | n -> |
+|[p, f, v, y, z, l]|[q, b, t, e, g, j]|[s, c, d, w, m, o]|
+| ' |[u, h, x, n]|[a, r, i, k]| _ |
+Cost: 0.386614124495794
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, v, g, w, i, y, z]|[q, b, s, e, j]|[d, l, m, o]|
+| ' |[p, c, u, h, x, k, n]|[a, r, t]| _ |
+Cost: 0.22622764529825856
+
+| word0 | word1 | word2 | n -> |
+|[p, u, h, i, j, z]|[c, e, y, m, n]|[r, t, f, w, l, o]|
+| ' |[a, q, s, v, g, k]|[b, d, x]| _ |
+Cost: 0.494749767393382
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, t, u, v, h]|[s, f, i, y, z]|[d, j, k, l, o]|
+| ' |[a, r, g, w, m]|[b, c, e, x, n]| _ |
+Cost: 0.20945163607172446
+
+| word0 | word1 | word2 | n -> |
+|[r, s, f, g, h, z, j, k, m]|[l]|[c, u, i]|
+| ' |[q, a, d, t, w, y, o]|[p, b, e, v, x, n]| _ |
+Cost: 1.1457882853525632
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, u, f, h, x, z, l, m]|[r, t, i, y]|[p, a, c, g, j, n]|
+| ' |[d, v, w, o]|[b, s, e, k]| _ |
+Cost: 0.22907615782648583
+
+| word0 | word1 | word2 | n -> |
+|[t, n]|[s, x, z, j, l, m, o]|[p, q, r, u]|
+| ' |[a, b, g, y, i]|[c, d, e, f, v, w, h, k]| _ |
+Cost: 0.43650806794253444
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, w, i, j, z, n]|[c, d, v, x, l, o]|[q, t, u, h, k]|
+| ' |[p, a, r, b, y]|[e, f, g, m]| _ |
+Cost: 0.217796087944927
+
+| word0 | word1 | word2 | n -> |
+|[u, f, z, n, o]|[s, d, t, v, g]|[p, r, c, y, i, l]|
+| ' |[b, e, w, h, k, m]|[a, q, x, j]| _ |
+Cost: 0.45332781781787485
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, h, x, z, m, o]|[b, s, e, g]|[p, v, w, i, y, j, l]|
+| ' |[c, d, u, k, n]|[a, q, r, t]| _ |
+Cost: 0.2163426320615999
+
+| word0 | word1 | word2 | n -> |
+|[t, f, x, z]|[w, h, j]|[p, v]|
+| ' |[b, s, u, g, y, m, n]|[a, q, r, c, d, e, i, k, l, o]| _ |
+Cost: 0.7070063643550503
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, t, f, i, m]|[p, r, u, g, h]|[b, e, j, z, k, n]|
+| ' |[a, s, v, w, y]|[c, d, x, l, o]| _ |
+Cost: 0.21618652743901454
+
+| word0 | word1 | word2 | n -> |
+|[t, w, o]|[u]|[q, v, f, g, h, y, l, n]|
+| ' |[p, r, z, j, k, m]|[a, b, c, s, d, e, x, i]| _ |
+Cost: 0.5398394055098467
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, w, z, o]|[c, d, e, m]|[a, q, f, v, g, h, y]|
+| ' |[p, t, i, j, k, l]|[b, s, u, x, n]| _ |
+Cost: 0.21790315174633518
+
+| word0 | word1 | word2 | n -> |
+|[v, x, n]|[p, a, q, u, i, m]|[r, f, g, w, j, o]|
+| ' |[c, d, t, y, z]|[b, s, e, h, k, l]| _ |
+Cost: 0.44537217562928283
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, w, z, m, n]|[p, q, t, u, h]|[c, v, g, x, j, l, o]|
+| ' |[d, f, i, y]|[a, r, b, s, k]| _ |
+Cost: 0.21263349887316726
+
+| word0 | word1 | word2 | n -> |
+|[p, q, b, w, i, l, m]|[a, s, f]|[d, h, j, z, k, n]|
+| ' |[r, u, v, g, x, y]|[c, t, e, o]| _ |
+Cost: 0.352745297963851
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, v, w, n]|[a, q, b, s, f, x, z, k]|[p, d, u, h, y, j]|
+| ' |[r, g, i, m]|[c, t, l, o]| _ |
+Cost: 0.21965482073101134
+
+| word0 | word1 | word2 | n -> |
+|[m]|[q, u, w, y, i, j, n]|[r, c, k]|
+| ' |[p, a, s, d, e, f, v, x, h, z, l, o]|[b, t, g]| _ |
+Cost: 0.5873666611605165
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, e, g, m]|[d, w, j, k, o]|[p, v, x, i, l, n]|
+| ' |[s, u, f, h, y, z]|[a, r, b, t]| _ |
+Cost: 0.21935542949528766
+
+| word0 | word1 | word2 | n -> |
+|[b, t, u, h]|[a, c, g, y, l]|[s, d, e, w, x, z, k, n]|
+| ' |[p, q, f, o]|[r, v, i, j, m]| _ |
+Cost: 0.29741306382228694
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, t, u, v, l]|[a, r, c, g, y]|[s, e, w, j, z]|
+| ' |[q, f, h, x, k, o]|[p, d, i, m, n]| _ |
+Cost: 0.2199721079744234
+
+| word0 | word1 | word2 | n -> |
+|[q, u, w, i, z, k, o]|[c, t, v, x, j]|[p, r, s, d, y]|
+| ' |[a, h, l, m]|[b, e, f, g, n]| _ |
+Cost: 0.4126004105731639
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, w, j, k, o]|[t, u, v, l, m]|[a, s, f, y, z]|
+| ' |[p, c, d, h, x, i, n]|[b, e, g]| _ |
+Cost: 0.21670149010640646
+
+| word0 | word1 | word2 | n -> |
+|[p, a, r, e, f, x, n]|[s, c, d, v, w, i, y, l, m, o]|[b, j, k]|
+| ' |[q, t, u, g, z]|[h]| _ |
+Cost: 0.5522962122671355
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, s, d, f]|[v, g, w, y, j, l, o]|[b, c, e, z, k]|
+| ' |[p, q, r, t, u]|[h, x, i, m, n]| _ |
+Cost: 0.22331866835338318
+
+| word0 | word1 | word2 | n -> |
+|[g, h, i, k]|[p, r, f, j, o]|[a, b, c, u, x, m]|
+| ' |[q, s, t, e, w, l]|[d, v, y, z, n]| _ |
+Cost: 0.40555312590819464
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, d, e, f, h]|[s, j, k, o]|[b, t, u, l]|
+| ' |[p, a, w, n]|[r, v, g, x, i, y, z, m]| _ |
+Cost: 0.2127204709827118
+
+| word0 | word1 | word2 | n -> |
+|[d, f, w, j, o]|[a, c, t, u, k, n]|[s, g]|
+| ' |[p, e, v, x, y, i, l, m]|[q, r, b, h, z]| _ |
+Cost: 0.375518655809607
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, f, h, x, j, z, o]|[a, d, k, n]|[s, e, g, m]|
+| ' |[r, w, i, y]|[p, q, b, t, u, v, l]| _ |
+Cost: 0.21390328021399455
+
+| word0 | word1 | word2 | n -> |
+|[a, b, t, u, g, l]|[s, j, m, o]|[p, q, r, e, h, y, i, z]|
+| ' |[c, d, f, w, x, k, n]|[v]| _ |
+Cost: 1.1139256312178836
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, b, u, g, x, z, n]|[r, c, j, k, l, o]|[a, q, s, d, h]|
+| ' |[e, f, w, m]|[t, v, i, y]| _ |
+Cost: 0.2093318828387067
+
+| word0 | word1 | word2 | n -> |
+|[r, s, t, e, u, i, k]|[c, f, j, l, m]|[b, d, v, w, g, x, h, z]|
+| ' |[p, a, y, n]|[q, o]| _ |
+Cost: 1.132846709298428
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, s, h, j, k]|[d, e, f, m]|[v, w, i, y, z, l]|
+| ' |[p, a, b, c, u, x, n]|[q, t, g, o]| _ |
+Cost: 0.2164796883237965
+
+| word0 | word1 | word2 | n -> |
+|[q, b, s, y, l, m]|[p, e, f, w, x, n]|[d, u, g, h, j, k]|
+| ' |[r, z, o]|[a, c, t, v, i]| _ |
+Cost: 0.3426678770832234
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, b, s, i, y]|[e, f, g, w, z, m]|[p, u, h, k, n]|
+| ' |[d, x, j, l, o]|[a, c, t, v]| _ |
+Cost: 0.20824179359803016
+
+| word0 | word1 | word2 | n -> |
+|[b, v, f, h, l]|[c, t]|[p, r, s, g, x, y, j, m]|
+| ' |[q, a, e, w]|[d, u, i, z, k, n, o]| _ |
+Cost: 0.38980983288269117
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, d, e, f, v, j]|[p, t, i, y, l]|[a, g, h, z, m]|
+| ' |[q, s, u, w, n]|[r, c, x, k, o]| _ |
+Cost: 0.19967431145645337
+
+| word0 | word1 | word2 | n -> |
+|[a, b, s, c, u, v, g, h, x, n, o]|[p, r, t, y]|[l]|
+| ' |[q, d, f, w, i, z, j]|[e, k, m]| _ |
+Cost: 1.164445153715934
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, u, n]|[c, t, v, i, y, l]|[r, x, z, m, o]|
+| ' |[q, d, e, f, w, j]|[p, a, g, h, k]| _ |
+Cost: 0.20475872333004924
+
+| word0 | word1 | word2 | n -> |
+|[a, b, r, d, t, g, w, j, k, l, m]|[p, c, h, y, n]|[x, z]|
+| ' |[s, e, u, v, i, o]|[q, f]| _ |
+Cost: 0.656432533200723
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, e, g, w]|[v, h, i, y, l]|[p, a, t, z, m]|
+| ' |[c, k, n, o]|[q, b, s, d, u, f, x, j]| _ |
+Cost: 0.2034477773593765
+
+| word0 | word1 | word2 | n -> |
+|[p, w, i, z, j]|[c, s, e, g, x, k, o]|[d, u, f, l, m, n]|
+| ' |[a, r, t, v, h]|[q, b, y]| _ |
+Cost: 0.37393044567012074
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, s, w, i, j]|[d, k, l, o]|[e, f, x, m]|
+| ' |[p, a, v, g, h, z, n]|[q, b, c, t, u, y]| _ |
+Cost: 0.20352601939734952
+
+| word0 | word1 | word2 | n -> |
+|[u, g, i, l, m]|[q, r, z, o]|[a, f, j, k]|
+| ' |[p, s, c, t, h, x, n]|[b, d, e, v, w, y]| _ |
+Cost: 0.34045301563920227
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, f, z, m]|[q, c, d, x, j, l, o]|[p, a, t, v, h]|
+| ' |[b, s, u, k, n]|[r, g, w, i, y]| _ |
+Cost: 0.1814486940962197
+
+| word0 | word1 | word2 | n -> |
+|[q, x, n]|[t, d, w, l]|[b, r, s, u, e, h, i, y]|
+| ' |[p, f, v, g]|[a, c, j, z, k, m, o]| _ |
+Cost: 0.4615842805826229
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, c, i, n]|[a, r, w, y, k]|[b, s, d, u, f, x, j]|
+| ' |[e, g, h, z, m]|[t, v, l, o]| _ |
+Cost: 0.19345170559410277
+
+| word0 | word1 | word2 | n -> |
+|[f, i, k, m, n, o]|[p, a, c, u, g, x, y]|[b, r, d, w, h, j, z]|
+| ' |[s, e, l]|[q, t, v]| _ |
+Cost: 0.3548271384184216
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, x, z, l, m, o]|[p, a, c, g, y, j]|[r, b, d, v, w]|
+| ' |[s, i, n]|[q, t, e, u, h, k]| _ |
+Cost: 0.21410021915249522
+
+| word0 | word1 | word2 | n -> |
+|[a, s, t, e, j, m]|[p, f, i, n]|[c, d, w, g, h, y, z, l]|
+| ' |[q, r, b, u, v, x]|[k, o]| _ |
+Cost: 1.0746497453494996
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, w, m]|[q, s, f, x, i, z, k]|[p, c, u, g, h, y, j]|
+| ' |[b, d, e, n]|[t, v, l, o]| _ |
+Cost: 0.19106273642669908
+
+| word0 | word1 | word2 | n -> |
+|[p, a, c, e, v, y, z, j, k]|[b, d, t, u, f, g, h, m]|[s, l, n, o]|
+| ' |[q]|[r, w, x, i]| _ |
+Cost: 0.4128787118483899
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, s, h, y, j, z]|[p, r, b, g, k]|[c, d, l, m, o]|
+| ' |[q, t, u, f, v, i]|[e, w, x, n]| _ |
+Cost: 0.2003527204087321
+
+| word0 | word1 | word2 | n -> |
+|[b, s, t, f, l]|[p, d, v, g, i]|[a, e, u, h, y, m, n]|
+| ' |[q, r, c, j]|[w, x, z, k, o]| _ |
+Cost: 1.0911801629186972
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, d, f, i]|[e, u, g, z, m]|[t, v, h, y, l]|
+| ' |[p, a, q, c, x, j, n]|[r, w, k, o]| _ |
+Cost: 0.20131583446258997
+
+| word0 | word1 | word2 | n -> |
+|[a, e, v, h, j, l, o]|[p, q, b, r, u, i, m, n]|[c, t, x, z]|
+| ' |[s, f, w]|[d, g, y, k]| _ |
+Cost: 1.103145286152759
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, x, l, o]|[q, b, e, v, j, k, n]|[r, t, i, m]|
+| ' |[s, u, f, h, z]|[p, a, g, w, y]| _ |
+Cost: 0.18435492397064118
+
+| word0 | word1 | word2 | n -> |
+|[p, a, r, v, m]|[q, b, s, d, e, y, l, o]|[g, k]|
+| ' |[c, u, f, h, x]|[t, w, i, z, j, n]| _ |
+Cost: 0.40122480058246757
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, r, d, m]|[q, b, y, k, l, o]|[c, e, g, x]|
+| ' |[t, u, f, v, h]|[s, w, i, j, z, n]| _ |
+Cost: 0.19988872976417454
+
+| word0 | word1 | word2 | n -> |
+|[a, f, g, h, i, z]|[c, d, u, e, k, m, o]|[p, q, b, t, y, n]|
+| ' |[r, v, x]|[s, w, j, l]| _ |
+Cost: 0.4431037548502119
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, d, u, f, h, z]|[r, k, m, o]|[p, a, q, c, t, y]|
+| ' |[b, e, v, g]|[w, x, i, j, l, n]| _ |
+Cost: 0.17436606358207113
+
+| word0 | word1 | word2 | n -> |
+|[c, v, w, i, j, k]|[d, f, g, h, n]|[q, u, l, m]|
+| ' |[p, a, x, y]|[b, r, s, t, e, z, o]| _ |
+Cost: 0.43972201284252405
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[w, x, i, j, l, n]|[s, d, u, f, h]|[q, e, g, z, m]|
+| ' |[p, a, t, v, y]|[r, b, c, k, o]| _ |
+Cost: 0.17780724821474989
+
+| word0 | word1 | word2 | n -> |
+|[u, e, v, f, h, l, m]|[p, b, r, t, j]|[a, q, w, x, i, n]|
+| ' |[c, s, z, k, o]|[d, g, y]| _ |
+Cost: 0.3012963696840894
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, e, f, h, m]|[b, t, u, y, l]|[a, q, v, w, n]|
+| ' |[s, x, j, z, k, o]|[p, r, c, g, i]| _ |
+Cost: 0.1860613955868219
+
+| word0 | word1 | word2 | n -> |
+|[q, r, y]|[p, h, j]|[b, c, e, x, l, n, o]|
+| ' |[d, v, g, i, z, k, m]|[a, s, t, u, f, w]| _ |
+Cost: 0.3961269918788002
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, r, v, g, i, y]|[a, t, h, m]|[n, o]|
+| ' |[b, c, d, e, z, k]|[s, u, f, w, x, j, l]| _ |
+Cost: 0.1842796616992597
+
+| word0 | word1 | word2 | n -> |
+|[t, f, g, w, i, l, o]|[s, d, e, v]|[r, c, u, k, n]|
+| ' |[p, q, b, z, m]|[a, h, x, y, j]| _ |
+Cost: 1.1239830621010296
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, g, m, o]|[p, r, h, x, i, j, z, l]|[s, u, w, k, n]|
+| ' |[q, b, c, d, e, v]|[a, t, y]| _ |
+Cost: 0.17319822303665872
+
+| word0 | word1 | word2 | n -> |
+|[a, e, w, n]|[g, j, k, m]|[q, r, v, h, i, y, l]|
+| ' |[p, c, s, t, u, x, o]|[b, d, f, z]| _ |
+Cost: 1.0589521271492681
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, u, w, l, n]|[e, v, g, m]|[a, q, t, y]|
+| ' |[r, c, h, x, j, k, o]|[b, s, d, f, i, z]| _ |
+Cost: 0.17985535456041046
+
+| word0 | word1 | word2 | n -> |
+|[q, c, z, o]|[a, b, d, g, x, y, m]|[p, e, w, j, n]|
+| ' |[s, t, v, f, h, k]|[r, u, i, l]| _ |
+Cost: 0.2677237814213123
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, d, l, o]|[p, a, b, v, g, y]|[e, w, x, j, n]|
+| ' |[s, u, f, h, z, k]|[r, t, i, m]| _ |
+Cost: 0.17479549295566707
+
+| word0 | word1 | word2 | n -> |
+|[s, c, l, m, o]|[t, h, i]|[q, r, d, v, x, y, k]|
+| ' |[b, u, f, g, j, z]|[p, a, e, w, n]| _ |
+Cost: 0.27615910185240505
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, l, m, o]|[c, t, u, h, j]|[p, q, s, i, y, k]|
+| ' |[b, e, f, g, x, z]|[a, d, v, w, n]| _ |
+Cost: 0.1759196796726124
+
+| word0 | word1 | word2 | n -> |
+|[a, b, e, h, y, k]|[p, d, u, f, g, j, n]|[q, s, z, l]|
+| ' |[v, w, x, o]|[r, c, t, i, m]| _ |
+Cost: 0.32430251720864783
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, c, d, f, y]|[e, g, h, x, z, m]|[q, b, s, u, n]|
+| ' |[r, w, k, o]|[p, t, v, i, j, l]| _ |
+Cost: 0.16402669295736383
+
+| word0 | word1 | word2 | n -> |
+|[q, u, h, y, i, m]|[r, s, w, x, l]|[p, c, v, f, g, z, j]|
+| ' |[b, d, e, k, n]|[a, t, o]| _ |
+Cost: 0.27638065066610784
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, g, h, x, i, z, m]|[a, r, w, y, k]|[c, d, e, f, v, j]|
+| ' |[b, s, u, n]|[t, l, o]| _ |
+Cost: 0.17048743643309214
+
+| word0 | word1 | word2 | n -> |
+|[p, d, x, i, z, j, k, l]|[r, c, t, e, f, n]|[q, g, h, y, m]|
+| ' |[a, s, v]|[b, u, w, o]| _ |
+Cost: 0.395530914004151
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, w, i, z, k]|[a, t, v, y]|[q, f, l, m, o]|
+| ' |[s, e, g, h, j]|[b, c, d, u, x, n]| _ |
+Cost: 0.17099210697896428
+
+| word0 | word1 | word2 | n -> |
+|[d, v]|[g, k, l, m, n, o]|[p, q, r, b, y]|
+| ' |[a, s, c, t, u, w, x]|[e, f, h, i, z, j]| _ |
+Cost: 0.30871492665568134
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, d, e, v, j]|[h, x, z, k, l, o]|[p, a, q, f, g, y, m]|
+| ' |[s, u, w, n]|[r, t, i]| _ |
+Cost: 0.161635822611834
+
+| word0 | word1 | word2 | n -> |
+|[t, u, w, i, l, o]|[b, y]|[a, q, r, c, d, f, z]|
+| ' |[e, h, j]|[p, s, v, g, x, k, m, n]| _ |
+Cost: 1.1115335349206856
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[w, z, l, n, o]|[b, s, e, v, g, j]|[a, q, c, d, f]|
+| ' |[r, t, u, h]|[p, x, i, y, k, m]| _ |
+Cost: 0.17525321143669564
+
+| word0 | word1 | word2 | n -> |
+|[r, b, w, y, i, l]|[p, a, c, d, u, f, h, n, o]|[]|
+| ' |[t, e, k]|[q, s, v, g, x, z, j, m]| _ |
+Cost: 0.41910213677470204
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, v, w, i, y, l]|[c, d, u, f, h, x]|[b, s, e, g, j]|
+| ' |[a, r, t, k]|[q, z, m, n, o]| _ |
+Cost: 0.16261576174229248
+
+| word0 | word1 | word2 | n -> |
+|[b, c, d, g, w, l, m]|[a, s, f, h, j, n]|[r, v, z, k]|
+| ' |[p, t, e, u, y]|[q, x, i, o]| _ |
+Cost: 0.379393752191339
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, w, z]|[a, r, s, f, j]|[p, v, x, i, k, m, n]|
+| ' |[b, c, t, u, y]|[q, d, h, l, o]| _ |
+Cost: 0.17375408695315891
+
+| word0 | word1 | word2 | n -> |
+|[p, a, r, s, c, y]|[b, e, g, w, x, n]|[t, v, z, o]|
+| ' |[i, j, k, l]|[q, d, u, f, h, m]| _ |
+Cost: 0.20320494472681713
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, b, v, y]|[e, g, w, j, n]|[t, z, m, o]|
+| ' |[r, c, x, i, k, l]|[q, s, d, u, f, h]| _ |
+Cost: 0.16833088795804924
+
+| word0 | word1 | word2 | n -> |
+|[h, x, z, j]|[c, e, w, i, y, o]|[a, q, b, r, s, u, f, k, l, m]|
+| ' |[t]|[p, d, v, g, n]| _ |
+Cost: 0.38113602783230904
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, j, z, k]|[d, v, w, o]|[q, u, f, h, x, l, m]|
+| ' |[r, t, i, y]|[p, a, c, g, n]| _ |
+Cost: 0.16685794212052674
+
+| word0 | word1 | word2 | n -> |
+|[q, r, c, f, w, x, l, n]|[a, b, g, z, j, k]|[p, d, e, u, i, o]|
+| ' |[s, t, h, m]|[v, y]| _ |
+Cost: 1.191302827332442
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, f, w]|[a, q, c, t, j, z, k]|[d, x, l, o]|
+| ' |[p, u, h, m, n]|[r, b, v, g, i, y]| _ |
+Cost: 0.16244099702692674
+
+| word0 | word1 | word2 | n -> |
+|[f, y, z, j, k, m, o]|[a, r, u, x]|[p, s, h, l]|
+| ' |[b, c, t, v, w, g, i]|[q, d, e, n]| _ |
+Cost: 0.31949894814349494
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, x, k, m, o]|[a, c, t, v, y]|[p, r, g, h, i, j, z]|
+| ' |[d, e, w, l]|[q, b, s, u, n]| _ |
+Cost: 0.1601787732148346
+
+| word0 | word1 | word2 | n -> |
+|[p, t, d, f, v, w, z, m, n]|[q, s, c, u, l]|[g, h]|
+| ' |[a, r, b, j]|[e, x, i, y, k, o]| _ |
+Cost: 1.1916936896349708
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, w, j, z, n]|[q, s, f, v, i, l]|[p, d, u, h, x, m]|
+| ' |[a, r, b, c, y]|[t, k, o]| _ |
+Cost: 0.16422811608926044
+
+| word0 | word1 | word2 | n -> |
+|[c, h, z, k, m]|[e, j, n]|[a, q, r, s, v, g, x, l]|
+| ' |[p, b, t, u, f, w, i, o]|[d, y]| _ |
+Cost: 0.4015268519030387
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, t, u, h]|[b, s, i, z, k, n]|[a, q, v, g, y, m]|
+| ' |[e, f, w, j]|[c, d, x, l, o]| _ |
+Cost: 0.15487853881369096
+
+| word0 | word1 | word2 | n -> |
+|[s, c, l]|[a, b, e, f, x, z, n]|[r, d, u, h, m]|
+| ' |[w, y, i]|[p, q, t, v, g, j, k, o]| _ |
+Cost: 0.24179549821667112
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, u, x, l, n]|[a, b, t, f]|[p, e, g, z, m]|
+| ' |[r, v, w, i, y, j]|[q, c, d, h, k, o]| _ |
+Cost: 0.15219068644176176
+
+| word0 | word1 | word2 | n -> |
+|[p, a, s, e, g]|[r, d, t, u, f, x, i, y, m, o]|[q, b, z, n]|
+| ' |[w, j]|[c, v, h, k, l]| _ |
+Cost: 0.43425700137036755
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, v, x, l, o]|[a, f, y, m]|[q, b, s, u, z, n]|
+| ' |[r, e, g, w, j]|[p, t, h, i, k]| _ |
+Cost: 0.14403973683190655
+
+| word0 | word1 | word2 | n -> |
+|[j, n]|[d, u, g, w, y, o]|[b, e, f, h, k, m]|
+| ' |[r, c, t, x, i, z, l]|[p, q, a, s, v]| _ |
+Cost: 0.24814440183582043
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, u, h, x, j, z, n]|[v, g, w, y, o]|[b, c, e, k]|
+| ' |[t, f, i, l]|[p, a, q, r, d, m]| _ |
+Cost: 0.16029768050043552
+
+| word0 | word1 | word2 | n -> |
+|[j, k, n]|[c, d, u, f, w, x, y, l]|[r, s, v, g, i]|
+| ' |[p, a, b, t, o]|[q, e, h, z, m]| _ |
+Cost: 0.25259168766316853
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, s, x, i, k, n]|[d, u, f, w]|[a, t, v, h, y]|
+| ' |[r, b, c, j, l, o]|[q, e, g, z, m]| _ |
+Cost: 0.15793971588980504
+
+| word0 | word1 | word2 | n -> |
+|[a, d, v, f, g, y, k, l, o]|[p, q, u, m]|[c, w, i, j]|
+| ' |[r, s, t, e, z]|[b, h, x, n]| _ |
+Cost: 0.2990372451267333
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, c, d, f, x, j]|[q, t, u, y, l, m]|[s, e, w]|
+| ' |[p, r, g, h, i, z]|[b, v, k, n, o]| _ |
+Cost: 0.1610281101506611
+
+| word0 | word1 | word2 | n -> |
+|[d, t, x, m]|[r, s, h, j, k, o]|[p, b, c, v, g, i]|
+| ' |[q, w, l]|[a, e, u, f, y, z, n]| _ |
+Cost: 0.3346141675754293
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, h, x, m]|[c, t, k, o]|[p, r, b, e, g, j]|
+| ' |[q, v, w, i, l, n]|[a, s, u, f, y, z]| _ |
+Cost: 0.14968808388365223
+
+| word0 | word1 | word2 | n -> |
+|[q, s, u, v, h, x, l, o]|[c, e, y, j]|[d, g, i, k]|
+| ' |[p, r, b, t, f, z, n]|[a, w, m]| _ |
+Cost: 1.0669430475376889
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, t, u, h]|[e, v, g, m]|[r, c, k, l, o]|
+| ' |[b, s, f, i, y, z]|[a, d, w, x, j, n]| _ |
+Cost: 0.14524098392675117
+
+| word0 | word1 | word2 | n -> |
+|[a, b, d, f, g, h, m, o, p, q, t, v, w]|[e, z]|[r, c, s, x, k, l]|
+| ' |[i, n]|[u, y, j]| _ |
+Cost: 1.17848974246063
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[g, m, r, u, w]|[q, t, e, h]|[a, s, f, x, z, k]|
+| ' |[p, c, d, i, j, n]|[b, v, y, l, o]| _ |
+Cost: 0.15898097656740529
+
+| word0 | word1 | word2 | n -> |
+|[b, d, l]|[p, a, s, w, i, j, o]|[t, f, v, h, z, k]|
+| ' |[q, r, c, e, x, y, n]|[u, g, m]| _ |
+Cost: 0.34609665120014105
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, t, f, y]|[r, w, k, o]|[a, s, v, h, x, l]|
+| ' |[q, c, d, u, i, j, n]|[p, e, g, z, m]| _ |
+Cost: 0.14795372420830633
+
+| word0 | word1 | word2 | n -> |
+|[q, d, e]|[a, c, s, x, y, z, l]|[b, g, h, j]|
+| ' |[u, f, w, i, m]|[p, r, t, v, k, n, o]| _ |
+Cost: 0.2666163324648269
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, e, g, m]|[a, c, d, y, k]|[r, b, t, u]|
+| ' |[p, f, v, w, i, j, l]|[h, x, z, n, o]| _ |
+Cost: 0.14609751240722416
+
+| word0 | word1 | word2 | n -> |
+|[b, s, h]|[p, a, c, u, o]|[r, d, f, w, i, m]|
+| ' |[t, l]|[q, e, v, g, x, y, z, j, k, n]| _ |
+Cost: 0.2503426832393252
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, b, s, k, n]|[c, d, l, o]|[e, f, g, w, m]|
+| ' |[r, t, i]|[h, j, p, q, u, v, x, y, z]| _ |
+Cost: 0.14481248770653465
+
+| word0 | word1 | word2 | n -> |
+|[d, n]|[a, t, z, m]|[p, q, r, e, w, o]|
+| ' |[s, v, g, h, l]|[b, c, u, f, x, y, i, j, k]| _ |
+Cost: 0.20988978218534227
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, e, i, n]|[p, a, t, z, m]|[q, r, w, j, o]|
+| ' |[s, v, h, x, l]|[b, u, f, g, y, k]| _ |
+Cost: 0.1571351800118645
+
+| word0 | word1 | word2 | n -> |
+|[]|[c, f, x, z]|[a, s, d, h, i, k, m, n]|
+| ' |[b, u, e, w, g, o]|[p, q, r, t, v, y, j, l]| _ |
+Cost: 0.398796998098629
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, z, k]|[t, u, f, i, y]|[g, h, m, n]|
+| ' |[v, w, x, l, o]|[p, a, q, r, c, d, j]| _ |
+Cost: 0.14325999361462846
+
+| word0 | word1 | word2 | n -> |
+|[q, a, d, x, i, k, o]|[p, w, j, m, n]|[c, t]|
+| ' |[b, s, u, e, h, z]|[r, v, f, g, y, l]| _ |
+Cost: 1.0631895616611298
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, h, x, j, z, k, o]|[e, g, w, m]|[p, t, i, l]|
+| ' |[b, s, u, n]|[a, c, d, f, v, y]| _ |
+Cost: 0.13425509980661812
+
+| word0 | word1 | word2 | n -> |
+|[a, q, c, d, h, y, k]|[b, x]|[r, t, z, j, o]|
+| ' |[u, w, i, l, m]|[p, s, e, f, v, g, n]| _ |
+Cost: 0.26176330836394696
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, d, u, h, y, l]|[a, b, c, t, k]|[r, m, o]|
+| ' |[e, v, w, n]|[s, f, g, x, i, j, z]| _ |
+Cost: 0.1352739255797096
+
+| word0 | word1 | word2 | n -> |
+|[c, t, e, x, m, o]|[i, l]|[a, r, f, w, g, h, y, k, n]|
+| ' |[p, b, u, j]|[q, s, d, v, z]| _ |
+Cost: 1.1126220813925807
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, c, z, l, o]|[p, a, t, v, x]|[f, g, w, i, y]|
+| ' |[b, s, e, j, k]|[q, d, u, h, m, n]| _ |
+Cost: 0.1387622030848379
+
+| word0 | word1 | word2 | n -> |
+|[q, d, u, v, f, x, y, j, m]|[t, h, o]|[a, c, w, g]|
+| ' |[r, e, i, z, k, l]|[p, b, s, n]| _ |
+Cost: 0.18517242285240232
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, c, d, u, f, x, y, j, l]|[t, v, h, o]|[p, e, g, z, m]|
+| ' |[r, s, w, i]|[a, b, k, n]| _ |
+Cost: 0.13550027589972324
+
+| word0 | word1 | word2 | n -> |
+|[a, r, s, g, j, l]|[c, u, v, x, k, n]|[b, t, f, m]|
+| ' |[p, q, d, e, w, h, y]|[i, z, o]| _ |
+Cost: 0.2517084856166765
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, u, x, l, n]|[p, e, k, m]|[a, b, t, f]|
+| ' |[q, r, v, g, w, i, y, j]|[c, d, h, z, o]| _ |
+Cost: 0.1295049464042786
+
+| word0 | word1 | word2 | n -> |
+|[x, z, l]|[q, c, t, u, g, y, o]|[p, b, s, e, f, w, h, i, j, k, m]|
+| ' |[a, v, n]|[r, d]| _ |
+Cost: 0.28189872776526836
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, t, i, z]|[q, c, d, j, l, o]|[s, u, f, w, x, k]|
+| ' |[p, a, b, v, g, y]|[e, h, m, n]| _ |
+Cost: 0.13701511591135032
+
+| word0 | word1 | word2 | n -> |
+|[a, e, w, h, j, o]|[t, f, k, m]|[u, y, l]|
+| ' |[q, s, d, g, x, z]|[p, b, r, c, v, i, n]| _ |
+Cost: 1.0674881904644329
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, w, o]|[t, f, v, i, l]|[r, c, d, h, y, j]|
+| ' |[q, e, u, g, x, z, m]|[p, a, b, k, n]| _ |
+Cost: 0.13539016897931863
+
+| word0 | word1 | word2 | n -> |
+|[q, t, w, y, j, m]|[a, s, d, u, x, z]|[p, b, r, e, v, g, h, i, k, l, n]|
+| ' |[f]|[c, o]| _ |
+Cost: 0.34721371297509873
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, r, h, x, i, k]|[a, w, j, l, n]|[b, s, u, f, g, y, z]|
+| ' |[d, e, v, m]|[c, t, o]| _ |
+Cost: 0.1347147693213611
+
+| word0 | word1 | word2 | n -> |
+|[p, j, n, o]|[a, c, f, w, y, l, m]|[q, s, t, x]|
+| ' |[b, d, u, h, i, z]|[r, e, v, g, k]| _ |
+Cost: 0.23410792071154565
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, x, n, o]|[f, w, i, y, z, l]|[a, q, t, g, m]|
+| ' |[b, d, e, u, v]|[p, r, s, h, j, k]| _ |
+Cost: 0.13428460065274464
+
+| word0 | word1 | word2 | n -> |
+|[a, r, t, i, y, o]|[d, k, l]|[q, s, u, f, v, g, h, x, m]|
+| ' |[c, j]|[p, b, e, w, z, n]| _ |
+Cost: 1.1411134900765483
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, g, y, j, o]|[p, t, i, k, l]|[q, d, u, f, v, h, x]|
+| ' |[r, b, e, z, m]|[a, s, w, n]| _ |
+Cost: 0.13006880126259693
+
+| word0 | word1 | word2 | n -> |
+|[w, j, l]|[b, g, x]|[q, r, s, u, h, z, o]|
+| ' |[v, m]|[p, a, c, t, d, e, f, y, i, k, n]| _ |
+Cost: 0.41708337867850587
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, w, i, y]|[b, c, d, e, v]|[p, q, s, u, g, j, z, n]|
+| ' |[a, t, h, k, m]|[f, x, l, o]| _ |
+Cost: 0.12265712381128512
+
+| word0 | word1 | word2 | n -> |
+|[c, g]|[q, t, f, y, l]|[a, e, v, x, i]|
+| ' |[p, b, r, s, d, h, j, z, k, m, n]|[u, w, o]| _ |
+Cost: 1.1417427354141623
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, v, g, m]|[q, b, s, f, i, y, z]|[a, r, t]|
+| ' |[c, d, h, x, j, k, o]|[p, u, w, l, n]| _ |
+Cost: 0.11808680260054465
+
+| word0 | word1 | word2 | n -> |
+|[u, l, n]|[a, r, t, g, w, h, y, z]|[s, c, e, i, k]|
+| ' |[q, b, m, o]|[p, d, v, f, x, j]| _ |
+Cost: 0.2212025481879739
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, c, d, u, j, n]|[r, v, w, x, i, y, z]|[b, s, e, k]|
+| ' |[q, t, g, h, o]|[a, f, l, m]| _ |
+Cost: 0.11924296873005177
+
+| word0 | word1 | word2 | n -> |
+|[x, j]|[b, c, s, h, m]|[r, f, g, z, n]|
+| ' |[p, q, a, t, e, v, w, o]|[d, u, i, y, k, l]| _ |
+Cost: 0.32732835912285796
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, u, k, l]|[b, c, e, j, n]|[s, f, i, y, z]|
+| ' |[q, r, w, m, o]|[a, d, v, g, h, x]| _ |
+Cost: 0.12703274099110212
+
+| word0 | word1 | word2 | n -> |
+|[t, f, w, k, m]|[p, a, s, e, g]|[q, c, u, v, h, x, i, j, z]|
+| ' |[b, r, y, l]|[d, n, o]| _ |
+Cost: 1.012852636329073
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, f, w]|[p, a, m, n]|[q, t, u, h, j, z, k]|
+| ' |[r, b, v, g, i, y]|[c, d, x, l, o]| _ |
+Cost: 0.11611023109111822
+
+| word0 | word1 | word2 | n -> |
+|[j]|[u, h, x, z, m]|[b, s, c, e, l]|
+| ' |[r, t, f, v, g, i, n, o]|[p, q, a, d, w, y, k]| _ |
+Cost: 0.3151664351687159
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, d, e, f, m]|[p, t, u, h]|[b, c, x, i, l, n]|
+| ' |[s, v, g, o]|[a, r, w, y, j, z, k]| _ |
+Cost: 0.12222755484204224
+
+| word0 | word1 | word2 | n -> |
+|[p, v, z, l]|[c, t, d, n]|[r, g]|
+| ' |[a, q, s, u, e, h, y, j, k, m, o]|[b, f, w, x, i]| _ |
+Cost: 0.30514535617093885
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, v, h, z]|[b, c, d, x, i, n]|[a, r, t]|
+| ' |[p, q, u, g, y, j, k, l]|[f, w, m, o]| _ |
+Cost: 0.12294737753684033
+
+| word0 | word1 | word2 | n -> |
+|[d, g, k]|[r, w, y, m, n]|[p, a, q, c, t, u, f, i, z]|
+| ' |[v, x, j, l]|[b, s, e, h, o]| _ |
+Cost: 0.27183995017526175
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[v, i, k, l, n]|[p, u, g, w, y, j]|[a, q, s, f, h, z]|
+| ' |[t, e, m]|[r, b, c, d, x, o]| _ |
+Cost: 0.12787553219118866
+
+| word0 | word1 | word2 | n -> |
+|[s, t, x]|[a, d, e, i, l]|[q, b, c, j, z, o]|
+| ' |[p, r, u, w, m]|[v, f, g, h, y, k, n]| _ |
+Cost: 0.26023125148241194
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, e, z]|[p, a, t, f]|[q, r, c, d, i, y]|
+| ' |[u, g, w, m, n]|[v, h, x, j, k, l, o]| _ |
+Cost: 0.11348124643487788
+
+| word0 | word1 | word2 | n -> |
+|[a, c, d, v, g, h, o]|[p, w, y, j, n]|[s, e, x, k]|
+| ' |[t, u, f, z, m]|[q, r, b, i, l]| _ |
+Cost: 1.0103600668637807
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, h, o]|[p, a, j, z, k, l, n]|[s, e, w, i]|
+| ' |[u, f, v, g, x, m]|[q, r, b, t, y]| _ |
+Cost: 0.11131861017934876
+
+| word0 | word1 | word2 | n -> |
+|[p, q, b, r, t, v, h, l]|[u, i, j, k]|[s, f]|
+| ' |[c, d, w, x, n, o]|[a, e, g, y, z, m]| _ |
+Cost: 0.20031125642500125
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, t, e, u, v]|[p, c, h, n]|[s, f, x, i, j, z]|
+| ' |[d, w, k, l, o]|[a, r, g, y, m]| _ |
+Cost: 0.1137648904663087
+
+| word0 | word1 | word2 | n -> |
+|[p, a, c, z, k]|[r, d, e, f, v, g, w, y, m]|[q, h, i, n]|
+| ' |[x, o]|[b, s, t, u, j, l]| _ |
+Cost: 0.19141290797537092
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, e, j, l]|[a, f, v, g, w, y, z]|[p, q, t, h, i, k]|
+| ' |[r, x, m, o]|[b, s, u, n]| _ |
+Cost: 0.11326882047765677
+
+| word0 | word1 | word2 | n -> |
+|[q, z, k]|[r, e, g, w, h, i, j, l, n]|[x, m]|
+| ' |[b, d, v, y, o]|[p, a, s, c, t, u, f]| _ |
+Cost: 0.28199835112971255
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, e, h]|[p, u, v, g, w, x, j, n]|[r, d, i, l, m]|
+| ' |[b, c, y, z, k, o]|[a, t, f]| _ |
+Cost: 0.11604593302763871
+
+| word0 | word1 | word2 | n -> |
+|[a, d, x, i, z, m]|[p, e, v, n, o]|[b, t, u, g, y]|
+| ' |[q, r, s, c, w, h, j, l]|[f, k]| _ |
+Cost: 0.24985094892399665
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, d, m]|[c, g, h, x, z, n, o]|[t, u, v, l]|
+| ' |[p, q, f, w, i, y, j]|[b, s, e, k]| _ |
+Cost: 0.10694822287827771
+
+| word0 | word1 | word2 | n -> |
+|[q, e, g, x]|[b, s, u, v, f, w, z, m, n]|[p, r, d, o]|
+| ' |[t, h, y, k]|[a, c, i, j, l]| _ |
+Cost: 0.20556515752148538
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, e, g, m]|[f, v, w, i, y, z]|[c, d, x, j, l, o]|
+| ' |[p, t, u, h, k]|[a, b, s, n]| _ |
+Cost: 0.09715429866587826
+
+| word0 | word1 | word2 | n -> |
+|[b, s, t, j, n]|[q, u, w, z, o]|[d, e, m]|
+| ' |[f, v, g, x, i, y, k]|[p, a, r, c, h, l]| _ |
+Cost: 0.1735342353779276
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, b, s, d]|[q, w, x, j, z, k, n, o]|[e, u, g, m]|
+| ' |[c, f, i, y, l]|[p, a, t, v, h]| _ |
+Cost: 0.10367784260932361
+
+| word0 | word1 | word2 | n -> |
+|[r, s, t, e, v, w, i]|[p, b, y, l, m]|[a, x, h, n, o]|
+| ' |[q, d, u, g, j, z]|[c, f, k]| _ |
+Cost: 1.1094095726089763
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, e, w, k]|[b, t, u, v, y]|[g, h, z, n, o]|
+| ' |[p, a, q, r, c, d, j]|[f, x, i, l, m]| _ |
+Cost: 0.10838274085475672
+
+| word0 | word1 | word2 | n -> |
+|[t, f, v, j, o]|[c, d, w, i, y]|[p, r, s, u, l]|
+| ' |[q, b, x, k, m, n]|[a, e, g, h, z]| _ |
+Cost: 0.1744078995270523
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, v, l, o]|[a, r, w, y, k]|[d, e, f, m]|
+| ' |[q, b, c, g, x, i, j, n]|[p, t, u, h, z]| _ |
+Cost: 0.10281638382434616
+
+| word0 | word1 | word2 | n -> |
+|[p, s, c, u, g, h, x, z]|[q, m]|[a, b, d, t, e, f, o]|
+| ' |[v, w, k]|[r, i, y, j, l, n]| _ |
+Cost: 0.29717438501410437
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, u, h, x, j, n]|[p, q, r, t, i, m]|[b, f, z, k, l, o]|
+| ' |[e, g, w]|[a, s, v, y]| _ |
+Cost: 0.10496270953498042
+
+| word0 | word1 | word2 | n -> |
+|[b, s, v, h, m, o]|[c, u]|[r, t, g, x, i, z]|
+| ' |[e, y, j, k]|[p, q, a, d, f, w, l, n]| _ |
+Cost: 0.19041627680836207
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, v, h, x, o]|[s, e, m]|[a, r, t, y]|
+| ' |[b, c, u, z, k, n]|[p, q, f, g, w, i, j, l]| _ |
+Cost: 0.09791008773288931
+
+| word0 | word1 | word2 | n -> |
+|[q, d, h, k, n]|[p, a, s, t, e, u, g, z, l, m]|[r, f, y, o]|
+| ' |[c, v, x, i]|[b, w, j]| _ |
+Cost: 0.21348848172022827
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, h, i, z, k, n]|[a, r, c, d]|[f, l, m, o]|
+| ' |[b, t, u, v, y]|[s, e, g, w, x, j]| _ |
+Cost: 0.09467956367380817
+
+| word0 | word1 | word2 | n -> |
+|[q, b, x, k]|[a, d, w, j]|[p, r, s, t, h, l, m, n]|
+| ' |[c, o]|[e, u, f, v, g, y, i, z]| _ |
+Cost: 0.21990063709657362
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, r, b, e, g]|[a, w, j, k, n]|[t, v, h, m]|
+| ' |[c, d, x, l, o]|[s, u, f, i, y, z]| _ |
+Cost: 0.09368158442271236
+
+| word0 | word1 | word2 | n -> |
+|[s, u, f]|[q, h, j, l, m]|[a, r, t, d, v, g, x, y, i, o]|
+| ' |[p, b, w, n]|[c, e, z, k]| _ |
+Cost: 0.23344058719195618
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[s, u, f, v]|[a, q, t, h, m]|[c, d, x, l, o]|
+| ' |[p, w, i, y, j, k, n]|[r, b, e, g, z]| _ |
+Cost: 0.09561010351865593
+
+| word0 | word1 | word2 | n -> |
+|[q, v]|[p, b, c, w, h, y, m, o]|[d, u, g, x, j, n]|
+| ' |[a, r, i, z]|[s, t, e, f, k, l]| _ |
+Cost: 0.2755141095859433
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, s, e, z]|[v, g, w, y, o]|[c, d, h, i, j, n]|
+| ' |[a, r, t, k]|[p, u, f, x, l, m]| _ |
+Cost: 0.09151119901119567
+
+| word0 | word1 | word2 | n -> |
+|[v, f, w, g, h, z]|[c, o]|[p, d, e, x, y, j, m, n]|
+| ' |[a, r, s, t, u, k, l]|[q, b, i]| _ |
+Cost: 1.074087279726787
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, f, w, z, m]|[c, d, l, o]|[p, r, g, i, y, j]|
+| ' |[s, u, h, x, k, n]|[a, q, b, t, v]| _ |
+Cost: 0.09191170206234389
+
+| word0 | word1 | word2 | n -> |
+|[s, v, h, i, k, o]|[d, j]|[c, u, y, z]|
+| ' |[a, q, b, t, e, f, w, x, l, m]|[p, r, g, n]| _ |
+Cost: 1.0944455206089918
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, s, z, k, o]|[p, t, i, m]|[r, c, d, u, h, y]|
+| ' |[a, f, v, w, x, l]|[b, e, g, j, n]| _ |
+Cost: 0.09453544135981586
+
+| word0 | word1 | word2 | n -> |
+|[p, t, d, e, v, h, i, m]|[b, r, s, g, k]|[u]|
+| ' |[a, x, z, l, o]|[q, c, f, w, y, j, n]| _ |
+Cost: 0.20549164625548588
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, u, h, k, n]|[b, e, g, z, m]|[a, r, t, y]|
+| ' |[c, d, v, x, l, o]|[s, f, w, i, j]| _ |
+Cost: 0.08801650666190478
+
+| word0 | word1 | word2 | n -> |
+|[r, e, w, m]|[p, s, c, u, x, k]|[d, t, f, g, h, i]|
+| ' |[a, v, y, j, z, o]|[q, b, l, n]| _ |
+Cost: 0.13573777855673694
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, g, w, y, m]|[r, s, x, i, k]|[p, d, u, f, h, j]|
+| ' |[t, v, l, o]|[q, b, c, e, z, n]| _ |
+Cost: 0.08984778697792419
+
+| word0 | word1 | word2 | n -> |
+|[p, a, q, t, e, f, w, h, j]|[c, s, d, u, v, z, l]|[n]|
+| ' |[r, g, i, k, m]|[b, x, y, o]| _ |
+Cost: 1.0723638433281806
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, w, j, z, k, o]|[p, d, v, h, i, l]|[a, s, x, n]|
+| ' |[e, g, m]|[b, c, t, u, f, y]| _ |
+Cost: 0.08794926166490616
+
+| word0 | word1 | word2 | n -> |
+|[p, q, s, v, f, h, j, l]|[b, e, w, n]|[a, g, o]|
+| ' |[r, c, d, u, x, i, y, z, k, m]|[t]| _ |
+Cost: 1.0140600135127924
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, f, h, m]|[c, e, w, n]|[s, d, v, x, o]|
+| ' |[b, u, g, y, z, k, l]|[p, r, t, i, j]| _ |
+Cost: 0.08863764878622164
+
+| word0 | word1 | word2 | n -> |
+|[f, x, i, j]|[d, v, n]|[p, r, s, u, y, l]|
+| ' |[c, g, k, o]|[q, a, b, t, e, w, h, z, m]| _ |
+Cost: 0.166751285096647
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, f, g, w, z, m]|[p, a, h, j, n]|[t, i, y]|
+| ' |[c, d, v, l, o]|[q, r, b, s, u, x, k]| _ |
+Cost: 0.0825533178659814
+
+| word0 | word1 | word2 | n -> |
+|[p, a, q, j]|[s, t, v, w, x, m]|[c, f, i]|
+| ' |[b, u, e, h, y, n]|[r, d, g, z, k, l, o]| _ |
+Cost: 0.16436821194475437
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, q, r, t]|[e, h, z, m]|[s, d, f, w, i]|
+| ' |[p, b, c, u, x, j, k, n]|[v, g, y, l, o]| _ |
+Cost: 0.0839736258429554
+
+| word0 | word1 | word2 | n -> |
+|[b, r, s, u, l]|[a, c, f, w, h, i, n]|[p, q, t, y, j, z]|
+| ' |[e, x, k, m]|[d, v, g, o]| _ |
+Cost: 0.14842312939009786
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, u, n]|[p, a, d, f, w, j]|[q, r, c, t, i]|
+| ' |[e, h, x, z, k, m]|[v, g, y, l, o]| _ |
+Cost: 0.08297399094561919
+
+| word0 | word1 | word2 | n -> |
+|[q, b, d]|[r, v, g, k, m]|[u, e, w, h, l]|
+| ' |[s, f, x, i, y, o]|[p, a, c, t, z, j, n]| _ |
+Cost: 0.1472690739974544
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, b, e, g, z]|[c, t, h, i, k]|[d, u, f, v, w, x, y]|
+| ' |[s, j, l, o]|[p, a, m, n]| _ |
+Cost: 0.08094470863774508
+
+| word0 | word1 | word2 | n -> |
+|[a, r]|[v, j, z, l]|[c, d, t, u, h, o]|
+| ' |[b, e, w, x, k, m]|[p, q, s, f, g, i, y, n]| _ |
+Cost: 0.1482940136632407
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, s, y]|[b, t, e, v]|[c, d, h, j, o]|
+| ' |[u, w, x, z, k, l, n]|[p, q, f, g, i, m]| _ |
+Cost: 0.07704754832115163
+
+| word0 | word1 | word2 | n -> |
+|[p, c, d, v, h, x, k, o]|[q, b, n]|[r, g, w, y, i, z]|
+| ' |[s, t, u]|[a, e, f, j, l, m]| _ |
+Cost: 1.0042673562934017
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, v, h, l, o]|[q, b, c, e, j]|[p, r, g, w, i, y, z]|
+| ' |[s, u, x, k, n]|[a, t, f, m]| _ |
+Cost: 0.07210974553625152
+
+| word0 | word1 | word2 | n -> |
+|[u, v, w, l]|[e, f, g, h, y, i]|[a, t, x, j, k]|
+| ' |[b, s, d, z, m, n, o]|[p, q, r, c]| _ |
+Cost: 0.15561505382048466
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, e, v, g, w]|[s, f, h, i, y, z]|[r, b, t, j]|
+| ' |[d, l, m, o]|[a, q, c, u, x, k, n]| _ |
+Cost: 0.07758861223444564
+
+| word0 | word1 | word2 | n -> |
+|[p, v, m]|[b, c, d, g, h, k]|[a, r, e, f, w, x, l, n, o]|
+| ' |[q, t, y, j]|[s, u, i, z]| _ |
+Cost: 0.19454827578579909
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, e, v, j]|[b, s, u, k, n]|[f, g, w, m, o]|
+| ' |[a, q, t, y]|[p, r, h, x, i, z, l]| _ |
+Cost: 0.07460007778022648
+
+| word0 | word1 | word2 | n -> |
+|[w, g, i, j, l]|[p, t, u, f]|[a, e, h, o]|
+| ' |[q, c, d, k]|[r, b, s, v, x, y, z, m, n]| _ |
+Cost: 0.14642698215282873
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, w, i, y]|[c, d, u, f, x, j, l]|[t, h, o]|
+| ' |[q, e, v, g, m]|[a, b, s, z, k, n]| _ |
+Cost: 0.06892128202019909
+
+| word0 | word1 | word2 | n -> |
+|[q, f, i, k]|[a, d, v, x, z, l, n]|[b, c, u, w, h, j, m, o]|
+| ' |[p, e]|[r, s, t, g, y]| _ |
+Cost: 0.1363192510026964
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, f, x, l, m, o]|[b, s, e, j, z, k]|[p, d, v, w, i, n]|
+| ' |[r, t, u, h]|[a, c, g, y]| _ |
+Cost: 0.07145751159410983
+
+| word0 | word1 | word2 | n -> |
+|[q, s, e, v, g, x, l, n]|[b, t, z, m, o]|[p, a, c, f, y, j]|
+| ' |[u]|[r, d, w, h, i, k]| _ |
+Cost: 0.12892212190782074
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, g, x, i, m, n]|[r, b, c, j, z, k, o]|[a, s, y]|
+| ' |[t, e, h]|[d, u, f, v, w, l]| _ |
+Cost: 0.07464220007807769
+
+| word0 | word1 | word2 | n -> |
+|[r, s, e, f, o]|[p, a, b, d, i, k]|[q, c, u, v, g, h, j]|
+| ' |[t, w, x, n]|[y, z, l, m]| _ |
+Cost: 1.0603382559529155
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[f, g, m, o]|[r, b, c, d, u]|[q, s, e, h, j]|
+| ' |[p, v, w, x, i, z, k, l, n]|[a, t, y]| _ |
+Cost: 0.06962642508136031
+
+| word0 | word1 | word2 | n -> |
+|[p, t, m]|[c, w, k, o]|[u, g, x, y, z, n]|
+| ' |[a, r, s, d, e, f, l]|[q, b, v, h, i, j]| _ |
+Cost: 0.1262900297885762
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, v, h, i, y]|[r, w, k, o]|[s, u, g, x, z, n]|
+| ' |[a, d, f, m]|[q, b, c, e, j, l]| _ |
+Cost: 0.06692743111479545
+
+| word0 | word1 | word2 | n -> |
+|[p, r, s, c, e, v, x, o]|[a, q, t, f, h, i, k]|[g]|
+| ' |[b, u, w, j]|[d, y, z, l, m, n]| _ |
+Cost: 0.16936133316817634
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, v, x, l, o]|[p, a, q, r, h, z, k]|[b, e, f, g, m]|
+| ' |[s, u, w, j, n]|[c, t, i, y]| _ |
+Cost: 0.06332376045442073
+
+| word0 | word1 | word2 | n -> |
+|[t, w, y, j]|[s, x, k]|[p, r, e, h, z, n]|
+| ' |[a, q, u, i, l, m]|[b, c, d, f, v, g, o]| _ |
+Cost: 0.13463560845316092
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, v, w, i, y]|[s, e, g, m]|[c, d, u, h, x, j, k, n]|
+| ' |[a, q, r, t]|[b, f, z, l, o]| _ |
+Cost: 0.0680673924152903
+
+| word0 | word1 | word2 | n -> |
+|[a, b, t, e, u, h, y, i, n]|[q, v, z]|[f, o]|
+| ' |[r, d, w, g, x, j]|[p, s, c, k, l, m]| _ |
+Cost: 1.1274707111503015
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, t, u, f, y]|[p, q, c, d, i, n]|[s, z, l, o]|
+| ' |[r, e, v, g, w, j]|[a, h, x, k, m]| _ |
+Cost: 0.06519302169403943
+
+| word0 | word1 | word2 | n -> |
+|[a, t, d, e, y, k]|[c, g, l]|[q, b, v, h, x, z, m, n]|
+| ' |[r, u, f, w, j]|[p, s, i, o]| _ |
+Cost: 1.0659066821830478
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, s, h, k]|[d, e, g, m]|[q, b, c, i, y, z, l]|
+| ' |[p, t, u, f, v]|[w, x, j, n, o]| _ |
+Cost: 0.06487248116691381
+
+| word0 | word1 | word2 | n -> |
+|[s, c, v, x, n]|[a, b, h, i, l]|[d, f, w, g, j, z]|
+| ' |[q, r, u, k, o]|[p, t, e, y, m]| _ |
+Cost: 0.1274319358426339
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, w, j, n]|[p, r, t, u, h]|[e, f, g, x, z, m]|
+| ' |[q, c, d, v, l, o]|[b, s, i, y, k]| _ |
+Cost: 0.05697665400527536
+
+| word0 | word1 | word2 | n -> |
+|[q, a, g]|[r, f, h, i, n]|[s, u, z]|
+| ' |[b, d, t, e, x, y, j, k]|[p, c, v, w, l, m, o]| _ |
+Cost: 0.11363000438205825
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, q, t]|[r, f, h, x, i]|[b, s, e, j, z]|
+| ' |[c, d, u, y, k, l]|[v, g, w, m, n, o]| _ |
+Cost: 0.06294992430351672
+
+| word0 | word1 | word2 | n -> |
+|[c, d, t, i, k, l]|[b]|[f, v, h, x, j, m, n]|
+| ' |[q, r, s, y, z, o]|[p, a, e, u, g, w]| _ |
+Cost: 1.0240358723352085
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, v, h, x, i]|[r, b, d, e, j]|[a, f, y, m]|
+| ' |[q, c, g, z, l, o]|[s, u, w, k, n]| _ |
+Cost: 0.055382417344323906
+
+| word0 | word1 | word2 | n -> |
+|[q, c, t, i, m]|[a, f, x, j]|[r, w, y]|
+| ' |[s, d, e, g, l, n, o]|[p, b, u, v, h, z, k]| _ |
+Cost: 0.11459100802958673
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, t, i, j, k]|[a, s, f, z, m]|[r, g, w, h, y]|
+| ' |[c, d, x, l, o]|[b, e, u, v, n]| _ |
+Cost: 0.055782570359662866
+
+| word0 | word1 | word2 | n -> |
+|[r, d, g, i, z, k, l]|[t, y, m, n]|[p, s, e, w]|
+| ' |[c, v, f, o]|[q, a, b, u, x, h, j]| _ |
+Cost: 0.09631335493209622
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, r, d, z, k]|[f, h, x, i, l]|[s, e, w, j]|
+| ' |[v, g, m, n, o]|[q, b, c, t, u, y]| _ |
+Cost: 0.056080648217399644
+
+| word0 | word1 | word2 | n -> |
+|[q, h]|[c, f, v, x, y, z]|[p, b, r, s, d, m]|
+| ' |[t, u, w, i, j, k, n, o]|[a, e, g, l]| _ |
+Cost: 0.12908002000944385
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, t, h]|[c, u, f, i, y, l]|[a, b, s, d, v]|
+| ' |[w, x, j, z, k, n, o]|[p, e, g, m]| _ |
+Cost: 0.053794717990488135
+
+| word0 | word1 | word2 | n -> |
+|[b, e, w, x, y, k, m]|[r, v, l]|[q, a, s, d, t, i, j]|
+| ' |[p, u, g, h, z, n]|[c, f, o]| _ |
+Cost: 0.10279734235008825
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, b, e, g, j, z, k]|[a, c, t, v, y]|[r, s, w, i]|
+| ' |[p, d, u, h, n]|[f, x, l, m, o]| _ |
+Cost: 0.05122426957913644
+
+| word0 | word1 | word2 | n -> |
+|[q, v, w, g, y, j, n]|[s, d, t, k, l]|[p, a, r, c, e, u, f, i, m]|
+| ' |[h, o]|[b, x, z]| _ |
+Cost: 0.13677046153907166
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, u, g, w, x, j, z, n]|[r, c, d, i, l]|[a, f, y, m]|
+| ' |[s, h, k, o]|[b, t, e, v]| _ |
+Cost: 0.05141909425507443
+
+| word0 | word1 | word2 | n -> |
+|[p, c, d, t, u, w, h, x, y, i]|[b, z]|[a, j, k]|
+| ' |[q, r, e, g, m, o]|[s, v, f, l, n]| _ |
+Cost: 1.0445002617693826
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, u, w, x, l, n]|[b, e, v, g, j, z]|[a, c, t, y]|
+| ' |[q, r, k, m, o]|[s, d, f, h, i]| _ |
+Cost: 0.04498344395076391
+
+| word0 | word1 | word2 | n -> |
+|[b, t, g, x, y, j, k]|[p, a, r, c, o]|[u, e, v, i, z]|
+| ' |[w, l]|[q, s, d, f, h, m, n]| _ |
+Cost: 0.08648463052753513
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, b, v, g, y]|[r, c, x, k, l, o]|[t, i, z, m]|
+| ' |[e, w, j, n]|[q, s, d, u, f, h]| _ |
+Cost: 0.04741280606063257
+
+| word0 | word1 | word2 | n -> |
+|[p, a, b, d, t, u, x, m]|[r, c, w, j, l]|[v, h]|
+| ' |[q, s, e, g, z]|[f, i, y, k, n, o]| _ |
+Cost: 0.09768073561066491
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, d, u, n]|[r, w, i, y, z]|[p, a, t, v, h]|
+| ' |[q, e, g, l, m]|[c, f, x, j, k, o]| _ |
+Cost: 0.04478076462331194
+
+| word0 | word1 | word2 | n -> |
+|[a, q, t]|[p, s, c, d, e, h, i, y, j, o]|[b, f, g, w, x, l]|
+| ' |[v, z, m, n]|[r, u, k]| _ |
+Cost: 0.0983580906543716
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, t, e, h]|[b, c, y, k, o]|[d, u, f, w, l, m]|
+| ' |[p, a, v, g, x, j, z, n]|[r, s, i]| _ |
+Cost: 0.04840090062880563
+
+| word0 | word1 | word2 | n -> |
+|[b, r, g, h, i, j, k]|[w, x, m]|[q, f, v, y, l]|
+| ' |[p, t, d, u, e, o]|[a, s, c, z, n]| _ |
+Cost: 0.08410135966105038
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, b, u, g, j, k]|[e, w, m, n]|[p, q, t, f, v, i]|
+| ' |[c, d, x, l, o]|[a, s, h, y, z]| _ |
+Cost: 0.04401158335370943
+
+| word0 | word1 | word2 | n -> |
+|[d, u, n, o]|[p, s, w, y, z]|[c, v, f, g, k, l]|
+| ' |[a, r, e, x, m]|[q, b, t, h, i, j]| _ |
+Cost: 0.07787423319144329
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, v, l, o]|[p, s, u, w, x, i, y, j, z]|[e, f, g, m]|
+| ' |[a, h, k, n]|[q, r, b, t]| _ |
+Cost: 0.04126571824811213
+
+| word0 | word1 | word2 | n -> |
+|[w, n]|[p, b, d, t, u, v, f, g, m]|[h, i, z, k, o]|
+| ' |[q, a, r, s, x, l]|[c, e, y, j]| _ |
+Cost: 0.07304419527117274
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, v, g, m]|[b, s, u, f, y, z]|[c, d, h, x, j, o]|
+| ' |[a, q, w, k, l, n]|[p, r, t, i]| _ |
+Cost: 0.03829738230342021
+
+| word0 | word1 | word2 | n -> |
+|[d, v]|[u, w, y, j, m, n]|[c, e, x, i, l, o]|
+| ' |[p, a, q, r, s, f, z, k]|[b, t, g, h]| _ |
+Cost: 0.08100866041147063
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, e, g, m]|[w, i, y, j, k, n]|[d, u, v, x, l, o]|
+| ' |[a, q, s, f, h, z]|[r, b, c, t]| _ |
+Cost: 0.039479101983517007
+
+| word0 | word1 | word2 | n -> |
+|[r, c, e, v, f, h, x, l]|[p, q, d, w, i, j, o]|[b, t, g]|
+| ' |[a, n]|[s, u, y, z, k, m]| _ |
+Cost: 0.06287065160454983
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, v, h, i]|[q, s, d, o]|[r, b, c, e, g, j]|
+| ' |[a, w, x, k, n]|[u, f, y, z, l, m]| _ |
+Cost: 0.037589879007098176
+
+| word0 | word1 | word2 | n -> |
+|[c, t, u, w, y, k]|[s, g, x, j, o]|[r, e, f, l]|
+| ' |[q, i, m, n]|[p, a, b, d, v, h, z]| _ |
+Cost: 0.0568388679233746
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, s, w, y, z, k]|[c, v, g, x, l, o]|[t, f, i, m]|
+| ' |[q, b, e, j, n]|[p, r, d, u, h]| _ |
+Cost: 0.03625224107066449
+
+| word0 | word1 | word2 | n -> |
+|[a, c, t, i, o]|[q, z, l]|[r, b, d, e, u, v, w, x, h]|
+| ' |[p, g, y, j, n]|[s, f, k, m]| _ |
+Cost: 1.037825455420469
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, l, o]|[p, q, r, b, t, v, i, j]|[a, w, x, k, n]|
+| ' |[s, u, f, h, y, z]|[e, g, m]| _ |
+Cost: 0.034394572880427576
+
+| word0 | word1 | word2 | n -> |
+|[b, e, j]|[a, c, f, v, w, n]|[u, g, i, z, k]|
+| ' |[p, q, r, d, x, y, l, o]|[s, t, h, m]| _ |
+Cost: 0.0585689937850465
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, b, e, v, g, j]|[a, s, f, w, y]|[t, u, h, x, z, k]|
+| ' |[q, c, d, l, o]|[p, i, m, n]| _ |
+Cost: 0.032567670160496734
+
+| word0 | word1 | word2 | n -> |
+|[a, b, h, z]|[q, d, e, g, x, l, m]|[p, s, u, w, y, j]|
+| ' |[r, c, t, v, i, k, n]|[f, o]| _ |
+Cost: 0.057600904859644586
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[r, b, t]|[q, e, f, g, m]|[p, s, u, w, x, i, y, j, z]|
+| ' |[a, h, k, n]|[c, d, v, l, o]| _ |
+Cost: 0.03163705065688596
+
+| word0 | word1 | word2 | n -> |
+|[b, r, d, f, z]|[g, h, i, y, k, o]|[a, l, m]|
+| ' |[p, s, c, u, x, j, n]|[q, t, e, v, w]| _ |
+Cost: 0.05912506593814711
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, a, b, f, y, z]|[t, h, k, o]|[c, d, e, m]|
+| ' |[s, u, g, x, j, l, n]|[q, r, v, w, i]| _ |
+Cost: 0.031199619378751473
+
+| word0 | word1 | word2 | n -> |
+|[p, t, x, i, n]|[f, v, w]|[r, b, s, d, u, j, z, k]|
+| ' |[q, a, e, g, y, l, m]|[c, h, o]| _ |
+Cost: 1.0065144124930723
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, t, h, i, k]|[e, f, w, j]|[b, s, u, z, n]|
+| ' |[a, q, r, g, y, m]|[c, d, v, x, l, o]| _ |
+Cost: 0.028032231555133267
+
+| word0 | word1 | word2 | n -> |
+|[r, u, f, z, l, o]|[b, g]|[a, c, e, w, h, i, j, n]|
+| ' |[p, q, s, t, d, v, x, k, m]|[y]| _ |
+Cost: 1.0436561917872311
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, x, z, m, o]|[b, s, e, f]|[u, v, g, w, h, j, n]|
+| ' |[p, a, q, r, c, k]|[t, i, y, l]| _ |
+Cost: 0.027731118180688633
+
+| word0 | word1 | word2 | n -> |
+|[d, t, i, o]|[s, c, e, f, g, y, k]|[n]|
+| ' |[p, q, r, v, w, x, h, l, m]|[a, b, u, z, j]| _ |
+Cost: 0.055830524329017514
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[d, w, l, o]|[a, f, v, g, y, z, m]|[s, x, i, n]|
+| ' |[p, q, r, c, h, j]|[b, t, e, u, k]| _ |
+Cost: 0.02624111352373598
+
+| word0 | word1 | word2 | n -> |
+|[b, r, s, x, k, o]|[c, t, f, v, l]|[a, d, h, z]|
+| ' |[e, g, y, j, m]|[p, q, u, w, i, n]| _ |
+Cost: 0.034445530635198514
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, s, y, z, k, o]|[t, u, f, l]|[c, d, e, h, x, j]|
+| ' |[r, v, g, i, m]|[p, a, q, w, n]| _ |
+Cost: 0.02614060482320591
+
+| word0 | word1 | word2 | n -> |
+|[s, c, v, f, x, m]|[a, b, g, j, z, l]|[q, w, y, o]|
+| ' |[r, d, u, h, i]|[p, t, e, k, n]| _ |
+Cost: 0.04289288229395867
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, f, y, m]|[r, b, e, g, j, z]|[q, c, d, v, x, l, o]|
+| ' |[p, t, u, h]|[s, w, i, k, n]| _ |
+Cost: 0.022067493558781976
+
+| word0 | word1 | word2 | n -> |
+|[p, a, s, x, l, n]|[c, w, k]|[e, f, o]|
+| ' |[q, b, r, t, u, v, h, j, m]|[d, g, i, y, z]| _ |
+Cost: 1.0118205918288012
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, d, h, i, n]|[s, e, v, w, x, j]|[f, l, m, o]|
+| ' |[q, r, b, t, u]|[a, c, g, y, z, k]| _ |
+Cost: 0.022752313498989978
+
+| word0 | word1 | word2 | n -> |
+|[p, f, v, g, h, m, o]|[d, e, x, n]|[q, t, w, j, l]|
+| ' |[a, c, s, u, k]|[r, b, i, y, z]| _ |
+Cost: 1.0083128910272254
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, q, t, u, v, h]|[a, x, z, m, n]|[r, f, g, w, i, y]|
+| ' |[b, s, e, j, k]|[c, d, l, o]| _ |
+Cost: 0.020205522913917567
+
+| word0 | word1 | word2 | n -> |
+|[b, s, c, f, g, y]|[p, t, i]|[x, h]|
+| ' |[e, v, j, k, l, m]|[a, q, r, d, u, w, z, n, o]| _ |
+Cost: 0.043152573772704886
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[b, c, f, g, i, y]|[a, r, t]|[s, e, h, j, z]|
+| ' |[p, u, k, l, m, n]|[q, d, v, w, x, o]| _ |
+Cost: 0.020426569811306534
+
+| word0 | word1 | word2 | n -> |
+|[p, q, i, k, l, o]|[v, h, z, j]|[a, c, s, e, u, y, m]|
+| ' |[b, d, t, w, x, n]|[r, f, g]| _ |
+Cost: 1.0158532761608179
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, h, k, l, o]|[p, c, d, u, n]|[a, s, v, y, z]|
+| ' |[e, g, w, x, m]|[b, t, f, i, j]| _ |
+Cost: 0.0178171808802332
+
+| word0 | word1 | word2 | n -> |
+|[a, c, v, g, h, l]|[u, f, x, y, j]|[b, t, d, w, z]|
+| ' |[q, r, s, e, i, m, n, o]|[p, k]| _ |
+Cost: 0.046693457462179275
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, g, w, m]|[s, u, f, h, y, z]|[b, e, v, n]|
+| ' |[q, d, x, j, l, o]|[p, c, t, i, k]| _ |
+Cost: 0.016362997380763696
+
+| word0 | word1 | word2 | n -> |
+|[p, v, f, h, l]|[b, s, c, u, w, x, j, m, o]|[e, k, n]|
+| ' |[q, d, g, y]|[a, r, t, i, z]| _ |
+Cost: 0.030855321203992103
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, u, f, g, y, z]|[d, v, w, x, j, o]|[s, h, i, n]|
+| ' |[q, b, c, e, l]|[a, r, t, k, m]| _ |
+Cost: 0.015382032161702234
+
+| word0 | word1 | word2 | n -> |
+|[a, c, y]|[d, g, w, i, j]|[p, q, b, s, t, f, h]|
+| ' |[e, v, z, k, l, o]|[r, u, x, m, n]| _ |
+Cost: 0.0280349926732944
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, h, j, k]|[e, g, w, z, m]|[q, b, s, f, i, y]|
+| ' |[t, v, l, o]|[p, c, d, u, x, n]| _ |
+Cost: 0.014035277979472566
+
+| word0 | word1 | word2 | n -> |
+|[p, r, c, t, u, g]|[q, a]|[b, i, y, j, z, o]|
+| ' |[s, e, f, w, x, h]|[d, v, k, l, m, n]| _ |
+Cost: 0.028046647477498694
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[e, g, z, m]|[p, a, q, r, t]|[b, c, v, y, l, o]|
+| ' |[d, f, w, i]|[s, u, h, x, j, k, n]| _ |
+Cost: 0.012808885158258588
+
+| word0 | word1 | word2 | n -> |
+|[s, u, e, v, h, y, k]|[a, c, g, n]|[q, r, t, d, f, w, j, l, m, o]|
+| ' |[b, i]|[p, x, z]| _ |
+Cost: 0.027930658864735395
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, v, h, x, i, y, z, l]|[a, q, d, k, n]|[f, g, w, m, o]|
+| ' |[r, c, t, u]|[b, s, e, j]| _ |
+Cost: 0.011676781208641048
+
+| word0 | word1 | word2 | n -> |
+|[a, e, x, i, o]|[q, c, d, u, v, g, h]|[r, b, s, t, j, z, n]|
+| ' |[y, k, l, m]|[p, f, w]| _ |
+Cost: 1.015413743731314
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, t, k, o]|[q, d, e, h, x, l]|[b, s, u, g, j, z, n]|
+| ' |[a, f, v, y, m]|[p, r, w, i]| _ |
+Cost: 0.009668614698027878
+
+| word0 | word1 | word2 | n -> |
+|[s, d, e, l]|[c, w, y]|[q, a, u, i, n]|
+| ' |[p, r, b, t, g, h, o]|[f, v, x, j, z, k, m]| _ |
+Cost: 1.0051145110418698
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[c, d, e, m]|[s, u, w, k, n]|[q, f, h, x, o]|
+| ' |[p, r, b, g, i, y, j, z]|[a, t, v, l]| _ |
+Cost: 0.008124889735827916
+
+| word0 | word1 | word2 | n -> |
+|[a, c, d, e, k]|[g, y, z]|[q, r, s, v, o]|
+| ' |[b, h, j, n]|[p, t, u, f, w, x, i, l, m]| _ |
+Cost: 0.013237821044164984
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[a, r, s, h, k]|[t, v, i, y]|[q, c, d, l, o]|
+| ' |[p, b, u, g, x, j, z, n]|[e, f, w, m]| _ |
+Cost: 0.006764573952184972
+
+| word0 | word1 | word2 | n -> |
+|[v, w]|[b, x]|[a, q, t, d, u, h, z, m]|
+| ' |[p, s, c, y, k, n, o]|[r, e, f, g, i, j, l]| _ |
+Cost: 0.012676418915518671
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[w, i, l, n]|[r, b, e, v, g, j]|[p, q, d, u, h, y]|
+| ' |[c, t, x, k, o]|[a, s, f, z, m]| _ |
+Cost: 0.005668383819828851
+
+| word0 | word1 | word2 | n -> |
+|[r, s, g, h, z, j]|[t, d, o]|[u, x, y, m]|
+| ' |[p, q, v, w, i, l]|[a, b, c, e, f, k, n]| _ |
+Cost: 0.006223472247804204
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, r, s, f, i, z]|[d, h, l, o]|[u, x, y, m, n]|
+| ' |[q, e, v, g, w, j]|[a, b, c, t, k]| _ |
+Cost: 0.004361586990963775
+
+| word0 | word1 | word2 | n -> |
+|[q, g, z]|[a, b, c, u, f, y, n]|[t, v, h, i, j]|
+| ' |[d, x, k, l, m]|[p, r, s, e, w, o]| _ |
+Cost: 0.006018174372646619
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[q, r, b, e, g, j, z]|[s, u, f, w, y, k]|[p, t, v, h, i]|
+| ' |[a, m, n]|[c, d, x, l, o]| _ |
+Cost: 0.0027289029674459286
+
+| word0 | word1 | word2 | n -> |
+|[a, d, x, h, n]|[q, s, e, k, l]|[g, y, i, j, z, o]|
+| ' |[p, c, f, w]|[r, b, t, u, v, m]| _ |
+Cost: 0.0023994795517305045
+
+Top Keyboard
+| word0 | word1 | word2 | n -> |
+|[p, u, h, y, z, k, n]|[q, r, s, i, j]|[d, l, o]|
+| ' |[e, f, g, w, x, m]|[a, b, c, t, v]| _ |
+Cost: 0.0014201601730589393
+

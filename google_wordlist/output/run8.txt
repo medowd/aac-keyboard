@@ -1,0 +1,999 @@
+BREEDING 
+
+Initializing keyboards....
+Keyboards initialized.
+
+Cost: 5.636902
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m, o]
+4: [w, h, k]
+5: [c, u, v, z]
+6: [a, f, j]
+
+Cost: 5.742349
+0: [r, c, d, u]
+1: [s, t, h, x, y, o]
+2: [p, m]
+3: [b, v, f, i, z, j]
+4: [k, l, n]
+5: [q, e]
+6: [a, w, g]
+
+Cost: 5.848819
+0: [p, t, u, g]
+1: [w, x, i, o]
+2: [h, n]
+3: [a, v, y]
+4: [b, e]
+5: [s, d, f, k]
+6: [q, r, c, j, z, l, m]
+
+Cost: 6.527393
+0: [a, d, e, w]
+1: [b, m]
+2: [r, c, u, o]
+3: [p, g, z, j, l]
+4: [s]
+5: [q, t, f, h, i, k, n]
+6: [v, x, y]
+
+Cost: 6.550945
+0: [p, b, d]
+1: [r, s, t, x, i, n]
+2: [q, v, f]
+3: [a, c, h, m]
+4: [u, y, j, o]
+5: [w, g, z, l]
+6: [e, k]
+
+---EVOLUTION LEVEL 1---
+
+Cost: 5.636902
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m, o]
+4: [w, h, k]
+5: [c, u, v, z]
+6: [a, f, j]
+
+Cost: 5.742349
+0: [r, c, d, u]
+1: [s, t, h, x, y, o]
+2: [p, m]
+3: [b, v, f, i, z, j]
+4: [k, l, n]
+5: [q, e]
+6: [a, w, g]
+
+Cost: 5.747954
+0: [r, c, d, u]
+1: [s, t, h, x, y, o]
+2: [p, k, m]
+3: [b, v, f, i, z, j]
+4: [l, n]
+5: [q, e]
+6: [a, w, g]
+
+Cost: 5.848819
+0: [p, t, u, g]
+1: [w, x, i, o]
+2: [h, n]
+3: [a, v, y]
+4: [b, e]
+5: [s, d, f, k]
+6: [q, r, c, j, z, l, m]
+
+Cost: 5.979188
+0: [a, d, e, w]
+1: [b, m]
+2: [r, c, v, k]
+3: [p, g, z, j, l]
+4: [s, u]
+5: [q, t, f, h, i, n]
+6: [x, y, o]
+
+---EVOLUTION LEVEL 2---
+
+Cost: 5.636902
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m, o]
+4: [w, h, k]
+5: [c, u, v, z]
+6: [a, f, j]
+
+Cost: 5.742349
+0: [r, c, d, u]
+1: [s, t, h, x, y, o]
+2: [p, m]
+3: [b, v, f, i, z, j]
+4: [k, l, n]
+5: [q, e]
+6: [a, w, g]
+
+Cost: 5.747954
+0: [r, c, d, u]
+1: [s, t, h, x, y, o]
+2: [p, k, m]
+3: [b, v, f, i, z, j]
+4: [l, n]
+5: [q, e]
+6: [a, w, g]
+
+Cost: 5.787643
+0: [r, c, d, u, y]
+1: [s, t, h, x, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [k, l, n]
+5: [q, e]
+6: [a, w, g]
+
+Cost: 5.848819
+0: [p, t, u, g]
+1: [w, x, i, o]
+2: [h, n]
+3: [a, v, y]
+4: [b, e]
+5: [s, d, f, k]
+6: [q, r, c, j, z, l, m]
+
+---EVOLUTION LEVEL 3---
+
+Cost: 5.584505
+0: [r, c, u, y]
+1: [s, t, h, x, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, w, g]
+
+Cost: 5.636902
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m, o]
+4: [w, h, k]
+5: [c, u, v, z]
+6: [a, f, j]
+
+Cost: 5.6922283
+0: [r, c, d, u, y]
+1: [s, h, x, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [k, l]
+5: [q, t, e, n]
+6: [a, w, g]
+
+Cost: 5.742349
+0: [r, c, d, u]
+1: [s, t, h, x, y, o]
+2: [p, m]
+3: [b, v, f, i, z, j]
+4: [k, l, n]
+5: [q, e]
+6: [a, w, g]
+
+Cost: 5.747954
+0: [r, c, d, u]
+1: [s, t, h, x, y, o]
+2: [p, k, m]
+3: [b, v, f, i, z, j]
+4: [l, n]
+5: [q, e]
+6: [a, w, g]
+
+---EVOLUTION LEVEL 4---
+
+Cost: 5.464069
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, h, j, k, o]
+5: [c, u, v, z]
+6: [a, f]
+
+Cost: 5.5263047
+0: [r, c, d, u, y]
+1: [s, h, x, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [w, k, l, n]
+5: [q, t, e]
+6: [a, g]
+
+Cost: 5.584505
+0: [r, c, u, y]
+1: [s, t, h, x, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, w, g]
+
+Cost: 5.636902
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m, o]
+4: [w, h, k]
+5: [c, u, v, z]
+6: [a, f, j]
+
+Cost: 5.6922283
+0: [r, c, d, u, y]
+1: [s, h, x, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [k, l]
+5: [q, t, e, n]
+6: [a, w, g]
+
+---EVOLUTION LEVEL 5---
+
+Cost: 5.464069
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, h, j, k, o]
+5: [c, u, v, z]
+6: [a, f]
+
+Cost: 5.5263047
+0: [r, c, d, u, y]
+1: [s, h, x, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [w, k, l, n]
+5: [q, t, e]
+6: [a, g]
+
+Cost: 5.5426
+0: [r, c, u]
+1: [s, t, h, x, j, o]
+2: [p, y, m]
+3: [b, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w]
+
+Cost: 5.584505
+0: [r, c, u, y]
+1: [s, t, h, x, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, w, g]
+
+Cost: 5.6134176
+0: [r, c, d, u, w, y]
+1: [s, h, x, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [k, l, n]
+5: [q, t, e]
+6: [a, g]
+
+---EVOLUTION LEVEL 6---
+
+Cost: 5.464069
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, h, j, k, o]
+5: [c, u, v, z]
+6: [a, f]
+
+Cost: 5.509818
+0: [r, c, d, u, y]
+1: [s, h, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [w, k, l, n]
+5: [t, e, x]
+6: [a, q, g]
+
+Cost: 5.5263047
+0: [r, c, d, u, y]
+1: [s, h, x, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [w, k, l, n]
+5: [q, t, e]
+6: [a, g]
+
+Cost: 5.5426
+0: [r, c, u]
+1: [s, t, h, x, j, o]
+2: [p, y, m]
+3: [b, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w]
+
+Cost: 5.584505
+0: [r, c, u, y]
+1: [s, t, h, x, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, w, g]
+
+---EVOLUTION LEVEL 7---
+
+Cost: 5.4033184
+0: [r, c, u, y]
+1: [s, h, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [d, x, k, l, n]
+5: [q, t, e, w]
+6: [a, g]
+
+Cost: 5.414305
+0: [r, c, u, x, y]
+1: [s, t, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [h, k, l, n]
+5: [q, d, e]
+6: [a, w, g]
+
+Cost: 5.4596148
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y, m]
+3: [t, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w]
+
+Cost: 5.464069
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, h, j, k, o]
+5: [c, u, v, z]
+6: [a, f]
+
+Cost: 5.5017734
+0: [r, c, u, g]
+1: [s, t, x, j, o]
+2: [p, y, m]
+3: [v, f, h, i, z]
+4: [k, l, n]
+5: [q, b, d, e]
+6: [a, w]
+
+---EVOLUTION LEVEL 8---
+
+Cost: 5.4033184
+0: [r, c, u, y]
+1: [s, h, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [d, x, k, l, n]
+5: [q, t, e, w]
+6: [a, g]
+
+Cost: 5.414305
+0: [r, c, u, x, y]
+1: [s, t, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [h, k, l, n]
+5: [q, d, e]
+6: [a, w, g]
+
+Cost: 5.4427853
+0: [r, c, x, y]
+1: [s, t, j, o]
+2: [p, m]
+3: [b, v, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.4596148
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y, m]
+3: [t, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w]
+
+Cost: 5.464069
+0: [q, b, t, x, i, n]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, h, j, k, o]
+5: [c, u, v, z]
+6: [a, f]
+
+---EVOLUTION LEVEL 9---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.3785143
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y]
+3: [t, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.4033184
+0: [r, c, u, y]
+1: [s, h, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [d, x, k, l, n]
+5: [q, t, e, w]
+6: [a, g]
+
+Cost: 5.414305
+0: [r, c, u, x, y]
+1: [s, t, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [h, k, l, n]
+5: [q, d, e]
+6: [a, w, g]
+
+Cost: 5.4427853
+0: [r, c, x, y]
+1: [s, t, j, o]
+2: [p, m]
+3: [b, v, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+---EVOLUTION LEVEL 10---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.3785143
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y]
+3: [t, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.4033184
+0: [r, c, u, y]
+1: [s, h, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [d, x, k, l, n]
+5: [q, t, e, w]
+6: [a, g]
+
+Cost: 5.414305
+0: [r, c, u, x, y]
+1: [s, t, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [h, k, l, n]
+5: [q, d, e]
+6: [a, w, g]
+
+---EVOLUTION LEVEL 11---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.3785143
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y]
+3: [t, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.4033184
+0: [r, c, u, y]
+1: [s, h, j, o]
+2: [p, v, m]
+3: [b, f, i, z]
+4: [d, x, k, l, n]
+5: [q, t, e, w]
+6: [a, g]
+
+Cost: 5.414305
+0: [r, c, u, x, y]
+1: [s, t, j, o]
+2: [p, m]
+3: [b, v, f, i, z]
+4: [h, k, l, n]
+5: [q, d, e]
+6: [a, w, g]
+
+---EVOLUTION LEVEL 12---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.371503
+0: [r, c, y]
+1: [s, t]
+2: [p, m, o]
+3: [b, v, x, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, u, f]
+6: [a, w, g]
+
+Cost: 5.3785143
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y]
+3: [t, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.3837066
+0: [r, c, u]
+1: [q, s, h, y, o]
+2: [p, v, m]
+3: [b, f, i, z, j]
+4: [d, x, k, l, n]
+5: [t, e, w]
+6: [a, g]
+
+---EVOLUTION LEVEL 13---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.371503
+0: [r, c, y]
+1: [s, t]
+2: [p, m, o]
+3: [b, v, x, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, u, f]
+6: [a, w, g]
+
+Cost: 5.3785143
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y]
+3: [t, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.3837066
+0: [r, c, u]
+1: [q, s, h, y, o]
+2: [p, v, m]
+3: [b, f, i, z, j]
+4: [d, x, k, l, n]
+5: [t, e, w]
+6: [a, g]
+
+---EVOLUTION LEVEL 14---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.3518486
+0: [r, c, u, y]
+1: [h, x, j, o]
+2: [p, s]
+3: [t, v, f, i, z]
+4: [b, k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.371503
+0: [r, c, y]
+1: [s, t]
+2: [p, m, o]
+3: [b, v, x, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, u, f]
+6: [a, w, g]
+
+Cost: 5.3785143
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y]
+3: [t, v, f, i, z]
+4: [k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+---EVOLUTION LEVEL 15---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.3518486
+0: [r, c, u, y]
+1: [h, x, j, o]
+2: [p, s]
+3: [t, v, f, i, z]
+4: [b, k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.371503
+0: [r, c, y]
+1: [s, t]
+2: [p, m, o]
+3: [b, v, x, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, u, f]
+6: [a, w, g]
+
+Cost: 5.374125
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y]
+3: [t, v, i, z]
+4: [k, l, n]
+5: [q, d, e, f]
+6: [a, g, w, m]
+
+---EVOLUTION LEVEL 16---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.3518486
+0: [r, c, u, y]
+1: [h, x, j, o]
+2: [p, s]
+3: [t, v, f, i, z]
+4: [b, k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.371503
+0: [r, c, y]
+1: [s, t]
+2: [p, m, o]
+3: [b, v, x, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, u, f]
+6: [a, w, g]
+
+Cost: 5.374125
+0: [r, c, u]
+1: [h, x, j, o]
+2: [p, b, s, y]
+3: [t, v, i, z]
+4: [k, l, n]
+5: [q, d, e, f]
+6: [a, g, w, m]
+
+---EVOLUTION LEVEL 17---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.345673
+0: [r, c, y]
+1: [p, s]
+2: [t, m, o]
+3: [b, v, x, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, u, f]
+6: [a, w, g]
+
+Cost: 5.3518486
+0: [r, c, u, y]
+1: [h, x, j, o]
+2: [p, s]
+3: [t, v, f, i, z]
+4: [b, k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.3598423
+0: [r, c]
+1: [s, t, x]
+2: [p, y, m, o]
+3: [q, b, v, i, z, j]
+4: [h, k, l, n]
+5: [d, e, u, f]
+6: [a, g, w]
+
+---EVOLUTION LEVEL 18---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.345673
+0: [r, c, y]
+1: [p, s]
+2: [t, m, o]
+3: [b, v, x, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, u, f]
+6: [a, w, g]
+
+Cost: 5.3518486
+0: [r, c, u, y]
+1: [h, x, j, o]
+2: [p, s]
+3: [t, v, f, i, z]
+4: [b, k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+Cost: 5.3598423
+0: [r, c]
+1: [s, t, x]
+2: [p, y, m, o]
+3: [q, b, v, i, z, j]
+4: [h, k, l, n]
+5: [d, e, u, f]
+6: [a, g, w]
+
+---EVOLUTION LEVEL 19---
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.344332
+0: [r, c, y]
+1: [p, s]
+2: [t, m, o]
+3: [b, v, x, i, j]
+4: [q, h, k, l, n]
+5: [d, e, u, f, z]
+6: [a, w, g]
+
+Cost: 5.345673
+0: [r, c, y]
+1: [p, s]
+2: [t, m, o]
+3: [b, v, x, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, u, f]
+6: [a, w, g]
+
+Cost: 5.3518486
+0: [r, c, u, y]
+1: [h, x, j, o]
+2: [p, s]
+3: [t, v, f, i, z]
+4: [b, k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.3556304
+0: [r, c, y]
+1: [s, t, j]
+2: [p, m, o]
+3: [b, v, x, i, z]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, u, w, g]
+
+---EVOLUTION LEVEL 20---
+
+Cost: 5.2660527
+0: [r, c, u, y]
+1: [p, s, x]
+2: [t, m, o]
+3: [b, v, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, w, g]
+
+Cost: 5.3316436
+0: [q, b, t, x, i]
+1: [p, r, d, y]
+2: [e, l]
+3: [s, g, m]
+4: [w, j, k, n, o]
+5: [c, u, v, f, z]
+6: [a, h]
+
+Cost: 5.339038
+0: [r, c, u, y]
+1: [t, h, x, j, o]
+2: [p, s]
+3: [v, f, i, z]
+4: [b, k, l, n]
+5: [q, d, e]
+6: [a, g, w, m]
+
+Cost: 5.344332
+0: [r, c, y]
+1: [p, s]
+2: [t, m, o]
+3: [b, v, x, i, j]
+4: [q, h, k, l, n]
+5: [d, e, u, f, z]
+6: [a, w, g]
+
+Cost: 5.345673
+0: [r, c, y]
+1: [p, s]
+2: [t, m, o]
+3: [b, v, x, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, u, f]
+6: [a, w, g]
+
+---TOP KEYBOARD AFTER 20 GENERATIONS---
+Cost: 5.2660527
+0: [r, c, u, y]
+1: [p, s, x]
+2: [t, m, o]
+3: [b, v, i, z, j]
+4: [h, k, l, n]
+5: [q, d, e, f]
+6: [a, w, g]

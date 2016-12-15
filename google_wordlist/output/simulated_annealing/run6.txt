@@ -1,0 +1,8 @@
+---TOP KEYBOARD---
+Cost: 5.5178256
+0: [r, c, x, k]
+1: [q, b, w, i, j, l]
+2: [p, a, d, y]
+3: [u, f, g, h, n]
+4: [t, z, m, o]
+5: [s, e, v]
